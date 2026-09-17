@@ -1,0 +1,5 @@
+{
+  "name": "StealAMillion.Core",
+  "rootNamespace": "StealAMillion.Core",
+  "noEngineReferences": true
+}

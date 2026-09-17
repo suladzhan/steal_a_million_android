@@ -1,0 +1,5 @@
+{
+  "name": "StealAMillion.Runtime",
+  "rootNamespace": "StealAMillion",
+  "references": ["StealAMillion.Core", "Unity.TextMeshPro", "Unity.ugui"]
+}

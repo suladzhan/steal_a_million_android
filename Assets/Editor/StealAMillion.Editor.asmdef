@@ -1,0 +1,6 @@
+{
+  "name": "StealAMillion.Editor",
+  "rootNamespace": "StealAMillion.Editor",
+  "references": ["StealAMillion.Core", "StealAMillion.Runtime", "Unity.TextMeshPro", "Unity.ugui"],
+  "includePlatforms": ["Editor"]
+}

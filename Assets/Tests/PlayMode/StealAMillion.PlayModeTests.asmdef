@@ -1,0 +1,5 @@
+{
+  "name": "StealAMillion.PlayModeTests",
+  "references": ["StealAMillion.Core", "StealAMillion.Runtime", "Unity.TextMeshPro", "Unity.ugui"],
+  "optionalUnityReferences": ["TestAssemblies"]
+}

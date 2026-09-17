@@ -1,0 +1,634 @@
+{
+  "decisions": [
+    {
+      "id": "decision_01",
+      "title": "Loose change",
+      "description": "A quiet start. Take the cash or open the lockbox.",
+      "specialBehavior": "",
+      "level": 1,
+      "difficulty": 1,
+      "riskProbability": 0.8,
+      "safeReward": {
+        "mode": 0,
+        "amount": 100
+      },
+      "riskWinReward": {
+        "mode": 0,
+        "amount": 250
+      },
+      "riskLossReward": {
+        "mode": 1,
+        "amount": 0
+      }
+    },
+    {
+      "id": "decision_02",
+      "title": "The back room",
+      "description": "One envelope is yours. The other is still sealed.",
+      "specialBehavior": "",
+      "level": 1,
+      "difficulty": 1,
+      "riskProbability": 0.75,
+      "safeReward": {
+        "mode": 0,
+        "amount": 250
+      },
+      "riskWinReward": {
+        "mode": 0,
+        "amount": 600
+      },
+      "riskLossReward": {
+        "mode": 0,
+        "amount": -100
+      }
+    },
+    {
+      "id": "decision_03",
+      "title": "Closing time",
+      "description": "The last drawer is within reach.",
+      "specialBehavior": "",
+      "level": 1,
+      "difficulty": 1,
+      "riskProbability": 0.65,
+      "safeReward": {
+        "mode": 0,
+        "amount": 500
+      },
+      "riskWinReward": {
+        "mode": 0,
+        "amount": 1200
+      },
+      "riskLossReward": {
+        "mode": 1,
+        "amount": 0
+      }
+    },
+    {
+      "id": "decision_04",
+      "title": "Side entrance",
+      "description": "A clean exit, or one more room?",
+      "specialBehavior": "",
+      "level": 2,
+      "difficulty": 2,
+      "riskProbability": 0.8,
+      "safeReward": {
+        "mode": 0,
+        "amount": 1000
+      },
+      "riskWinReward": {
+        "mode": 0,
+        "amount": 1800
+      },
+      "riskLossReward": {
+        "mode": 0,
+        "amount": -500
+      }
+    },
+    {
+      "id": "decision_05",
+      "title": "The lockbox",
+      "description": "The better lock guards the better prize.",
+      "specialBehavior": "",
+      "level": 2,
+      "difficulty": 2,
+      "riskProbability": 0.55,
+      "safeReward": {
+        "mode": 0,
+        "amount": 1500
+      },
+      "riskWinReward": {
+        "mode": 0,
+        "amount": 4200
+      },
+      "riskLossReward": {
+        "mode": 1,
+        "amount": 0
+      }
+    },
+    {
+      "id": "decision_06",
+      "title": "Quick getaway",
+      "description": "Keep moving, or stop for the hidden compartment?",
+      "specialBehavior": "",
+      "level": 2,
+      "difficulty": 2,
+      "riskProbability": 0.85,
+      "safeReward": {
+        "mode": 0,
+        "amount": 2250
+      },
+      "riskWinReward": {
+        "mode": 0,
+        "amount": 3100
+      },
+      "riskLossReward": {
+        "mode": 0,
+        "amount": -1500
+      }
+    },
+    {
+      "id": "decision_07",
+      "title": "Night shift",
+      "description": "A short window. A bigger opportunity.",
+      "specialBehavior": "",
+      "level": 3,
+      "difficulty": 3,
+      "riskProbability": 0.7,
+      "safeReward": {
+        "mode": 0,
+        "amount": 3000
+      },
+      "riskWinReward": {
+        "mode": 0,
+        "amount": 6500
+      },
+      "riskLossReward": {
+        "mode": 0,
+        "amount": -2500
+      }
+    },
+    {
+      "id": "decision_08",
+      "title": "Private office",
+      "description": "The obvious drawer is already open.",
+      "specialBehavior": "",
+      "level": 3,
+      "difficulty": 3,
+      "riskProbability": 0.4,
+      "safeReward": {
+        "mode": 0,
+        "amount": 4500
+      },
+      "riskWinReward": {
+        "mode": 0,
+        "amount": 14000
+      },
+      "riskLossReward": {
+        "mode": 0,
+        "amount": -4000
+      }
+    },
+    {
+      "id": "decision_09",
+      "title": "Double take",
+      "description": "Leave with your total, or put it all on the line.",
+      "specialBehavior": "double_or_lose",
+      "level": 3,
+      "difficulty": 3,
+      "riskProbability": 0.5,
+      "safeReward": {
+        "mode": 2,
+        "amount": 1
+      },
+      "riskWinReward": {
+        "mode": 2,
+        "amount": 2
+      },
+      "riskLossReward": {
+        "mode": 1,
+        "amount": 0
+      }
+    },
+    {
+      "id": "decision_10",
+      "title": "The archive",
+      "description": "A reliable find beside an unmarked safe.",
+      "specialBehavior": "",
+      "level": 4,
+      "difficulty": 4,
+      "riskProbability": 0.9,
+      "safeReward": {
+        "mode": 0,
+        "amount": 6500
+      },
+      "riskWinReward": {
+        "mode": 0,
+        "amount": 8000
+      },
+      "riskLossReward": {
+        "mode": 1,
+        "amount": 0
+      }
+    },
+    {
+      "id": "decision_11",
+      "title": "Hidden floor",
+      "description": "Another floor, another choice.",
+      "specialBehavior": "",
+      "level": 4,
+      "difficulty": 4,
+      "riskProbability": 0.6,
+      "safeReward": {
+        "mode": 0,
+        "amount": 9000
+      },
+      "riskWinReward": {
+        "mode": 0,
+        "amount": 20000
+      },
+      "riskLossReward": {
+        "mode": 0,
+        "amount": -6500
+      }
+    },
+    {
+      "id": "decision_12",
+      "title": "Blue envelope",
+      "description": "A small sure thing or a rare discovery.",
+      "specialBehavior": "jackpot",
+      "level": 4,
+      "difficulty": 4,
+      "riskProbability": 0.2,
+      "safeReward": {
+        "mode": 0,
+        "amount": 12500
+      },
+      "riskWinReward": {
+        "mode": 0,
+        "amount": 65000
+      },
+      "riskLossReward": {
+        "mode": 0,
+        "amount": -5000
+      }
+    },
+    {
+      "id": "decision_13",
+      "title": "Security room",
+      "description": "The next door closes quickly.",
+      "specialBehavior": "",
+      "level": 5,
+      "difficulty": 5,
+      "riskProbability": 0.75,
+      "safeReward": {
+        "mode": 0,
+        "amount": 16000
+      },
+      "riskWinReward": {
+        "mode": 0,
+        "amount": 27000
+      },
+      "riskLossReward": {
+        "mode": 0,
+        "amount": -12000
+      }
+    },
+    {
+      "id": "decision_14",
+      "title": "The collector",
+      "description": "A larger collection comes with a larger risk.",
+      "specialBehavior": "",
+      "level": 5,
+      "difficulty": 5,
+      "riskProbability": 0.5,
+      "safeReward": {
+        "mode": 0,
+        "amount": 20000
+      },
+      "riskWinReward": {
+        "mode": 0,
+        "amount": 50000
+      },
+      "riskLossReward": {
+        "mode": 0,
+        "amount": -16000
+      }
+    },
+    {
+      "id": "decision_15",
+      "title": "Silent alarm",
+      "description": "There is still time to walk away.",
+      "specialBehavior": "",
+      "level": 5,
+      "difficulty": 5,
+      "riskProbability": 0.85,
+      "safeReward": {
+        "mode": 0,
+        "amount": 25000
+      },
+      "riskWinReward": {
+        "mode": 0,
+        "amount": 31000
+      },
+      "riskLossReward": {
+        "mode": 1,
+        "amount": 0
+      }
+    },
+    {
+      "id": "decision_16",
+      "title": "The penthouse",
+      "description": "The upper floors raise the stakes.",
+      "specialBehavior": "",
+      "level": 6,
+      "difficulty": 6,
+      "riskProbability": 0.65,
+      "safeReward": {
+        "mode": 0,
+        "amount": 30000
+      },
+      "riskWinReward": {
+        "mode": 0,
+        "amount": 65000
+      },
+      "riskLossReward": {
+        "mode": 0,
+        "amount": -25000
+      }
+    },
+    {
+      "id": "decision_17",
+      "title": "Diamond room",
+      "description": "A rare opening in a guarded room.",
+      "specialBehavior": "",
+      "level": 6,
+      "difficulty": 6,
+      "riskProbability": 0.3,
+      "safeReward": {
+        "mode": 0,
+        "amount": 35000
+      },
+      "riskWinReward": {
+        "mode": 0,
+        "amount": 145000
+      },
+      "riskLossReward": {
+        "mode": 0,
+        "amount": -20000
+      }
+    },
+    {
+      "id": "decision_18",
+      "title": "All in the bag",
+      "description": "Keep the entire bag, or double its contents.",
+      "specialBehavior": "double_or_lose",
+      "level": 6,
+      "difficulty": 6,
+      "riskProbability": 0.48,
+      "safeReward": {
+        "mode": 2,
+        "amount": 1
+      },
+      "riskWinReward": {
+        "mode": 2,
+        "amount": 2
+      },
+      "riskLossReward": {
+        "mode": 1,
+        "amount": 0
+      }
+    },
+    {
+      "id": "decision_19",
+      "title": "Inner circle",
+      "description": "Every door now carries a price.",
+      "specialBehavior": "",
+      "level": 7,
+      "difficulty": 7,
+      "riskProbability": 0.8,
+      "safeReward": {
+        "mode": 0,
+        "amount": 45000
+      },
+      "riskWinReward": {
+        "mode": 0,
+        "amount": 65000
+      },
+      "riskLossReward": {
+        "mode": 0,
+        "amount": -55000
+      }
+    },
+    {
+      "id": "decision_20",
+      "title": "Red corridor",
+      "description": "A tempting shortcut to the vault.",
+      "specialBehavior": "",
+      "level": 7,
+      "difficulty": 7,
+      "riskProbability": 0.45,
+      "safeReward": {
+        "mode": 0,
+        "amount": 50000
+      },
+      "riskWinReward": {
+        "mode": 0,
+        "amount": 145000
+      },
+      "riskLossReward": {
+        "mode": 0,
+        "amount": -60000
+      }
+    },
+    {
+      "id": "decision_21",
+      "title": "Emergency exit",
+      "description": "The safe route is right in front of you.",
+      "specialBehavior": "",
+      "level": 7,
+      "difficulty": 7,
+      "riskProbability": 0.9,
+      "safeReward": {
+        "mode": 0,
+        "amount": 55000
+      },
+      "riskWinReward": {
+        "mode": 0,
+        "amount": 63000
+      },
+      "riskLossReward": {
+        "mode": 1,
+        "amount": 0
+      }
+    },
+    {
+      "id": "decision_22",
+      "title": "The decoy",
+      "description": "One compartment is empty. One is worth the trouble.",
+      "specialBehavior": "",
+      "level": 8,
+      "difficulty": 8,
+      "riskProbability": 0.35,
+      "safeReward": {
+        "mode": 0,
+        "amount": 60000
+      },
+      "riskWinReward": {
+        "mode": 0,
+        "amount": 220000
+      },
+      "riskLossReward": {
+        "mode": 0,
+        "amount": -65000
+      }
+    },
+    {
+      "id": "decision_23",
+      "title": "Gold reserve",
+      "description": "A steady haul beside a sealed gold reserve.",
+      "specialBehavior": "",
+      "level": 8,
+      "difficulty": 8,
+      "riskProbability": 0.65,
+      "safeReward": {
+        "mode": 0,
+        "amount": 65000
+      },
+      "riskWinReward": {
+        "mode": 0,
+        "amount": 130000
+      },
+      "riskLossReward": {
+        "mode": 0,
+        "amount": -110000
+      }
+    },
+    {
+      "id": "decision_24",
+      "title": "Master key",
+      "description": "One key. One very valuable door.",
+      "specialBehavior": "jackpot",
+      "level": 8,
+      "difficulty": 8,
+      "riskProbability": 0.15,
+      "safeReward": {
+        "mode": 0,
+        "amount": 70000
+      },
+      "riskWinReward": {
+        "mode": 0,
+        "amount": 520000
+      },
+      "riskLossReward": {
+        "mode": 0,
+        "amount": -15000
+      }
+    },
+    {
+      "id": "decision_25",
+      "title": "Vault approach",
+      "description": "A good haul, or the chance of a great one.",
+      "specialBehavior": "",
+      "level": 9,
+      "difficulty": 9,
+      "riskProbability": 0.75,
+      "safeReward": {
+        "mode": 0,
+        "amount": 75000
+      },
+      "riskWinReward": {
+        "mode": 0,
+        "amount": 110000
+      },
+      "riskLossReward": {
+        "mode": 0,
+        "amount": -150000
+      }
+    },
+    {
+      "id": "decision_26",
+      "title": "Pressure plate",
+      "description": "The largest reward so far has a real downside.",
+      "specialBehavior": "jackpot",
+      "level": 9,
+      "difficulty": 9,
+      "riskProbability": 0.25,
+      "safeReward": {
+        "mode": 0,
+        "amount": 80000
+      },
+      "riskWinReward": {
+        "mode": 0,
+        "amount": 360000
+      },
+      "riskLossReward": {
+        "mode": 0,
+        "amount": -120000
+      }
+    },
+    {
+      "id": "decision_27",
+      "title": "Double or nothing",
+      "description": "Your whole total. One final double.",
+      "specialBehavior": "double_or_lose",
+      "level": 9,
+      "difficulty": 9,
+      "riskProbability": 0.45,
+      "safeReward": {
+        "mode": 2,
+        "amount": 1
+      },
+      "riskWinReward": {
+        "mode": 2,
+        "amount": 2
+      },
+      "riskLossReward": {
+        "mode": 1,
+        "amount": 0
+      }
+    },
+    {
+      "id": "decision_28",
+      "title": "The final lock",
+      "description": "The million is close. Choose your route.",
+      "specialBehavior": "",
+      "level": 10,
+      "difficulty": 10,
+      "riskProbability": 0.6,
+      "safeReward": {
+        "mode": 0,
+        "amount": 85000
+      },
+      "riskWinReward": {
+        "mode": 0,
+        "amount": 220000
+      },
+      "riskLossReward": {
+        "mode": 0,
+        "amount": -180000
+      }
+    },
+    {
+      "id": "decision_29",
+      "title": "One more room",
+      "description": "A clean finish is nearly within reach.",
+      "specialBehavior": "",
+      "level": 10,
+      "difficulty": 10,
+      "riskProbability": 0.85,
+      "safeReward": {
+        "mode": 0,
+        "amount": 90000
+      },
+      "riskWinReward": {
+        "mode": 0,
+        "amount": 115000
+      },
+      "riskLossReward": {
+        "mode": 1,
+        "amount": 0
+      }
+    },
+    {
+      "id": "decision_30",
+      "title": "The million vault",
+      "description": "Take your share, or reach for the reserve.",
+      "specialBehavior": "",
+      "level": 10,
+      "difficulty": 10,
+      "riskProbability": 0.3,
+      "safeReward": {
+        "mode": 0,
+        "amount": 157800
+      },
+      "riskWinReward": {
+        "mode": 0,
+        "amount": 500000
+      },
+      "riskLossReward": {
+        "mode": 0,
+        "amount": -250000
+      }
+    }
+  ]
+}

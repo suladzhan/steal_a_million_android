@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "id": "classic",
+      "name": "CLASSIC",
+      "price": 0,
+      "color": "#69E5AE"
+    },
+    {
+      "id": "gold",
+      "name": "GOLD",
+      "price": 600,
+      "color": "#F5CB67"
+    },
+    {
+      "id": "diamond",
+      "name": "DIAMOND",
+      "price": 900,
+      "color": "#78D9ED"
+    },
+    {
+      "id": "neon",
+      "name": "NEON",
+      "price": 1250,
+      "color": "#EB83C2"
+    }
+  ]
+}

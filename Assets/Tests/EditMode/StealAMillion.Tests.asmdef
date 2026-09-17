@@ -1,0 +1,6 @@
+{
+  "name": "StealAMillion.Tests",
+  "references": ["StealAMillion.Core", "StealAMillion.Runtime"],
+  "includePlatforms": ["Editor"],
+  "optionalUnityReferences": ["TestAssemblies"]
+}

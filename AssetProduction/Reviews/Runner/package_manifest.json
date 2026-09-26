@@ -1,0 +1,20 @@
+{
+  "status": "Exported; isolated QA passed; motion polish and gameplay QA pending",
+  "bytes": 6225746,
+  "sha256": "8530a63bfae5b861cca718b1775fc5a82b9f8d88d8f3a2106cfa16f9f04142e8",
+  "paths": [
+    "Assets/Production/CHAR_runner",
+    "Assets/Production/CHAR_runner/ANIM_idle__v001.fbx",
+    "Assets/Production/CHAR_runner/ANIM_preview__v001.fbx",
+    "Assets/Production/CHAR_runner/ANIM_risk_win__v001.fbx",
+    "Assets/Production/CHAR_runner/ANIM_run__v001.fbx",
+    "Assets/Production/CHAR_runner/ANIM_victory_dance__v001.fbx",
+    "Assets/Production/CHAR_runner/ANIM_victory_jump__v001.fbx",
+    "Assets/Production/CHAR_runner/ANIM_victory_money_rain__v001.fbx",
+    "Assets/Production/CHAR_runner/CHAR_runner_Visual.prefab",
+    "Assets/Production/CHAR_runner/CHAR_runner__model__v001.fbx",
+    "Assets/Production/CHAR_runner/CHAR_runner__v001__basecolor.png",
+    "Assets/Production/CHAR_runner/RunnerReview.controller",
+    "Assets/Production/CHAR_runner/Runner_Satin.mat"
+  ]
+}

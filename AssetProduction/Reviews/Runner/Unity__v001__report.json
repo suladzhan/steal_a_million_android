@@ -1,0 +1,80 @@
+{
+    "unity": "6000.3.23f1",
+    "status": "PASS isolated Humanoid import and sampled deformation; gameplay/device QA pending",
+    "avatarValid": true,
+    "avatarHuman": true,
+    "triangles": 8055,
+    "bones": 24,
+    "restSize": {
+        "x": 1.0406231880187989,
+        "y": 1.799999713897705,
+        "z": 0.35068291425704958
+    },
+    "restBottom": 0.0,
+    "forwardDot": 0.8103206157684326,
+    "clips": [
+        {
+            "name": "ANIM_idle",
+            "duration": 2.0,
+            "rootDrift": 0.0,
+            "poseChange": 0.5727441906929016,
+            "minY": -0.0008770962012931705,
+            "maxY": 1.7222316265106202,
+            "pass": true
+        },
+        {
+            "name": "ANIM_preview",
+            "duration": 2.6666667461395265,
+            "rootDrift": 0.0,
+            "poseChange": 1.6748592853546143,
+            "minY": -0.00014915959036443383,
+            "maxY": 2.1950736045837404,
+            "pass": true
+        },
+        {
+            "name": "ANIM_risk_win",
+            "duration": 0.8000000715255737,
+            "rootDrift": 0.0,
+            "poseChange": 0.4981224536895752,
+            "minY": -0.00009912148379953578,
+            "maxY": 1.8093639612197877,
+            "pass": true
+        },
+        {
+            "name": "ANIM_run",
+            "duration": 0.6333333849906921,
+            "rootDrift": 0.0,
+            "poseChange": 1.0634713172912598,
+            "minY": -0.012322249822318554,
+            "maxY": 1.8141568899154664,
+            "pass": true
+        },
+        {
+            "name": "ANIM_victory_dance",
+            "duration": 2.0,
+            "rootDrift": 0.0,
+            "poseChange": 0.48594531416893008,
+            "minY": -0.00004561141395242885,
+            "maxY": 1.812824010848999,
+            "pass": true
+        },
+        {
+            "name": "ANIM_victory_jump",
+            "duration": 1.2000000476837159,
+            "rootDrift": 0.0,
+            "poseChange": 1.5080114603042603,
+            "minY": -0.0017470259917899967,
+            "maxY": 2.3486838340759279,
+            "pass": true
+        },
+        {
+            "name": "ANIM_victory_money_rain",
+            "duration": 1.8000000715255738,
+            "rootDrift": 0.0,
+            "poseChange": 1.452488660812378,
+            "minY": -0.0007982690585777164,
+            "maxY": 2.1903414726257326,
+            "pass": true
+        }
+    ]
+}

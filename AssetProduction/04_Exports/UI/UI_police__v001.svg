@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<rect x="20" y="70" width="60" height="13" rx="4" fill="#253A70"/>
+<ellipse cx="50" cy="60.5" rx="24" ry="32.5" fill="#3E78FF"/>
+<rect x="26" y="49" width="48" height="26" rx="0" fill="#3E78FF"/>
+<rect x="26" y="58" width="24" height="17" rx="0" fill="#FF4D5A"/>
+<polyline fill="none" stroke="#FFC928" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" points="50,11 50,18 "/>
+<polyline fill="none" stroke="#FFC928" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" points="15,26 21,31 "/>
+<polyline fill="none" stroke="#FFC928" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" points="85,26 79,31 "/>
+</svg>

@@ -1,0 +1,21 @@
+{
+  "asset_id": "PROP_key",
+  "status": "Exported",
+  "triangles": 292,
+  "triangle_budget": 900,
+  "within_triangle_budget": true,
+  "materials": 1,
+  "bounds_unity_metres": {
+    "width": 0.41499999910593033,
+    "height": 0.7950000194832683,
+    "depth": 0.11000004783272743
+  },
+  "source": "Original parameterized Blender geometry; build_models.py",
+  "palette": "../Shared/SAM_palette__v001.png",
+  "blender_version": "5.2.2 LTS",
+  "date": "2026-09-25",
+  "credits": 0,
+  "mesh_objects": 1,
+  "notes": "",
+  "qa": "Blender counts only; pending FBX reimport, Unity, Android and visual approval."
+}

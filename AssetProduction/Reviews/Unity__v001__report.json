@@ -1,0 +1,238 @@
+{
+    "unity": "6000.3.23f1",
+    "models": [
+        {
+            "id": "ENV_streets_crate",
+            "triangles": 220,
+            "renderers": 1,
+            "size": {
+                "x": 1.1200000047683716,
+                "y": 1.119999885559082,
+                "z": 1.1649999618530274
+            },
+            "scalePass": true,
+            "hierarchyPass": true
+        },
+        {
+            "id": "ENV_streets_house",
+            "triangles": 604,
+            "renderers": 1,
+            "size": {
+                "x": 3.718374252319336,
+                "y": 5.174796104431152,
+                "z": 2.8000004291534426
+            },
+            "scalePass": true,
+            "hierarchyPass": true
+        },
+        {
+            "id": "ENV_streets_kiosk",
+            "triangles": 544,
+            "renderers": 1,
+            "size": {
+                "x": 2.700000047683716,
+                "y": 2.869999885559082,
+                "z": 3.505000114440918
+            },
+            "scalePass": true,
+            "hierarchyPass": true
+        },
+        {
+            "id": "ENV_streets_shopfront",
+            "triangles": 720,
+            "renderers": 1,
+            "size": {
+                "x": 3.700000047683716,
+                "y": 4.369999885559082,
+                "z": 3.505000591278076
+            },
+            "scalePass": true,
+            "hierarchyPass": true
+        },
+        {
+            "id": "GATE_frame",
+            "triangles": 264,
+            "renderers": 1,
+            "size": {
+                "x": 3.559999942779541,
+                "y": 4.779999256134033,
+                "z": 0.6400005221366882
+            },
+            "scalePass": true,
+            "hierarchyPass": true
+        },
+        {
+            "id": "PROP_cash_stack",
+            "triangles": 308,
+            "renderers": 1,
+            "size": {
+                "x": 0.8399999737739563,
+                "y": 0.2724999785423279,
+                "z": 0.4440000057220459
+            },
+            "scalePass": true,
+            "hierarchyPass": true
+        },
+        {
+            "id": "PROP_coin",
+            "triangles": 402,
+            "renderers": 1,
+            "size": {
+                "x": 0.800000011920929,
+                "y": 0.7999999523162842,
+                "z": 0.1379999965429306
+            },
+            "scalePass": true,
+            "hierarchyPass": true
+        },
+        {
+            "id": "TRK_bonus",
+            "triangles": 132,
+            "renderers": 1,
+            "size": {
+                "x": 8.65999984741211,
+                "y": 0.5475021004676819,
+                "z": 17.999998092651368
+            },
+            "scalePass": true,
+            "hierarchyPass": true
+        },
+        {
+            "id": "TRK_finish",
+            "triangles": 240,
+            "renderers": 1,
+            "size": {
+                "x": 8.65999984741211,
+                "y": 0.5475021004676819,
+                "z": 17.999998092651368
+            },
+            "scalePass": true,
+            "hierarchyPass": true
+        },
+        {
+            "id": "TRK_split",
+            "triangles": 144,
+            "renderers": 1,
+            "size": {
+                "x": 8.65999984741211,
+                "y": 0.5475021004676819,
+                "z": 17.999998092651368
+            },
+            "scalePass": true,
+            "hierarchyPass": true
+        },
+        {
+            "id": "TRK_straight",
+            "triangles": 132,
+            "renderers": 1,
+            "size": {
+                "x": 8.65999984741211,
+                "y": 0.5475021004676819,
+                "z": 17.999998092651368
+            },
+            "scalePass": true,
+            "hierarchyPass": true
+        },
+        {
+            "id": "vault_classic",
+            "triangles": 2352,
+            "renderers": 3,
+            "size": {
+                "x": 4.799999713897705,
+                "y": 4.0,
+                "z": 2.9149999618530275
+            },
+            "scalePass": true,
+            "hierarchyPass": true
+        },
+        {
+            "id": "vault_diamond",
+            "triangles": 2256,
+            "renderers": 3,
+            "size": {
+                "x": 4.799999713897705,
+                "y": 4.0,
+                "z": 2.9149999618530275
+            },
+            "scalePass": true,
+            "hierarchyPass": true
+        },
+        {
+            "id": "vault_gold",
+            "triangles": 2352,
+            "renderers": 3,
+            "size": {
+                "x": 4.799999713897705,
+                "y": 4.0,
+                "z": 2.9149999618530275
+            },
+            "scalePass": true,
+            "hierarchyPass": true
+        },
+        {
+            "id": "vault_neon",
+            "triangles": 2352,
+            "renderers": 3,
+            "size": {
+                "x": 4.799999713897705,
+                "y": 4.0,
+                "z": 2.9149999618530275
+            },
+            "scalePass": true,
+            "hierarchyPass": true
+        }
+    ],
+    "effects": [
+        "FX_cash_pickup",
+        "FX_safe_pass",
+        "FX_risk_suspense",
+        "FX_risk_win",
+        "FX_risk_loss",
+        "FX_tax",
+        "FX_police",
+        "FX_thief",
+        "FX_hit",
+        "FX_jackpot",
+        "FX_investment_return",
+        "FX_shield_break",
+        "FX_magnet",
+        "FX_luck",
+        "FX_double_cash",
+        "FX_slow_motion",
+        "FX_finish",
+        "FX_milestone",
+        "FX_world_unlock",
+        "FX_achievement",
+        "FX_level_up",
+        "TRAIL_dust",
+        "TRAIL_cash_trail",
+        "TRAIL_coin_trail",
+        "TRAIL_gold_trail",
+        "TRAIL_neon_trail",
+        "TRAIL_rainbow_trail",
+        "MONEY_cash_green",
+        "MONEY_cash_gold",
+        "MONEY_cash_neon",
+        "MONEY_cash_blue",
+        "MONEY_cash_rainbow",
+        "MONEY_cash_spark",
+        "GATE_gate_classic",
+        "GATE_gate_spark",
+        "GATE_gate_confetti",
+        "FX_wealth_aura",
+        "FX_wealth_legendary"
+    ],
+    "animations": [
+        "UIA_press",
+        "UIA_panel",
+        "UIA_tab",
+        "UIA_currency",
+        "UIA_progress",
+        "UIA_reward",
+        "UIA_unlock",
+        "UIA_milestone",
+        "UIA_toast",
+        "UIA_wait"
+    ],
+    "status": "FBX scale/hierarchy pass; integration and Android QA pending"
+}

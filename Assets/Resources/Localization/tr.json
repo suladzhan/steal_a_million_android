@@ -1,0 +1,1051 @@
+{
+  "code": "tr",
+  "name": "tr",
+  "rtl": false,
+  "entries": [
+    {
+      "key": "UI_TITLE",
+      "value": "STEAL A MILLION"
+    },
+    {
+      "key": "UI_PLAY",
+      "value": "OYNA"
+    },
+    {
+      "key": "UI_CONTINUE",
+      "value": "DEVAM ET"
+    },
+    {
+      "key": "UI_SHOP",
+      "value": "MAĞAZA"
+    },
+    {
+      "key": "UI_MISSIONS",
+      "value": "GÖREVLER"
+    },
+    {
+      "key": "UI_PROFILE",
+      "value": "PROFİL"
+    },
+    {
+      "key": "UI_SETTINGS",
+      "value": "AYARLAR"
+    },
+    {
+      "key": "UI_WORLDS",
+      "value": "DÜNYALAR"
+    },
+    {
+      "key": "UI_LEVEL",
+      "value": "BÖLÜM {0}"
+    },
+    {
+      "key": "UI_PLAYER_LEVEL",
+      "value": "OYUNCU SEVİYESİ {0}"
+    },
+    {
+      "key": "UI_PAUSE",
+      "value": "DURAKLATILDI"
+    },
+    {
+      "key": "UI_RESUME",
+      "value": "DEVAM ET"
+    },
+    {
+      "key": "UI_MENU",
+      "value": "ANA MENÜ"
+    },
+    {
+      "key": "UI_RETRY",
+      "value": "TEKRAR DENE"
+    },
+    {
+      "key": "UI_NEXT",
+      "value": "SONRAKİ BÖLÜM"
+    },
+    {
+      "key": "UI_FINISH",
+      "value": "BÖLÜM TAMAMLANDI"
+    },
+    {
+      "key": "UI_BROKE",
+      "value": "İFLAS!"
+    },
+    {
+      "key": "UI_COINS",
+      "value": "{0} JETON"
+    },
+    {
+      "key": "UI_XP",
+      "value": "+{0} DENEYİM"
+    },
+    {
+      "key": "UI_TARGET",
+      "value": "{0} / {1}"
+    },
+    {
+      "key": "UI_BUY",
+      "value": "SATIN AL {0}"
+    },
+    {
+      "key": "UI_EQUIP",
+      "value": "KUŞAN"
+    },
+    {
+      "key": "UI_EQUIPPED",
+      "value": "KUŞANILDI"
+    },
+    {
+      "key": "UI_OWNED",
+      "value": "SENİN"
+    },
+    {
+      "key": "UI_LOCKED",
+      "value": "KİLİTLİ"
+    },
+    {
+      "key": "UI_REQUIREMENT",
+      "value": "BÖLÜM {0} / OYUNCU {1} / {2}"
+    },
+    {
+      "key": "UI_BACK",
+      "value": "GERİ"
+    },
+    {
+      "key": "UI_SOUND",
+      "value": "SES"
+    },
+    {
+      "key": "UI_MUSIC",
+      "value": "MÜZİK"
+    },
+    {
+      "key": "UI_HAPTICS",
+      "value": "TİTREŞİM"
+    },
+    {
+      "key": "UI_LANGUAGE",
+      "value": "DİL"
+    },
+    {
+      "key": "UI_AUTO",
+      "value": "OTOMATİK"
+    },
+    {
+      "key": "UI_RESET",
+      "value": "İLERLEMEYİ SIFIRLA"
+    },
+    {
+      "key": "UI_RESET_CONFIRM",
+      "value": "Tüm ilerleme sıfırlansın mı?"
+    },
+    {
+      "key": "UI_RESET_BODY",
+      "value": "Para, koleksiyon ve istatistikler sıfırlanacak."
+    },
+    {
+      "key": "UI_CANCEL",
+      "value": "İPTAL"
+    },
+    {
+      "key": "UI_CONFIRM",
+      "value": "ONAYLA"
+    },
+    {
+      "key": "UI_ENDLESS",
+      "value": "SONSUZ KOŞU"
+    },
+    {
+      "key": "UI_ENDLESS_LOCK",
+      "value": "SONSUZ · BÖLÜM {0}"
+    },
+    {
+      "key": "UI_DISTANCE",
+      "value": "{0} m"
+    },
+    {
+      "key": "UI_PRACTICE",
+      "value": "ALIŞTIRMA"
+    },
+    {
+      "key": "UI_BONUS",
+      "value": "BONUS KASA"
+    },
+    {
+      "key": "UI_KEYS",
+      "value": "{0}/3 ANAHTAR"
+    },
+    {
+      "key": "UI_SECOND_CHANCE",
+      "value": "İKİNCİ ŞANS · TEST REKLAMI"
+    },
+    {
+      "key": "UI_DOUBLE_COINS",
+      "value": "JETONLARI KATLA · TEST"
+    },
+    {
+      "key": "UI_AD_WAIT",
+      "value": "TEST ÖDÜLÜ…"
+    },
+    {
+      "key": "UI_SAVE_ERROR",
+      "value": "İlerleme kaydedilemedi."
+    },
+    {
+      "key": "UI_DAILY",
+      "value": "GÜNLÜK"
+    },
+    {
+      "key": "UI_ACHIEVEMENTS",
+      "value": "BAŞARIMLAR"
+    },
+    {
+      "key": "UI_CLAIM",
+      "value": "AL"
+    },
+    {
+      "key": "UI_CLAIMED",
+      "value": "ALINDI"
+    },
+    {
+      "key": "UI_PROGRESS",
+      "value": "{0} / {1}"
+    },
+    {
+      "key": "UI_COLLECTION",
+      "value": "KOLEKSİYON {0}/{1}"
+    },
+    {
+      "key": "UI_BEST",
+      "value": "EN İYİ {0}"
+    },
+    {
+      "key": "UI_RANK",
+      "value": "SERVET RÜTBESİ"
+    },
+    {
+      "key": "UI_WEALTH",
+      "value": "MEVCUT SERVET"
+    },
+    {
+      "key": "UI_HIGHEST",
+      "value": "EN YÜKSEK SERVET"
+    },
+    {
+      "key": "UI_TOTAL_EARNED",
+      "value": "TOPLAM KAZANÇ"
+    },
+    {
+      "key": "UI_BIGGEST",
+      "value": "EN BÜYÜK ÖDÜL"
+    },
+    {
+      "key": "UI_COMPLETED",
+      "value": "TAMAMLANAN BÖLÜMLER"
+    },
+    {
+      "key": "UI_RISKS",
+      "value": "RİSK KAPILARI"
+    },
+    {
+      "key": "UI_WINS",
+      "value": "RİSK KAZANÇLARI"
+    },
+    {
+      "key": "UI_WIN_RATE",
+      "value": "KAZANMA ORANI"
+    },
+    {
+      "key": "UI_SAFE",
+      "value": "GÜVENLİ KAPILAR"
+    },
+    {
+      "key": "UI_CASH",
+      "value": "TOPLANAN PARA"
+    },
+    {
+      "key": "UI_COINS_EARNED",
+      "value": "KAZANILAN JETON"
+    },
+    {
+      "key": "UI_SKINS",
+      "value": "KARAKTERLER"
+    },
+    {
+      "key": "UI_ENDLESS_BEST",
+      "value": "EN UZUN SONSUZ KOŞU"
+    },
+    {
+      "key": "UI_NEW_WORLD",
+      "value": "YENİ DÜNYA AÇILDI"
+    },
+    {
+      "key": "UI_MILESTONE",
+      "value": "YENİ SERVET HEDEFİ"
+    },
+    {
+      "key": "UI_MILESTONE_VALUE",
+      "value": "{0} KAZANDIN"
+    },
+    {
+      "key": "UI_MILLIONAIRE",
+      "value": "MİLYONER!"
+    },
+    {
+      "key": "UI_BILLIONAIRE",
+      "value": "MİLYARDER!"
+    },
+    {
+      "key": "UI_TRILLIONAIRE",
+      "value": "TRİLYONER!"
+    },
+    {
+      "key": "UI_FIRST_THOUSAND",
+      "value": "İLK BİN!"
+    },
+    {
+      "key": "UI_SIX_FIGURES",
+      "value": "ALTI HANELİ!"
+    },
+    {
+      "key": "UI_SWIPE",
+      "value": "HAREKET İÇİN KAYDIR"
+    },
+    {
+      "key": "UI_CHOOSE",
+      "value": "YOLUNU SEÇ"
+    },
+    {
+      "key": "UI_COMBO",
+      "value": "{0} PARA KOMBOSU"
+    },
+    {
+      "key": "UI_RESULT_WIN",
+      "value": "RİSK KAZANDIRDI!"
+    },
+    {
+      "key": "UI_RESULT_LOSS",
+      "value": "RİSK KAYBETTİRDİ!"
+    },
+    {
+      "key": "UI_CHANCE",
+      "value": "%{0} KAZANMA"
+    },
+    {
+      "key": "UI_LOSS",
+      "value": "%{0} KAYIP"
+    },
+    {
+      "key": "UI_INVEST_RETURN",
+      "value": "GETİRİ +%50"
+    },
+    {
+      "key": "UI_BUSINESS_RETURN",
+      "value": "GETİRİ +%80"
+    },
+    {
+      "key": "UI_FINISH_GATE",
+      "value": "BİTİŞ"
+    },
+    {
+      "key": "UI_STARS",
+      "value": "{0} / 3"
+    },
+    {
+      "key": "UI_SCORE",
+      "value": "PUAN {0}"
+    },
+    {
+      "key": "UI_SEED",
+      "value": "TOHUM {0}"
+    },
+    {
+      "key": "UI_EXIT_ENDLESS",
+      "value": "KAZANCI AL VE BİTİR"
+    },
+    {
+      "key": "UI_CASH_OUT",
+      "value": "{0} AL"
+    },
+    {
+      "key": "UI_CHAIN",
+      "value": "ZİNCİR {0}"
+    },
+    {
+      "key": "UI_MARKET_ODDS",
+      "value": "20% x5\n50% +20%\n30% -25%"
+    },
+    {
+      "key": "UI_SHIELDED",
+      "value": "KORUNDU!"
+    },
+    {
+      "key": "UI_NOT_ENOUGH",
+      "value": "YETERSİZ JETON"
+    },
+    {
+      "key": "UI_WORLD_LOCK",
+      "value": "BÖLÜM {0} VEYA {1}"
+    },
+    {
+      "key": "UI_REPLAY",
+      "value": "TEKRAR OYNA"
+    },
+    {
+      "key": "UI_NEW_RUN_CONFIRM",
+      "value": "Yeni koşu başlatılsın mı?"
+    },
+    {
+      "key": "UI_NEW_RUN_BODY",
+      "value": "Mevcut para miktarın korunacak."
+    },
+    {
+      "key": "UI_GRAPHICS",
+      "value": "GRAFİK"
+    },
+    {
+      "key": "UI_HIGH",
+      "value": "YÜKSEK"
+    },
+    {
+      "key": "UI_LOW",
+      "value": "DÜŞÜK"
+    },
+    {
+      "key": "SLOT_Character",
+      "value": "KARAKTERLER"
+    },
+    {
+      "key": "SLOT_Outfit",
+      "value": "KIYAFETLER"
+    },
+    {
+      "key": "SLOT_Trail",
+      "value": "İZLER"
+    },
+    {
+      "key": "SLOT_MoneyEffect",
+      "value": "PARA EFEKTLERİ"
+    },
+    {
+      "key": "SLOT_Victory",
+      "value": "ZAFER"
+    },
+    {
+      "key": "SLOT_Vault",
+      "value": "KASALAR"
+    },
+    {
+      "key": "SLOT_Gate",
+      "value": "KAPI EFEKTLERİ"
+    },
+    {
+      "key": "GATE_Safe",
+      "value": "GÜVENLİ"
+    },
+    {
+      "key": "GATE_Risk",
+      "value": "RİSK"
+    },
+    {
+      "key": "GATE_AddMoney",
+      "value": "PARA"
+    },
+    {
+      "key": "GATE_SubtractMoney",
+      "value": "ÜCRET"
+    },
+    {
+      "key": "GATE_Multiplier",
+      "value": "ÇARPAN"
+    },
+    {
+      "key": "GATE_Tax",
+      "value": "VERGİ"
+    },
+    {
+      "key": "GATE_Investment",
+      "value": "YATIRIM"
+    },
+    {
+      "key": "GATE_Business",
+      "value": "İŞLETME"
+    },
+    {
+      "key": "GATE_Market",
+      "value": "PİYASA"
+    },
+    {
+      "key": "GATE_Insurance",
+      "value": "SİGORTA"
+    },
+    {
+      "key": "GATE_Shield",
+      "value": "KALKAN"
+    },
+    {
+      "key": "GATE_Luck",
+      "value": "ŞANS +%{0}"
+    },
+    {
+      "key": "GATE_Mystery",
+      "value": "GİZEM"
+    },
+    {
+      "key": "GATE_Jackpot",
+      "value": "BÜYÜK İKRAMİYE"
+    },
+    {
+      "key": "GATE_DoubleOrNothing",
+      "value": "YA İKİ KATI YA HİÇ"
+    },
+    {
+      "key": "GATE_CashOut",
+      "value": "KAZANCI AL"
+    },
+    {
+      "key": "GATE_RiskChain",
+      "value": "RİSK ZİNCİRİ"
+    },
+    {
+      "key": "GATE_Bonus",
+      "value": "BONUS"
+    },
+    {
+      "key": "GATE_KeyGate",
+      "value": "ANAHTAR"
+    },
+    {
+      "key": "POWER_Shield",
+      "value": "KALKAN"
+    },
+    {
+      "key": "POWER_Magnet",
+      "value": "MIKNATIS"
+    },
+    {
+      "key": "POWER_Luck",
+      "value": "ŞANS +%{0}"
+    },
+    {
+      "key": "POWER_DoubleCash",
+      "value": "İKİ KAT PARA"
+    },
+    {
+      "key": "POWER_SlowMotion",
+      "value": "AĞIR ÇEKİM"
+    },
+    {
+      "key": "OBSTACLE_tax",
+      "value": "VERGİ"
+    },
+    {
+      "key": "OBSTACLE_police",
+      "value": "POLİS"
+    },
+    {
+      "key": "OBSTACLE_thief",
+      "value": "HIRSIZ"
+    },
+    {
+      "key": "OBSTACLE_barrier",
+      "value": "BARİYER"
+    },
+    {
+      "key": "OBSTACLE_spinner",
+      "value": "DİKKAT"
+    },
+    {
+      "key": "OBSTACLE_safe",
+      "value": "YUVARLANAN KASA"
+    },
+    {
+      "key": "OBSTACLE_traffic",
+      "value": "TRAFİK"
+    },
+    {
+      "key": "OBSTACLE_wall",
+      "value": "VERGİ DUVARI"
+    },
+    {
+      "key": "OBSTACLE_sign",
+      "value": "SALLANAN TABELA"
+    },
+    {
+      "key": "OBSTACLE_closing",
+      "value": "KAPANAN KAPI"
+    },
+    {
+      "key": "RANK_0",
+      "value": "PARASIZ"
+    },
+    {
+      "key": "RANK_1",
+      "value": "GİRİŞİMCİ"
+    },
+    {
+      "key": "RANK_2",
+      "value": "KAZANAN"
+    },
+    {
+      "key": "RANK_3",
+      "value": "ZENGİN"
+    },
+    {
+      "key": "RANK_4",
+      "value": "MİLYONER"
+    },
+    {
+      "key": "RANK_5",
+      "value": "MULTİ MİLYONER"
+    },
+    {
+      "key": "RANK_6",
+      "value": "İŞ DÜNYASI LİDERİ"
+    },
+    {
+      "key": "RANK_7",
+      "value": "MİLYARDER"
+    },
+    {
+      "key": "RANK_8",
+      "value": "PATRON"
+    },
+    {
+      "key": "RANK_9",
+      "value": "İMPARATORLUK KURUCUSU"
+    },
+    {
+      "key": "RANK_10",
+      "value": "TRİLYONER"
+    },
+    {
+      "key": "RANK_11",
+      "value": "EFSANE"
+    },
+    {
+      "key": "MISSION_cash",
+      "value": "{0} PARA DESTESİ TOPLA"
+    },
+    {
+      "key": "MISSION_safe",
+      "value": "{0} KEZ GÜVENLİ YOLU SEÇ"
+    },
+    {
+      "key": "MISSION_risks",
+      "value": "{0} RİSK KAPISINDAN GEÇ"
+    },
+    {
+      "key": "MISSION_wins",
+      "value": "{0} RİSK KAPISINDA KAZAN"
+    },
+    {
+      "key": "MISSION_avoided",
+      "value": "{0} ENGELDEN KAÇIN"
+    },
+    {
+      "key": "MISSION_completed",
+      "value": "{0} BÖLÜM TAMAMLA"
+    },
+    {
+      "key": "MISSION_perfect",
+      "value": "{0} KUSURSUZ KOŞU BİTİR"
+    },
+    {
+      "key": "MISSION_coins",
+      "value": "{0} MADENİ PARA KAZAN"
+    },
+    {
+      "key": "MISSION_powers",
+      "value": "{0} GÜÇLENDİRİCİ KULLAN"
+    },
+    {
+      "key": "MISSION_investments",
+      "value": "{0} YATIRIM YAP"
+    },
+    {
+      "key": "MISSION_keys",
+      "value": "{0} ANAHTAR TOPLA"
+    },
+    {
+      "key": "MISSION_bonus",
+      "value": "{0} BONUS KOŞU BİTİR"
+    },
+    {
+      "key": "MISSION_rareWins",
+      "value": "{0} DÜŞÜK ŞANSLI RİSK KAZAN"
+    },
+    {
+      "key": "MISSION_combo",
+      "value": "{0} PARA KOMBOSUNA ULAŞ"
+    },
+    {
+      "key": "MISSION_wealth",
+      "value": "{0} DEĞERİNE ULAŞ"
+    },
+    {
+      "key": "MISSION_collection",
+      "value": "{0} KOZMETİK EŞYA EDİN"
+    },
+    {
+      "key": "LANG_en",
+      "value": "English"
+    },
+    {
+      "key": "LANG_ru",
+      "value": "Русский"
+    },
+    {
+      "key": "LANG_tr",
+      "value": "Türkçe"
+    },
+    {
+      "key": "LANG_de",
+      "value": "Deutsch"
+    },
+    {
+      "key": "LANG_ar",
+      "value": "العربية"
+    },
+    {
+      "key": "LANG_zh",
+      "value": "简体中文"
+    },
+    {
+      "key": "LANG_es",
+      "value": "Español"
+    },
+    {
+      "key": "LANG_pt",
+      "value": "Português"
+    },
+    {
+      "key": "LANG_fr",
+      "value": "Français"
+    },
+    {
+      "key": "LANG_it",
+      "value": "Italiano"
+    },
+    {
+      "key": "LANG_pl",
+      "value": "Polski"
+    },
+    {
+      "key": "LANG_uk",
+      "value": "Українська"
+    },
+    {
+      "key": "LANG_hi",
+      "value": "हिन्दी"
+    },
+    {
+      "key": "LANG_id",
+      "value": "Bahasa Indonesia"
+    },
+    {
+      "key": "LANG_vi",
+      "value": "Tiếng Việt"
+    },
+    {
+      "key": "LANG_th",
+      "value": "ไทย"
+    },
+    {
+      "key": "LANG_ja",
+      "value": "日本語"
+    },
+    {
+      "key": "LANG_ko",
+      "value": "한국어"
+    },
+    {
+      "key": "LANG_zh_Hant",
+      "value": "繁體中文"
+    },
+    {
+      "key": "WORLD_streets",
+      "value": "SOKAKLAR"
+    },
+    {
+      "key": "WORLD_downtown",
+      "value": "ŞEHİR MERKEZİ"
+    },
+    {
+      "key": "WORLD_business",
+      "value": "İŞ MERKEZİ"
+    },
+    {
+      "key": "WORLD_luxury",
+      "value": "LÜKS SEMT"
+    },
+    {
+      "key": "WORLD_island",
+      "value": "MİLYONER ADASI"
+    },
+    {
+      "key": "WORLD_capital",
+      "value": "FİNANS BAŞKENTİ"
+    },
+    {
+      "key": "WORLD_bay",
+      "value": "MİLYARDER KOYU"
+    },
+    {
+      "key": "WORLD_future",
+      "value": "GELECEĞİN ŞEHRİ"
+    },
+    {
+      "key": "WORLD_gold",
+      "value": "ALTIN ŞEHİR"
+    },
+    {
+      "key": "ITEM_runner",
+      "value": "KLASİK"
+    },
+    {
+      "key": "ITEM_street",
+      "value": "SOKAK"
+    },
+    {
+      "key": "ITEM_businessman",
+      "value": "İŞ ADAMI"
+    },
+    {
+      "key": "ITEM_businesswoman",
+      "value": "İŞ KADINI"
+    },
+    {
+      "key": "ITEM_sport",
+      "value": "SPORCU"
+    },
+    {
+      "key": "ITEM_gold_runner",
+      "value": "ALTIN KOŞUCU"
+    },
+    {
+      "key": "ITEM_millionaire",
+      "value": "MİLYONER"
+    },
+    {
+      "key": "ITEM_billionaire",
+      "value": "MİLYARDER"
+    },
+    {
+      "key": "ITEM_neon",
+      "value": "NEON"
+    },
+    {
+      "key": "ITEM_king",
+      "value": "PARA KRALI"
+    },
+    {
+      "key": "ITEM_outfit_classic",
+      "value": "KLASİK"
+    },
+    {
+      "key": "ITEM_outfit_coral",
+      "value": "MERCAN"
+    },
+    {
+      "key": "ITEM_outfit_mint",
+      "value": "NANE"
+    },
+    {
+      "key": "ITEM_dust",
+      "value": "TOZ"
+    },
+    {
+      "key": "ITEM_cash_trail",
+      "value": "BANKNOT İZİ"
+    },
+    {
+      "key": "ITEM_coin_trail",
+      "value": "MADENİ PARA İZİ"
+    },
+    {
+      "key": "ITEM_gold_trail",
+      "value": "ALTIN İZ"
+    },
+    {
+      "key": "ITEM_neon_trail",
+      "value": "NEON İZ"
+    },
+    {
+      "key": "ITEM_rainbow_trail",
+      "value": "GÖKKUŞAĞI"
+    },
+    {
+      "key": "ITEM_cash_green",
+      "value": "KLASİK PARA"
+    },
+    {
+      "key": "ITEM_cash_gold",
+      "value": "ALTIN PARA"
+    },
+    {
+      "key": "ITEM_cash_neon",
+      "value": "NEON PARA"
+    },
+    {
+      "key": "ITEM_cash_blue",
+      "value": "DİJİTAL PARA"
+    },
+    {
+      "key": "ITEM_cash_rainbow",
+      "value": "GÖKKUŞAĞI PARA"
+    },
+    {
+      "key": "ITEM_cash_spark",
+      "value": "PARA KIVILCIMI"
+    },
+    {
+      "key": "ITEM_jump",
+      "value": "ZIPLAMA"
+    },
+    {
+      "key": "ITEM_dance",
+      "value": "DANS"
+    },
+    {
+      "key": "ITEM_money_rain",
+      "value": "PARA YAĞMURU"
+    },
+    {
+      "key": "ITEM_backflip",
+      "value": "TERS TAKLA"
+    },
+    {
+      "key": "ITEM_gold_pose",
+      "value": "ALTIN POZ"
+    },
+    {
+      "key": "ITEM_tornado",
+      "value": "PARA HORTUMU"
+    },
+    {
+      "key": "ITEM_vault_classic",
+      "value": "KLASİK KASA"
+    },
+    {
+      "key": "ITEM_vault_gold",
+      "value": "ALTIN KASA"
+    },
+    {
+      "key": "ITEM_vault_diamond",
+      "value": "ELMAS KASA"
+    },
+    {
+      "key": "ITEM_vault_neon",
+      "value": "NEON KASA"
+    },
+    {
+      "key": "ITEM_gate_classic",
+      "value": "KLASİK KAPILAR"
+    },
+    {
+      "key": "ITEM_gate_spark",
+      "value": "KIVILCIMLI KAPILAR"
+    },
+    {
+      "key": "ITEM_gate_confetti",
+      "value": "KONFETİ"
+    },
+    {
+      "key": "MISSION_jackpots",
+      "value": "{0} BÜYÜK İKRAMİYE KAZAN"
+    },
+    {
+      "key": "LEVEL_1",
+      "value": "CEP HARÇLIĞI"
+    },
+    {
+      "key": "LEVEL_2",
+      "value": "ARA SOKAK"
+    },
+    {
+      "key": "LEVEL_3",
+      "value": "MAVİ IŞIKLAR"
+    },
+    {
+      "key": "LEVEL_4",
+      "value": "BİRAZ ŞANS"
+    },
+    {
+      "key": "LEVEL_5",
+      "value": "ALTIN FIRSAT"
+    },
+    {
+      "key": "LEVEL_6",
+      "value": "YAYA GEÇİDİ"
+    },
+    {
+      "key": "LEVEL_7",
+      "value": "ÖNCE GÜVENLİK"
+    },
+    {
+      "key": "LEVEL_8",
+      "value": "İKİ YOL"
+    },
+    {
+      "key": "LEVEL_9",
+      "value": "HIZLI ELLER"
+    },
+    {
+      "key": "LEVEL_10",
+      "value": "ŞEHİR MERKEZİ"
+    },
+    {
+      "key": "LEVEL_11",
+      "value": "TRAFİK AKIŞI"
+    },
+    {
+      "key": "LEVEL_12",
+      "value": "AKILLI YATIRIM"
+    },
+    {
+      "key": "LEVEL_13",
+      "value": "ŞEHİR KÖPRÜLERİ"
+    },
+    {
+      "key": "LEVEL_14",
+      "value": "VERGİ ZAMANI"
+    },
+    {
+      "key": "LEVEL_15",
+      "value": "ÇİFTE RİSK"
+    },
+    {
+      "key": "LEVEL_16",
+      "value": "KASA ANAHTARLARI"
+    },
+    {
+      "key": "LEVEL_17",
+      "value": "ÇALIŞAN PARA"
+    },
+    {
+      "key": "LEVEL_18",
+      "value": "AÇIK PAZAR"
+    },
+    {
+      "key": "LEVEL_19",
+      "value": "ANA CADDE"
+    },
+    {
+      "key": "LEVEL_20",
+      "value": "PARA AKINI"
+    },
+    {
+      "key": "UI_PRIVACY",
+      "value": "Gizlilik"
+    },
+    {
+      "key": "UI_PRIVACY_BODY",
+      "value": "İlerlemen, ayarların ve koleksiyonun bu cihazda saklanır. Oyun hesap kaydı gerektirmez ve oyun analizlerini bir sunucuya göndermez. İlerlemeni Ayarlar üzerinden silebilir veya uygulama verilerini temizleyebilirsin."
+    },
+    {
+      "key": "UI_PRIVACY_OPEN",
+      "value": "Gizlilik politikasını oku"
+    }
+  ]
+}

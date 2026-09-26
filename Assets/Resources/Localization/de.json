@@ -1,0 +1,1051 @@
+{
+  "code": "de",
+  "name": "de",
+  "rtl": false,
+  "entries": [
+    {
+      "key": "UI_TITLE",
+      "value": "STEAL A MILLION"
+    },
+    {
+      "key": "UI_PLAY",
+      "value": "SPIELEN"
+    },
+    {
+      "key": "UI_CONTINUE",
+      "value": "FORTSETZEN"
+    },
+    {
+      "key": "UI_SHOP",
+      "value": "SHOP"
+    },
+    {
+      "key": "UI_MISSIONS",
+      "value": "AUFGABEN"
+    },
+    {
+      "key": "UI_PROFILE",
+      "value": "PROFIL"
+    },
+    {
+      "key": "UI_SETTINGS",
+      "value": "EINSTELLUNGEN"
+    },
+    {
+      "key": "UI_WORLDS",
+      "value": "WELTEN"
+    },
+    {
+      "key": "UI_LEVEL",
+      "value": "LEVEL {0}"
+    },
+    {
+      "key": "UI_PLAYER_LEVEL",
+      "value": "SPIELERLEVEL {0}"
+    },
+    {
+      "key": "UI_PAUSE",
+      "value": "PAUSE"
+    },
+    {
+      "key": "UI_RESUME",
+      "value": "FORTSETZEN"
+    },
+    {
+      "key": "UI_MENU",
+      "value": "HAUPTMENÜ"
+    },
+    {
+      "key": "UI_RETRY",
+      "value": "NEUER VERSUCH"
+    },
+    {
+      "key": "UI_NEXT",
+      "value": "NÄCHSTES LEVEL"
+    },
+    {
+      "key": "UI_FINISH",
+      "value": "LEVEL GESCHAFFT"
+    },
+    {
+      "key": "UI_BROKE",
+      "value": "PLEITE!"
+    },
+    {
+      "key": "UI_COINS",
+      "value": "{0} MÜNZEN"
+    },
+    {
+      "key": "UI_XP",
+      "value": "+{0} EP"
+    },
+    {
+      "key": "UI_TARGET",
+      "value": "{0} / {1}"
+    },
+    {
+      "key": "UI_BUY",
+      "value": "KAUFEN {0}"
+    },
+    {
+      "key": "UI_EQUIP",
+      "value": "AUSRÜSTEN"
+    },
+    {
+      "key": "UI_EQUIPPED",
+      "value": "AUSGERÜSTET"
+    },
+    {
+      "key": "UI_OWNED",
+      "value": "GEKAUFT"
+    },
+    {
+      "key": "UI_LOCKED",
+      "value": "GESPERRT"
+    },
+    {
+      "key": "UI_REQUIREMENT",
+      "value": "LEVEL {0} / SPIELER {1} / {2}"
+    },
+    {
+      "key": "UI_BACK",
+      "value": "ZURÜCK"
+    },
+    {
+      "key": "UI_SOUND",
+      "value": "TON"
+    },
+    {
+      "key": "UI_MUSIC",
+      "value": "MUSIK"
+    },
+    {
+      "key": "UI_HAPTICS",
+      "value": "VIBRATION"
+    },
+    {
+      "key": "UI_LANGUAGE",
+      "value": "SPRACHE"
+    },
+    {
+      "key": "UI_AUTO",
+      "value": "AUTOMATISCH"
+    },
+    {
+      "key": "UI_RESET",
+      "value": "FORTSCHRITT LÖSCHEN"
+    },
+    {
+      "key": "UI_RESET_CONFIRM",
+      "value": "Gesamten Fortschritt löschen?"
+    },
+    {
+      "key": "UI_RESET_BODY",
+      "value": "Geld, Freischaltungen und Statistiken werden zurückgesetzt."
+    },
+    {
+      "key": "UI_CANCEL",
+      "value": "ABBRECHEN"
+    },
+    {
+      "key": "UI_CONFIRM",
+      "value": "BESTÄTIGEN"
+    },
+    {
+      "key": "UI_ENDLESS",
+      "value": "ENDLOSLAUF"
+    },
+    {
+      "key": "UI_ENDLESS_LOCK",
+      "value": "ENDLOS · LEVEL {0}"
+    },
+    {
+      "key": "UI_DISTANCE",
+      "value": "{0} m"
+    },
+    {
+      "key": "UI_PRACTICE",
+      "value": "TRAINING"
+    },
+    {
+      "key": "UI_BONUS",
+      "value": "BONUSTRESOR"
+    },
+    {
+      "key": "UI_KEYS",
+      "value": "{0}/3 SCHLÜSSEL"
+    },
+    {
+      "key": "UI_SECOND_CHANCE",
+      "value": "ZWEITE CHANCE · TESTANZEIGE"
+    },
+    {
+      "key": "UI_DOUBLE_COINS",
+      "value": "DOPPELTE MÜNZEN · TEST"
+    },
+    {
+      "key": "UI_AD_WAIT",
+      "value": "TESTBELOHNUNG…"
+    },
+    {
+      "key": "UI_SAVE_ERROR",
+      "value": "Fortschritt konnte nicht gespeichert werden."
+    },
+    {
+      "key": "UI_DAILY",
+      "value": "TÄGLICH"
+    },
+    {
+      "key": "UI_ACHIEVEMENTS",
+      "value": "ERFOLGE"
+    },
+    {
+      "key": "UI_CLAIM",
+      "value": "ABHOLEN"
+    },
+    {
+      "key": "UI_CLAIMED",
+      "value": "ABGEHOLT"
+    },
+    {
+      "key": "UI_PROGRESS",
+      "value": "{0} / {1}"
+    },
+    {
+      "key": "UI_COLLECTION",
+      "value": "SAMMLUNG {0}/{1}"
+    },
+    {
+      "key": "UI_BEST",
+      "value": "REKORD {0}"
+    },
+    {
+      "key": "UI_RANK",
+      "value": "VERMÖGENSRANG"
+    },
+    {
+      "key": "UI_WEALTH",
+      "value": "AKTUELLES VERMÖGEN"
+    },
+    {
+      "key": "UI_HIGHEST",
+      "value": "HÖCHSTES VERMÖGEN"
+    },
+    {
+      "key": "UI_TOTAL_EARNED",
+      "value": "GESAMTEINNAHMEN"
+    },
+    {
+      "key": "UI_BIGGEST",
+      "value": "GRÖSSTE BELOHNUNG"
+    },
+    {
+      "key": "UI_COMPLETED",
+      "value": "GESCHAFFTE LEVEL"
+    },
+    {
+      "key": "UI_RISKS",
+      "value": "RISIKOTORE"
+    },
+    {
+      "key": "UI_WINS",
+      "value": "RISIKOGEWINNE"
+    },
+    {
+      "key": "UI_WIN_RATE",
+      "value": "GEWINNQUOTE"
+    },
+    {
+      "key": "UI_SAFE",
+      "value": "SICHERE TORE"
+    },
+    {
+      "key": "UI_CASH",
+      "value": "GESAMMELTES GELD"
+    },
+    {
+      "key": "UI_COINS_EARNED",
+      "value": "VERDIENTE MÜNZEN"
+    },
+    {
+      "key": "UI_SKINS",
+      "value": "CHARAKTERE"
+    },
+    {
+      "key": "UI_ENDLESS_BEST",
+      "value": "BESTER ENDLOSLAUF"
+    },
+    {
+      "key": "UI_NEW_WORLD",
+      "value": "NEUE WELT FREIGESCHALTET"
+    },
+    {
+      "key": "UI_MILESTONE",
+      "value": "NEUER MEILENSTEIN"
+    },
+    {
+      "key": "UI_MILESTONE_VALUE",
+      "value": "DU HAST {0}"
+    },
+    {
+      "key": "UI_MILLIONAIRE",
+      "value": "MILLIONÄR!"
+    },
+    {
+      "key": "UI_BILLIONAIRE",
+      "value": "MILLIARDÄR!"
+    },
+    {
+      "key": "UI_TRILLIONAIRE",
+      "value": "BILLIONÄR!"
+    },
+    {
+      "key": "UI_FIRST_THOUSAND",
+      "value": "DIE ERSTEN TAUSEND!"
+    },
+    {
+      "key": "UI_SIX_FIGURES",
+      "value": "SECHSSTELLIG!"
+    },
+    {
+      "key": "UI_SWIPE",
+      "value": "ZUM BEWEGEN WISCHEN"
+    },
+    {
+      "key": "UI_CHOOSE",
+      "value": "WÄHLE DEINEN WEG"
+    },
+    {
+      "key": "UI_COMBO",
+      "value": "{0} GELDKOMBO"
+    },
+    {
+      "key": "UI_RESULT_WIN",
+      "value": "RISIKO GEWONNEN!"
+    },
+    {
+      "key": "UI_RESULT_LOSS",
+      "value": "RISIKO VERLOREN!"
+    },
+    {
+      "key": "UI_CHANCE",
+      "value": "{0}% GEWINN"
+    },
+    {
+      "key": "UI_LOSS",
+      "value": "{0}% VERLUST"
+    },
+    {
+      "key": "UI_INVEST_RETURN",
+      "value": "RÜCKZAHLUNG +50%"
+    },
+    {
+      "key": "UI_BUSINESS_RETURN",
+      "value": "RÜCKZAHLUNG +80%"
+    },
+    {
+      "key": "UI_FINISH_GATE",
+      "value": "ZIEL"
+    },
+    {
+      "key": "UI_STARS",
+      "value": "{0} / 3"
+    },
+    {
+      "key": "UI_SCORE",
+      "value": "PUNKTE {0}"
+    },
+    {
+      "key": "UI_SEED",
+      "value": "STARTWERT {0}"
+    },
+    {
+      "key": "UI_EXIT_ENDLESS",
+      "value": "GEWINN SICHERN"
+    },
+    {
+      "key": "UI_CASH_OUT",
+      "value": "{0} NEHMEN"
+    },
+    {
+      "key": "UI_CHAIN",
+      "value": "KETTE {0}"
+    },
+    {
+      "key": "UI_MARKET_ODDS",
+      "value": "20% x5\n50% +20%\n30% -25%"
+    },
+    {
+      "key": "UI_SHIELDED",
+      "value": "GESCHÜTZT!"
+    },
+    {
+      "key": "UI_NOT_ENOUGH",
+      "value": "ZU WENIG MÜNZEN"
+    },
+    {
+      "key": "UI_WORLD_LOCK",
+      "value": "LEVEL {0} ODER {1}"
+    },
+    {
+      "key": "UI_REPLAY",
+      "value": "WIEDERHOLEN"
+    },
+    {
+      "key": "UI_NEW_RUN_CONFIRM",
+      "value": "Neuen Lauf starten?"
+    },
+    {
+      "key": "UI_NEW_RUN_BODY",
+      "value": "Dein aktuelles Vermögen bleibt erhalten."
+    },
+    {
+      "key": "UI_GRAPHICS",
+      "value": "GRAFIK"
+    },
+    {
+      "key": "UI_HIGH",
+      "value": "HOCH"
+    },
+    {
+      "key": "UI_LOW",
+      "value": "NIEDRIG"
+    },
+    {
+      "key": "SLOT_Character",
+      "value": "CHARAKTERE"
+    },
+    {
+      "key": "SLOT_Outfit",
+      "value": "OUTFITS"
+    },
+    {
+      "key": "SLOT_Trail",
+      "value": "SPUREN"
+    },
+    {
+      "key": "SLOT_MoneyEffect",
+      "value": "GELDEFFEKTE"
+    },
+    {
+      "key": "SLOT_Victory",
+      "value": "SIEG"
+    },
+    {
+      "key": "SLOT_Vault",
+      "value": "TRESORE"
+    },
+    {
+      "key": "SLOT_Gate",
+      "value": "TOREFFEKTE"
+    },
+    {
+      "key": "GATE_Safe",
+      "value": "SICHER"
+    },
+    {
+      "key": "GATE_Risk",
+      "value": "RISIKO"
+    },
+    {
+      "key": "GATE_AddMoney",
+      "value": "GELD"
+    },
+    {
+      "key": "GATE_SubtractMoney",
+      "value": "GEBÜHR"
+    },
+    {
+      "key": "GATE_Multiplier",
+      "value": "MULTIPLIKATOR"
+    },
+    {
+      "key": "GATE_Tax",
+      "value": "STEUER"
+    },
+    {
+      "key": "GATE_Investment",
+      "value": "INVESTITION"
+    },
+    {
+      "key": "GATE_Business",
+      "value": "FIRMA"
+    },
+    {
+      "key": "GATE_Market",
+      "value": "MARKT"
+    },
+    {
+      "key": "GATE_Insurance",
+      "value": "VERSICHERUNG"
+    },
+    {
+      "key": "GATE_Shield",
+      "value": "SCHILD"
+    },
+    {
+      "key": "GATE_Luck",
+      "value": "GLÜCK +{0}%"
+    },
+    {
+      "key": "GATE_Mystery",
+      "value": "ÜBERRASCHUNG"
+    },
+    {
+      "key": "GATE_Jackpot",
+      "value": "JACKPOT"
+    },
+    {
+      "key": "GATE_DoubleOrNothing",
+      "value": "DOPPELT ODER NICHTS"
+    },
+    {
+      "key": "GATE_CashOut",
+      "value": "AUSZAHLEN"
+    },
+    {
+      "key": "GATE_RiskChain",
+      "value": "RISIKOKETTE"
+    },
+    {
+      "key": "GATE_Bonus",
+      "value": "BONUS"
+    },
+    {
+      "key": "GATE_KeyGate",
+      "value": "SCHLÜSSEL"
+    },
+    {
+      "key": "POWER_Shield",
+      "value": "SCHILD"
+    },
+    {
+      "key": "POWER_Magnet",
+      "value": "MAGNET"
+    },
+    {
+      "key": "POWER_Luck",
+      "value": "GLÜCK +{0}%"
+    },
+    {
+      "key": "POWER_DoubleCash",
+      "value": "DOPPELTES GELD"
+    },
+    {
+      "key": "POWER_SlowMotion",
+      "value": "ZEITLUPE"
+    },
+    {
+      "key": "OBSTACLE_tax",
+      "value": "STEUER"
+    },
+    {
+      "key": "OBSTACLE_police",
+      "value": "POLIZEI"
+    },
+    {
+      "key": "OBSTACLE_thief",
+      "value": "DIEB"
+    },
+    {
+      "key": "OBSTACLE_barrier",
+      "value": "BARRIERE"
+    },
+    {
+      "key": "OBSTACLE_spinner",
+      "value": "VORSICHT"
+    },
+    {
+      "key": "OBSTACLE_safe",
+      "value": "ROLLENDER TRESOR"
+    },
+    {
+      "key": "OBSTACLE_traffic",
+      "value": "VERKEHR"
+    },
+    {
+      "key": "OBSTACLE_wall",
+      "value": "STEUERWAND"
+    },
+    {
+      "key": "OBSTACLE_sign",
+      "value": "PENDELSCHILD"
+    },
+    {
+      "key": "OBSTACLE_closing",
+      "value": "SCHLIESSTOR"
+    },
+    {
+      "key": "RANK_0",
+      "value": "PLEITE"
+    },
+    {
+      "key": "RANK_1",
+      "value": "MACHER"
+    },
+    {
+      "key": "RANK_2",
+      "value": "VERDIENER"
+    },
+    {
+      "key": "RANK_3",
+      "value": "GROSSVERDIENER"
+    },
+    {
+      "key": "RANK_4",
+      "value": "MILLIONÄR"
+    },
+    {
+      "key": "RANK_5",
+      "value": "MULTIMILLIONÄR"
+    },
+    {
+      "key": "RANK_6",
+      "value": "TYCOON"
+    },
+    {
+      "key": "RANK_7",
+      "value": "MILLIARDÄR"
+    },
+    {
+      "key": "RANK_8",
+      "value": "MAGNAT"
+    },
+    {
+      "key": "RANK_9",
+      "value": "IMPERIUMBAUER"
+    },
+    {
+      "key": "RANK_10",
+      "value": "BILLIONÄR"
+    },
+    {
+      "key": "RANK_11",
+      "value": "LEGENDE"
+    },
+    {
+      "key": "MISSION_cash",
+      "value": "SAMMLE {0} GELDBÜNDEL"
+    },
+    {
+      "key": "MISSION_safe",
+      "value": "WÄHLE {0}-MAL SICHER"
+    },
+    {
+      "key": "MISSION_risks",
+      "value": "DURCHQUERE {0} RISIKOTORE"
+    },
+    {
+      "key": "MISSION_wins",
+      "value": "GEWINNE {0} RISIKOTORE"
+    },
+    {
+      "key": "MISSION_avoided",
+      "value": "WEICHE {0} HINDERNISSEN AUS"
+    },
+    {
+      "key": "MISSION_completed",
+      "value": "BEENDE {0} LEVEL"
+    },
+    {
+      "key": "MISSION_perfect",
+      "value": "BEENDE {0} PERFEKTE LÄUFE"
+    },
+    {
+      "key": "MISSION_coins",
+      "value": "VERDIENE {0} MÜNZEN"
+    },
+    {
+      "key": "MISSION_powers",
+      "value": "NUTZE {0} VERSTÄRKER"
+    },
+    {
+      "key": "MISSION_investments",
+      "value": "TÄTIGE {0} INVESTITIONEN"
+    },
+    {
+      "key": "MISSION_keys",
+      "value": "SAMMLE {0} SCHLÜSSEL"
+    },
+    {
+      "key": "MISSION_bonus",
+      "value": "BEENDE {0} BONUSLÄUFE"
+    },
+    {
+      "key": "MISSION_rareWins",
+      "value": "GEWINNE {0} SELTENE RISIKEN"
+    },
+    {
+      "key": "MISSION_combo",
+      "value": "ERREICHE EINE {0}ER-KOMBO"
+    },
+    {
+      "key": "MISSION_wealth",
+      "value": "ERREICHE {0}"
+    },
+    {
+      "key": "MISSION_collection",
+      "value": "BESITZE {0} KOSMETIKARTIKEL"
+    },
+    {
+      "key": "LANG_en",
+      "value": "English"
+    },
+    {
+      "key": "LANG_ru",
+      "value": "Русский"
+    },
+    {
+      "key": "LANG_tr",
+      "value": "Türkçe"
+    },
+    {
+      "key": "LANG_de",
+      "value": "Deutsch"
+    },
+    {
+      "key": "LANG_ar",
+      "value": "العربية"
+    },
+    {
+      "key": "LANG_zh",
+      "value": "简体中文"
+    },
+    {
+      "key": "LANG_es",
+      "value": "Español"
+    },
+    {
+      "key": "LANG_pt",
+      "value": "Português"
+    },
+    {
+      "key": "LANG_fr",
+      "value": "Français"
+    },
+    {
+      "key": "LANG_it",
+      "value": "Italiano"
+    },
+    {
+      "key": "LANG_pl",
+      "value": "Polski"
+    },
+    {
+      "key": "LANG_uk",
+      "value": "Українська"
+    },
+    {
+      "key": "LANG_hi",
+      "value": "हिन्दी"
+    },
+    {
+      "key": "LANG_id",
+      "value": "Bahasa Indonesia"
+    },
+    {
+      "key": "LANG_vi",
+      "value": "Tiếng Việt"
+    },
+    {
+      "key": "LANG_th",
+      "value": "ไทย"
+    },
+    {
+      "key": "LANG_ja",
+      "value": "日本語"
+    },
+    {
+      "key": "LANG_ko",
+      "value": "한국어"
+    },
+    {
+      "key": "LANG_zh_Hant",
+      "value": "繁體中文"
+    },
+    {
+      "key": "WORLD_streets",
+      "value": "STRASSEN"
+    },
+    {
+      "key": "WORLD_downtown",
+      "value": "INNENSTADT"
+    },
+    {
+      "key": "WORLD_business",
+      "value": "GESCHÄFTSVIERTEL"
+    },
+    {
+      "key": "WORLD_luxury",
+      "value": "LUXUSVIERTEL"
+    },
+    {
+      "key": "WORLD_island",
+      "value": "MILLIONÄRSINSEL"
+    },
+    {
+      "key": "WORLD_capital",
+      "value": "FINANZMETROPOLE"
+    },
+    {
+      "key": "WORLD_bay",
+      "value": "MILLIARDÄRSBUCHT"
+    },
+    {
+      "key": "WORLD_future",
+      "value": "ZUKUNFTSSTADT"
+    },
+    {
+      "key": "WORLD_gold",
+      "value": "GOLDSTADT"
+    },
+    {
+      "key": "ITEM_runner",
+      "value": "STANDARD"
+    },
+    {
+      "key": "ITEM_street",
+      "value": "STRASSE"
+    },
+    {
+      "key": "ITEM_businessman",
+      "value": "GESCHÄFTSMANN"
+    },
+    {
+      "key": "ITEM_businesswoman",
+      "value": "GESCHÄFTSFRAU"
+    },
+    {
+      "key": "ITEM_sport",
+      "value": "SPORTLER"
+    },
+    {
+      "key": "ITEM_gold_runner",
+      "value": "GOLDLÄUFER"
+    },
+    {
+      "key": "ITEM_millionaire",
+      "value": "MILLIONÄR"
+    },
+    {
+      "key": "ITEM_billionaire",
+      "value": "MILLIARDÄR"
+    },
+    {
+      "key": "ITEM_neon",
+      "value": "NEON"
+    },
+    {
+      "key": "ITEM_king",
+      "value": "GELDKÖNIG"
+    },
+    {
+      "key": "ITEM_outfit_classic",
+      "value": "KLASSISCH"
+    },
+    {
+      "key": "ITEM_outfit_coral",
+      "value": "KORALLE"
+    },
+    {
+      "key": "ITEM_outfit_mint",
+      "value": "MINZE"
+    },
+    {
+      "key": "ITEM_dust",
+      "value": "STAUB"
+    },
+    {
+      "key": "ITEM_cash_trail",
+      "value": "GELDSPUR"
+    },
+    {
+      "key": "ITEM_coin_trail",
+      "value": "MÜNZSPUR"
+    },
+    {
+      "key": "ITEM_gold_trail",
+      "value": "GOLDSPUR"
+    },
+    {
+      "key": "ITEM_neon_trail",
+      "value": "NEONSPUR"
+    },
+    {
+      "key": "ITEM_rainbow_trail",
+      "value": "REGENBOGEN"
+    },
+    {
+      "key": "ITEM_cash_green",
+      "value": "KLASSISCHES GELD"
+    },
+    {
+      "key": "ITEM_cash_gold",
+      "value": "GOLDGELD"
+    },
+    {
+      "key": "ITEM_cash_neon",
+      "value": "NEONGELD"
+    },
+    {
+      "key": "ITEM_cash_blue",
+      "value": "DIGITALES GELD"
+    },
+    {
+      "key": "ITEM_cash_rainbow",
+      "value": "REGENBOGENGELD"
+    },
+    {
+      "key": "ITEM_cash_spark",
+      "value": "GELDFUNKEN"
+    },
+    {
+      "key": "ITEM_jump",
+      "value": "SPRUNG"
+    },
+    {
+      "key": "ITEM_dance",
+      "value": "TANZ"
+    },
+    {
+      "key": "ITEM_money_rain",
+      "value": "GELDREGEN"
+    },
+    {
+      "key": "ITEM_backflip",
+      "value": "RÜCKWÄRTSSALTO"
+    },
+    {
+      "key": "ITEM_gold_pose",
+      "value": "GOLDPOSE"
+    },
+    {
+      "key": "ITEM_tornado",
+      "value": "GELDWIRBEL"
+    },
+    {
+      "key": "ITEM_vault_classic",
+      "value": "KLASSISCHER TRESOR"
+    },
+    {
+      "key": "ITEM_vault_gold",
+      "value": "GOLDTRESOR"
+    },
+    {
+      "key": "ITEM_vault_diamond",
+      "value": "DIAMANTTRESOR"
+    },
+    {
+      "key": "ITEM_vault_neon",
+      "value": "NEONTRESOR"
+    },
+    {
+      "key": "ITEM_gate_classic",
+      "value": "KLASSISCHE TORE"
+    },
+    {
+      "key": "ITEM_gate_spark",
+      "value": "FUNKENTORE"
+    },
+    {
+      "key": "ITEM_gate_confetti",
+      "value": "KONFETTI"
+    },
+    {
+      "key": "MISSION_jackpots",
+      "value": "GEWINNE {0} JACKPOTS"
+    },
+    {
+      "key": "LEVEL_1",
+      "value": "KLEINGELD"
+    },
+    {
+      "key": "LEVEL_2",
+      "value": "SEITENSTRASSE"
+    },
+    {
+      "key": "LEVEL_3",
+      "value": "BLAULICHT"
+    },
+    {
+      "key": "LEVEL_4",
+      "value": "ETWAS GLÜCK"
+    },
+    {
+      "key": "LEVEL_5",
+      "value": "GOLDENE CHANCE"
+    },
+    {
+      "key": "LEVEL_6",
+      "value": "FUSSGÄNGERÜBERWEG"
+    },
+    {
+      "key": "LEVEL_7",
+      "value": "SICHERHEIT ZUERST"
+    },
+    {
+      "key": "LEVEL_8",
+      "value": "ZWEI WEGE"
+    },
+    {
+      "key": "LEVEL_9",
+      "value": "FLINKE HÄNDE"
+    },
+    {
+      "key": "LEVEL_10",
+      "value": "INNENSTADT"
+    },
+    {
+      "key": "LEVEL_11",
+      "value": "VERKEHRSFLUSS"
+    },
+    {
+      "key": "LEVEL_12",
+      "value": "KLUGE ANLAGE"
+    },
+    {
+      "key": "LEVEL_13",
+      "value": "STADTBRÜCKEN"
+    },
+    {
+      "key": "LEVEL_14",
+      "value": "STEUERZEIT"
+    },
+    {
+      "key": "LEVEL_15",
+      "value": "DOPPELTES RISIKO"
+    },
+    {
+      "key": "LEVEL_16",
+      "value": "TRESORSCHLÜSSEL"
+    },
+    {
+      "key": "LEVEL_17",
+      "value": "GELD BEI DER ARBEIT"
+    },
+    {
+      "key": "LEVEL_18",
+      "value": "OFFENER MARKT"
+    },
+    {
+      "key": "LEVEL_19",
+      "value": "HAUPTSTRASSE"
+    },
+    {
+      "key": "LEVEL_20",
+      "value": "GELDRAUSCH"
+    },
+    {
+      "key": "UI_PRIVACY",
+      "value": "Datenschutz"
+    },
+    {
+      "key": "UI_PRIVACY_BODY",
+      "value": "Fortschritt, Einstellungen und Sammlung werden auf diesem Gerät gespeichert. Das Spiel benötigt kein Konto und sendet keine Spielanalysen an einen Server. Du kannst deinen Fortschritt in den Einstellungen löschen oder die App-Daten entfernen."
+    },
+    {
+      "key": "UI_PRIVACY_OPEN",
+      "value": "Datenschutzerklärung"
+    }
+  ]
+}

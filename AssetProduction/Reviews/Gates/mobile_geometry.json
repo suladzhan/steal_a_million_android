@@ -1,0 +1,38 @@
+[
+  {
+    "id": "safe",
+    "source": "AssetProduction\\02_Generated\\GateCrests\\20260926_134802_safe-v001_01a0dd1b",
+    "original_triangles": 101608,
+    "triangles": 1400,
+    "normalized_height": 0.9,
+    "width": 0.6503583434731208,
+    "depth": 0.18
+  },
+  {
+    "id": "risk",
+    "source": "AssetProduction\\02_Generated\\GateCrests\\20260926_134835_risk-v001_01a0dd1b",
+    "original_triangles": 201078,
+    "triangles": 1400,
+    "normalized_height": 0.9,
+    "width": 0.5004813183099894,
+    "depth": 0.18
+  },
+  {
+    "id": "jackpot",
+    "source": "AssetProduction\\02_Generated\\GateCrests\\20260926_134835_jackpot-v001_01a0dd1b",
+    "original_triangles": 874316,
+    "triangles": 1400,
+    "normalized_height": 0.9,
+    "width": 0.9094440516133063,
+    "depth": 0.18
+  },
+  {
+    "id": "investment",
+    "source": "AssetProduction\\02_Generated\\GateCrests\\20260926_134835_investment-v001_01a0dd1b",
+    "original_triangles": 85626,
+    "triangles": 1400,
+    "normalized_height": 0.9,
+    "width": 0.6846279487419887,
+    "depth": 0.18
+  }
+]

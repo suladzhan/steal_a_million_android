@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c67f9541584a41f4482085ebcb1fbb9e, type: 3}
+  m_Name: Balance
+  m_EditorClassIdentifier: StealAMillion.Runtime::StealAMillion.RunnerConfig
+  economy:
+    startingMoney: 100
+    pickupBase: 5
+    pickupLevelStep: 3
+    growthStartsAt: 20
+    pickupGrowth: 1.065
+    safeCashUnits: 5
+    lateSafeFraction: 0.05
+    percentageSafeStartsAt: 50
+    taxLoss: 0.15
+    obstacleLoss: 0.1
+    luckBonus: 0.1
+    investmentUnits: 6
+    businessUnits: 10
+    insuranceUnits: 3
+    investmentReturn: 1.5
+    businessReturn: 1.8
+    investmentDistance: 45
+    finishCoins: 20
+    finishXp: 70
+    milestoneCoins: 30
+    milestoneXp: 40
+    riskTiers:
+    - level: 1
+      probability: 0.6
+      multiplier: 1.5
+    - level: 4
+      probability: 0.6
+      multiplier: 2
+    - level: 20
+      probability: 0.45
+      multiplier: 3
+    - level: 50
+      probability: 0.3
+      multiplier: 4
+  horizontalSpeed: 13
+  dragSensitivity: 13
+  suspenseSeconds: 1.1
+  powerSeconds: 9
+  endlessUnlockLevel: 12
+  mockAds: 1
+  targetFrameRate: 60

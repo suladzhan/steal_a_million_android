@@ -1,0 +1,1 @@
+UI sprites imported; gate dimensions (3.56, 4.78, 0.64); tint and neutral trim separated; no imported colliders.

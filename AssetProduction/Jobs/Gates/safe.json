@@ -1,0 +1,22 @@
+﻿{
+    "id":  "gate-crest-safe-v001",
+    "estimated_credits":  20,
+    "arguments":  [
+                      "text-to-3d",
+                      "create",
+                      "--mode",
+                      "preview",
+                      "--prompt",
+                      "A chunky toy shield emblem with a deep embossed check mark, broad beveled rim, simple clean recognizable silhouette, front-facing vertical badge, shallow solid relief, no letters, no pedestal, no scene, low-poly mobile game decorative gateway crest",
+                      "--target-formats",
+                      "glb",
+                      "--async",
+                      "--workspace",
+                      "C:/Users/user/Desktop/game 1/AssetProduction/02_Generated",
+                      "--output-schema",
+                      "v1",
+                      "--format",
+                      "json",
+                      "--no-update-check"
+                  ]
+}

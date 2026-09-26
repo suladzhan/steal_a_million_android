@@ -1,0 +1,21 @@
+{
+  "asset_id": "TRK_straight",
+  "status": "Exported",
+  "triangles": 132,
+  "triangle_budget": 1500,
+  "within_triangle_budget": true,
+  "materials": 1,
+  "bounds_unity_metres": {
+    "width": 8.65999984741211,
+    "height": 0.5474999845027924,
+    "depth": 18.0
+  },
+  "source": "Original parameterized Blender geometry; build_models.py",
+  "palette": "../Shared/SAM_palette__v001.png",
+  "blender_version": "4.5.12 LTS",
+  "date": "2026-09-24",
+  "credits": 0,
+  "mesh_objects": 1,
+  "notes": "18m length; gameplay collider is not exported.",
+  "qa": "Blender counts only; pending FBX reimport, Unity, Android and visual approval."
+}

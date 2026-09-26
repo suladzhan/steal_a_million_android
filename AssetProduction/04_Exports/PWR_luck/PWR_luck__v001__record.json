@@ -1,0 +1,21 @@
+{
+  "asset_id": "PWR_luck",
+  "status": "Exported",
+  "triangles": 1004,
+  "triangle_budget": 2500,
+  "within_triangle_budget": true,
+  "materials": 1,
+  "bounds_unity_metres": {
+    "width": 0.7200000286102295,
+    "height": 0.8400000333786011,
+    "depth": 0.16200000047683716
+  },
+  "source": "Original parameterized Blender geometry; build_models.py",
+  "palette": "../Shared/SAM_palette__v001.png",
+  "blender_version": "5.2.2 LTS",
+  "date": "2026-09-25",
+  "credits": 0,
+  "mesh_objects": 1,
+  "notes": "Visual only; no collider or baked gameplay text.",
+  "qa": "Blender counts only; pending FBX reimport, Unity, Android and visual approval."
+}

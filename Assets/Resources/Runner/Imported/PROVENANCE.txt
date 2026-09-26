@@ -1,0 +1,13 @@
+Runner art pilot, generated 2026-09-24; Unity import reviewed 2026-09-25.
+Source: preserved Meshy GLBs in AssetProduction/02_Generated/CHAR_runner.
+Reference: AssetProduction/01_References/CHAR_runner.
+Task IDs, recorded charges: AssetProduction/Reviews/meshy__v001__tasks.json.
+Adaptation: AssetProduction/Tools/prepare_runner.py.
+Humanoid configuration: AssetProduction/Tools/UnityRunnerReview.cs.
+QA: AssetProduction/Reviews/Runner/REVIEW_2026-09-25.md.
+The jump is a local hop combined with the money-rain arm-raise source.
+Money particles are not embedded in the animation.
+
+Pilot runtime integration: base runner, classic outfit, jump/dance/money_rain.
+Other characters, recolored outfits and unsupported victories use existing
+procedural art. Animation polish and full catalog completion remain pending.

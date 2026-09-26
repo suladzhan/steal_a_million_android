@@ -1,0 +1,24 @@
+﻿{
+    "estimated_credits":  20,
+    "arguments":  [
+                      "text-to-3d",
+                      "create",
+                      "--mode",
+                      "preview",
+                      "--target-formats",
+                      "glb",
+                      "--async",
+                      "--prompt",
+                      "Premium original stylized mobile runner game asset: complete adult female stylized cartoon mobile game runner, friendly expressive face, short tidy brown ponytail, royal blue simple fitted T-shirt, navy trousers, white sneakers, modest athletic outfit, hands relaxed, full body, separated limbs in A pose, no props. Soft rounded forms, chunky readable silhouette, clean toy proportions, complete isolated subject, no scene, no logos, no text.",
+                      "--pose-mode",
+                      "a-pose",
+                      "--workspace",
+                      "C:\\Users\\user\\Desktop\\game 1\\AssetProduction\\02_Generated",
+                      "--output-schema",
+                      "v1",
+                      "--format",
+                      "json",
+                      "--no-update-check"
+                  ],
+    "id":  "major-female-preview"
+}

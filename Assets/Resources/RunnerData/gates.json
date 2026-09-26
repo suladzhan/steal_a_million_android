@@ -1,0 +1,194 @@
+{
+  "gates": [
+    {
+      "id": "safe",
+      "kind": 0,
+      "title": "GATE_Safe",
+      "probability": 0.6,
+      "multiplier": 1.5,
+      "loss": 0.25,
+      "scale": 1,
+      "minLevel": 1
+    },
+    {
+      "id": "risk",
+      "kind": 1,
+      "title": "GATE_Risk",
+      "probability": 0.6,
+      "multiplier": 1.5,
+      "loss": 0.25,
+      "scale": 1,
+      "minLevel": 1
+    },
+    {
+      "id": "addmoney",
+      "kind": 2,
+      "title": "GATE_AddMoney",
+      "probability": 0.6,
+      "multiplier": 1.5,
+      "loss": 0.25,
+      "scale": 1,
+      "minLevel": 1
+    },
+    {
+      "id": "subtractmoney",
+      "kind": 3,
+      "title": "GATE_SubtractMoney",
+      "probability": 0.6,
+      "multiplier": 1.5,
+      "loss": 0.25,
+      "scale": 1,
+      "minLevel": 1
+    },
+    {
+      "id": "multiplier",
+      "kind": 4,
+      "title": "GATE_Multiplier",
+      "probability": 0.6,
+      "multiplier": 1.5,
+      "loss": 0.25,
+      "scale": 1,
+      "minLevel": 1
+    },
+    {
+      "id": "tax",
+      "kind": 5,
+      "title": "GATE_Tax",
+      "probability": 0.6,
+      "multiplier": 1.5,
+      "loss": 0.25,
+      "scale": 1,
+      "minLevel": 1
+    },
+    {
+      "id": "investment",
+      "kind": 6,
+      "title": "GATE_Investment",
+      "probability": 0.6,
+      "multiplier": 1.5,
+      "loss": 0.25,
+      "scale": 1,
+      "minLevel": 1
+    },
+    {
+      "id": "business",
+      "kind": 7,
+      "title": "GATE_Business",
+      "probability": 0.6,
+      "multiplier": 1.5,
+      "loss": 0.25,
+      "scale": 1,
+      "minLevel": 1
+    },
+    {
+      "id": "market",
+      "kind": 8,
+      "title": "GATE_Market",
+      "probability": 0.6,
+      "multiplier": 1.5,
+      "loss": 0.25,
+      "scale": 1,
+      "minLevel": 1
+    },
+    {
+      "id": "insurance",
+      "kind": 9,
+      "title": "GATE_Insurance",
+      "probability": 0.6,
+      "multiplier": 1.5,
+      "loss": 0.25,
+      "scale": 1,
+      "minLevel": 1
+    },
+    {
+      "id": "shield",
+      "kind": 10,
+      "title": "GATE_Shield",
+      "probability": 0.6,
+      "multiplier": 1.5,
+      "loss": 0.25,
+      "scale": 1,
+      "minLevel": 1
+    },
+    {
+      "id": "luck",
+      "kind": 11,
+      "title": "GATE_Luck",
+      "probability": 0.6,
+      "multiplier": 1.5,
+      "loss": 0.25,
+      "scale": 1,
+      "minLevel": 1
+    },
+    {
+      "id": "mystery",
+      "kind": 12,
+      "title": "GATE_Mystery",
+      "probability": 0.6,
+      "multiplier": 1.5,
+      "loss": 0.25,
+      "scale": 1,
+      "minLevel": 1
+    },
+    {
+      "id": "jackpot",
+      "kind": 13,
+      "title": "GATE_Jackpot",
+      "probability": 0.1,
+      "multiplier": 2,
+      "loss": 0.25,
+      "scale": 1,
+      "minLevel": 5
+    },
+    {
+      "id": "doubleornothing",
+      "kind": 14,
+      "title": "GATE_DoubleOrNothing",
+      "probability": 0.6,
+      "multiplier": 2,
+      "loss": 1,
+      "scale": 1,
+      "minLevel": 1
+    },
+    {
+      "id": "cashout",
+      "kind": 15,
+      "title": "GATE_CashOut",
+      "probability": 0.6,
+      "multiplier": 1.5,
+      "loss": 0.25,
+      "scale": 1,
+      "minLevel": 1
+    },
+    {
+      "id": "riskchain",
+      "kind": 16,
+      "title": "GATE_RiskChain",
+      "probability": 0.7,
+      "multiplier": 2,
+      "loss": 0.25,
+      "scale": 1,
+      "minLevel": 1
+    },
+    {
+      "id": "bonus",
+      "kind": 17,
+      "title": "GATE_Bonus",
+      "probability": 0.6,
+      "multiplier": 1.5,
+      "loss": 0.25,
+      "scale": 1,
+      "minLevel": 1
+    },
+    {
+      "id": "keygate",
+      "kind": 18,
+      "title": "GATE_KeyGate",
+      "probability": 0.6,
+      "multiplier": 1.5,
+      "loss": 0.25,
+      "scale": 1,
+      "minLevel": 1
+    }
+  ]
+}

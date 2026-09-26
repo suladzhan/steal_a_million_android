@@ -1,0 +1,949 @@
+[Licensing::Module] Trying to connect to existing licensing client channel...
+Built from '6000.3/staging' branch; Version is '6000.3.23f1 (09d2ecc7fb28) revision 643820'; Using compiler version '194234433'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26200) Core' Language: 'ru' Physical Memory: 15996 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-user" at "2026-09-24T19:03:53.4473092Z"
+System  architecture: x64
+Process architecture: x64
+Date: 2026-09-24T19:03:53Z
+[Licensing::Client] Code 10 while verifying Licensing Client signature (process Id: 14188, path: "C:/Program Files/Unity Hub/UnityLicensingClient_V1/Unity.Licensing.Client.exe")
+[Licensing::Module] LicensingClient has failed validation; ignoring
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.18.3+d7ffd15
+  Session Id:              de069ecfc6764682810cff7510765e3b
+  Correlation Id:          a5dc85dc8809a7d14eea91914b8109aa
+  External correlation Id: 2692057166256892997
+  Machine Id:              8dTvhmb+peyLDXX/4fCntrXsBm8=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-user" (connect: 0.00s, validation: 0.01s, handshake: 0.06s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-user-notifications" at "2026-09-24T19:03:53.514427Z"
+[Licensing::Module] Error: Access token is unavailable; failed to update
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: 18968504158668-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+[Licensing::Client] Successfully updated license, isAsync: True, time: 0.00
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] Licensing Background thread has ended after 0.09s
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.3.23f1\Editor\Unity.exe
+-batchmode
+-nographics
+-quit
+-projectPath
+C:\Users\user\Desktop\game 1\.utmp\asset-review
+-executeMethod
+ProductionReview.Run
+-logFile
+C:\Users\user\Desktop\game 1\AssetProduction\Reviews\Unity__v001.log
+Successfully changed project path to: C:\Users\user\Desktop\game 1\.utmp\asset-review
+C:/Users/user/Desktop/game 1/.utmp/asset-review
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-gfx=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-remapper-allocator-initial-capacity=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+Player connection [26208]  Target information:
+
+Player connection [26208]  * "[IP] 172.17.32.1 [Port] 55504 [Flags] 2 [Guid] 3081014284 [EditorId] 3081014284 [Version] 1048832 [Id] WindowsEditor(7,SamsungGalaxyPro-Suleiman) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [26208]  * "[IP] 192.168.1.39 [Port] 55504 [Flags] 2 [Guid] 3081014284 [EditorId] 3081014284 [Version] 1048832 [Id] WindowsEditor(7,SamsungGalaxyPro-Suleiman) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [26208] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [26208] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+[Package Manager] Connected to IPC stream "Upm-948" after 0.4 seconds.
+[Licensing::Client] Successfully resolved entitlement details
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Artifact Garbage Collection - Removed 35 unused hashed content files
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.3.23f1 (09d2ecc7fb28)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.3.23f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/user/Desktop/game 1/.utmp/asset-review/Assets
+Forcing GfxDevice: Null
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+NullGfxDevice:
+    Version:  NULL 1.0 [1.0]
+    Renderer: Null Device
+    Vendor:   Unity Technologies
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.3.23f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.3.23f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.3.23f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56948
+Using cacheserver namespaces - metadata:defaultmetadata, artifacts:defaultartifacts
+Using cacheserver namespaces - metadata:defaultmetadata, artifacts:defaultartifacts
+ImportWorker Server TCP listen port: 0
+AcceleratorClientConnectionCallback - disconnected - :0
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.3.23f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+[Licensing::Client] Successfully resolved entitlement details
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.3.23f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Registered in 0.008700 seconds.
+- Loaded All Assemblies, in  0.659 seconds
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Package Manager log level set to [2]
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:False
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.634 seconds
+Domain Reload Profiling: 1290ms
+	BeginReloadAssembly (222ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (14ms)
+	RebuildCommonClasses (48ms)
+	RebuildNativeTypeToScriptingClass (18ms)
+	initialDomainReloadingComplete (78ms)
+	LoadAllAssembliesAndSetupDomain (290ms)
+		LoadAssemblies (204ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (286ms)
+			TypeCache.Refresh (282ms)
+				TypeCache.ScanAssembly (260ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (635ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (568ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (74ms)
+			SetLoadedEditorAssemblies (7ms)
+			BeforeProcessingInitializeOnLoad (111ms)
+			ProcessInitializeOnLoadAttributes (228ms)
+			ProcessInitializeOnLoadMethodAttributes (149ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+[Licensing::Client] Successfully resolved entitlement details
+Application.AssetDatabase Initial Refresh Start
+[Package Manager] Restoring resolved packages state from cache
+[Licensing::Client] Successfully resolved entitlement details
+[Package Manager] Registered 7 packages:
+  Built-in packages:
+    com.unity.ugui@2.0.0 (location: C:\Users\user\Desktop\game 1\.utmp\asset-review\Library\PackageCache\com.unity.ugui@27635d171b1a)
+    com.unity.modules.animation@1.0.0 (location: C:\Users\user\Desktop\game 1\.utmp\asset-review\Library\PackageCache\com.unity.modules.animation)
+    com.unity.modules.imageconversion@1.0.0 (location: C:\Users\user\Desktop\game 1\.utmp\asset-review\Library\PackageCache\com.unity.modules.imageconversion)
+    com.unity.modules.jsonserialize@1.0.0 (location: C:\Users\user\Desktop\game 1\.utmp\asset-review\Library\PackageCache\com.unity.modules.jsonserialize)
+    com.unity.modules.particlesystem@1.0.0 (location: C:\Users\user\Desktop\game 1\.utmp\asset-review\Library\PackageCache\com.unity.modules.particlesystem)
+    com.unity.modules.ui@1.0.0 (location: C:\Users\user\Desktop\game 1\.utmp\asset-review\Library\PackageCache\com.unity.modules.ui)
+    com.unity.modules.imgui@1.0.0 (location: C:\Users\user\Desktop\game 1\.utmp\asset-review\Library\PackageCache\com.unity.modules.imgui)
+[Subsystems] No new subsystems found in resolved package list.
+[Package Manager] Done registering packages in 0.01 seconds
+Starting: C:\Program Files\Unity\Hub\Editor\6000.3.23f1\Editor\Data\Tools\BuildPipeline\bee_backend.exe --ipc --defer-dag-verification --dagfile="Library/Bee/1900b0aE.dag" --continue-on-failure --profile="Library/Bee/backend1.traceevents" ScriptAssemblies
+WorkingDir: C:/Users/user/Desktop/game 1/.utmp/asset-review
+DisplayProgressbar: Compiling Scripts
+ExitCode: 0 Duration: 0s152ms
+*** Tundra build success (0.08 seconds), 0 items updated, 204 evaluated
+AssetDatabase: script compilation time: 0.746847s
+Begin MonoManager ReloadAssembly
+Total cache size 69675653
+Total cache size after purge 69675653, took 00:00:00.1034462
+- Loaded All Assemblies, in  0.446 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+ScheduleIndexationOnStartup MainProcess:True IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.789 seconds
+Domain Reload Profiling: 1231ms
+	BeginReloadAssembly (295ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (42ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (52ms)
+	RebuildCommonClasses (54ms)
+	RebuildNativeTypeToScriptingClass (19ms)
+	initialDomainReloadingComplete (32ms)
+	LoadAllAssembliesAndSetupDomain (42ms)
+		LoadAssemblies (156ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (33ms)
+			TypeCache.Refresh (23ms)
+				TypeCache.ScanAssembly (14ms)
+			BuildScriptInfoCaches (4ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (790ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (522ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (50ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (187ms)
+			ProcessInitializeOnLoadAttributes (198ms)
+			ProcessInitializeOnLoadMethodAttributes (72ms)
+			AfterProcessingInitializeOnLoad (10ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (45ms)
+Start importing Assets/Production/PROP_cash_stack/PROP_cash_stack__v001__preview.png using Guid(90cf055a803ae844493f2ab7b2430ced) (TextureImporter) -> (artifact id: '87344c6c9afe73e32434cbed3906867e') in 0.0295493 seconds
+Start importing Assets/Production/TRK_straight/TRK_straight__v001__preview.png using Guid(82a84d49783ece44586c5cb39b22628d) (TextureImporter) -> (artifact id: '6ec0c5f2a8313747a5ae588932ef985b') in 0.0117547 seconds
+Start importing Assets/Production/PROP_coin/PROP_coin__v001__preview.png using Guid(337f093092bfb5641a4978ba78415094) (TextureImporter) -> (artifact id: '54b55a9dfdd21b360e0f45afe4f80edb') in 0.0138311 seconds
+Start importing Assets/Production/ENV_streets_crate/ENV_streets_crate__v001__preview.png using Guid(831363279b1afdb4e880c2ac608790c2) (TextureImporter) -> (artifact id: '9e2d73531c10bb8d7d52fd24411b5086') in 0.0171418 seconds
+Start importing Assets/Production/vault_diamond/vault_diamond__v001__preview.png using Guid(f4905fa95e9e45f479c4fed527ef915c) (TextureImporter) -> (artifact id: 'a6f03afde362ba76d5d12db1bed72ebd') in 0.0143112 seconds
+Start importing Assets/Production/ENV_streets_shopfront/ENV_streets_shopfront__v001__preview.png using Guid(95193ec1cdd33474fb69d46647056afc) (TextureImporter) -> (artifact id: 'a22237e0836984c4e6db183b1bbe5b82') in 0.0158595 seconds
+Start importing Assets/Production/vault_gold/vault_gold__v001__preview.png using Guid(959df85a26c355a46823c6bd7b49a246) (TextureImporter) -> (artifact id: 'e66b3d55edaefd5b5eca4f74a2e2565b') in 0.0158733 seconds
+Start importing Assets/Production/GATE_frame/GATE_frame__v001__preview.png using Guid(574966361bbff30439556c4ba62968f2) (TextureImporter) -> (artifact id: '59b0019dcfbae67c509967929049a674') in 0.0146633 seconds
+Start importing Assets/Production/vault_neon/vault_neon__v001__preview.png using Guid(b82bf12280eca464cafd38bb37963468) (TextureImporter) -> (artifact id: '91a56c8c390801561cbf9ef53f38cb8d') in 0.0127809 seconds
+Start importing Assets/Production/TRK_bonus/TRK_bonus__v001__preview.png using Guid(19b1c77f29be9534981f1411d2fb1515) (TextureImporter) -> (artifact id: '56310b12c9870c4b019addbc3040025d') in 0.0118341 seconds
+Start importing Assets/Production/Particles/PT_coin__v001.png using Guid(aa31a6169269d3e4ba97ea8d46c5ec60) (TextureImporter) -> (artifact id: '95b7703d4fe7ed5e52c4b1f55f73a4a7') in 0.0069436 seconds
+Start importing Assets/Production/TRK_split/TRK_split__v001__preview.png using Guid(aa09653a625419d408add3440b088391) (TextureImporter) -> (artifact id: 'ec2268741705a8b918fa1540545b8be3') in 0.0159652 seconds
+Start importing Assets/Production/vault_classic/vault_classic__v001__preview.png using Guid(8b135c8ca8586e5469883d6e8aee133a) (TextureImporter) -> (artifact id: '8fc597b8ba5074f18097fd0524d9ea7e') in 0.0246877 seconds
+Start importing Assets/Production/ENV_streets_kiosk/ENV_streets_kiosk__v001__preview.png using Guid(fc259f05ced1d634d98874d3dffaf5dc) (TextureImporter) -> (artifact id: '55f2705103b3b0e65134d56baadd4778') in 0.0246531 seconds
+Start importing Assets/Production/ENV_streets_house/ENV_streets_house__v001__preview.png using Guid(7fa1742c813d04e4cb1a45be13584e9a) (TextureImporter) -> (artifact id: '556788fbf2a3992662b90075529fd74a') in 0.0195428 seconds
+Start importing Assets/Production/TRK_finish/TRK_finish__v001__preview.png using Guid(ffd6f05be829ef643abe80f5b2408f3d) (TextureImporter) -> (artifact id: 'a908d666feb07efb4368e6edfb18a326') in 0.0129059 seconds
+Start importing Assets/Production/vault_neon/vault_neon__v001__model.fbx using Guid(80f104afefc94ad4f87399ea9f0d068f) (FBXImporter) -> (artifact id: 'b77c602f507a48b95ac4b1394b351e08') in 0.0415136 seconds
+Start importing Assets/Production/TRK_bonus/TRK_bonus__v001__model.fbx using Guid(22e69b7612bdf664386ae7d8c7e3a27d) (FBXImporter) -> (artifact id: '858a93f58dd007ad66d8757ca2390704') in 0.020982 seconds
+Start importing Assets/Production/vault_diamond/vault_diamond__v001__model.fbx using Guid(42bb878f15bc7a54d862050cec5a1606) (FBXImporter) -> (artifact id: 'a55d3a0bf43029c130e62b1ac86d963d') in 0.02672 seconds
+Start importing Assets/Production/PROP_coin/PROP_coin__v001__model.fbx using Guid(837c83c91b82b4a4b9ea5518836f53f4) (FBXImporter) -> (artifact id: 'c85a43410c895e2ef031e78176274838') in 0.0213124 seconds
+Start importing Assets/Production/ENV_streets_crate/ENV_streets_crate__v001__model.fbx using Guid(a36cf8df53efe5f49bbc03c8724e1773) (FBXImporter) -> (artifact id: 'eda497eef4a1da777f92e2d1c85af195') in 0.0215561 seconds
+Start importing Assets/Production/ENV_streets_house/ENV_streets_house__v001__model.fbx using Guid(148fb718d3e797248b5d4dde1ced837b) (FBXImporter) -> (artifact id: '937602a339ae3377aabbbde41938f429') in 0.0209709 seconds
+Start importing Assets/Production/ENV_streets_shopfront/ENV_streets_shopfront__v001__model.fbx using Guid(a60680e02175dd24ab925645299fe3f1) (FBXImporter) -> (artifact id: '66e84ba3bd8dd5094f4c97c14335a0a6') in 0.0218517 seconds
+Start importing Assets/Production/TRK_finish/TRK_finish__v001__model.fbx using Guid(27fa8d85c8ed75c4d887956a91e35a96) (FBXImporter) -> (artifact id: '72e798b1a2d31a6e699a3edfb6e56575') in 0.0202471 seconds
+Start importing Assets/Production/TRK_split/TRK_split__v001__model.fbx using Guid(5aa25e05788fff445a71de23ea52ad57) (FBXImporter) -> (artifact id: '393dbeb165ec99ea51b548ce411c61c5') in 0.0215707 seconds
+Start importing Assets/Production/ENV_streets_kiosk/ENV_streets_kiosk__v001__model.fbx using Guid(ca2fdf15778f7764bb5af73d52121ee9) (FBXImporter) -> (artifact id: '54de214928d09b654e049103864ebf00') in 0.0221398 seconds
+Start importing Assets/Production/PROP_cash_stack/PROP_cash_stack__v001__model.fbx using Guid(7bcf2493db9bb634ca503d482fcc0787) (FBXImporter) -> (artifact id: '379db74584eb2de6f8d1431ee52441a1') in 0.0194407 seconds
+Start importing Assets/Production/vault_classic/vault_classic__v001__model.fbx using Guid(fb8d036f9fe9cf946b9dbadf14546c94) (FBXImporter) -> (artifact id: '08f9c06b6482a3efdea446020a92240a') in 0.0256349 seconds
+Start importing Assets/Production/vault_gold/vault_gold__v001__model.fbx using Guid(ec89b34a7b1b8154e8faf70376c45079) (FBXImporter) -> (artifact id: 'b933a2fd10999d64e5dd39eb09a2f934') in 0.0280572 seconds
+Start importing Assets/Production/TRK_straight/TRK_straight__v001__model.fbx using Guid(1e527ce34d9fa244fb2dd4a3f0782f8b) (FBXImporter) -> (artifact id: '52d5c7211756e0932e7ccd1774c9f362') in 0.0206206 seconds
+Start importing Assets/Production/GATE_frame/GATE_frame__v001__model.fbx using Guid(2e9cd2bb197c36444a0dd306fb57fd15) (FBXImporter) -> (artifact id: 'db451e0eb24e7c4d67ef30acf8612807') in 0.0243246 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=febac3970ac2a7e408ee4ebb7e3e9b0d): Total: 2.998 seconds - Initiated by InitialRefreshV2(ForceSynchronousImport)
+	Summary:
+		Imports: total=31 (actual=31, local cache=0, cache server=0)
+		Asset DB Process Time: managed=15 ms, native=1651 ms
+		Asset DB Callback time: managed=97 ms, native=22 ms
+		Scripting: domain reloads=1, domain reload time=446 ms, compile time=750 ms, other=14 ms
+		Project Asset Count: scripts=140, non-scripts=326
+		Asset File Changes: new=0, changed=31, moved=0, deleted=0
+		Scan Filter Count: 0
+	InvokeCustomDependenciesCallbacks: 0.002ms
+	InvokePackagesCallback: 17.007ms
+	ApplyChangesToAssetFolders: 0.438ms
+	Scan: 101.818ms
+	OnSourceAssetsModified: 1.539ms
+	CategorizeAssetsWithTransientArtifact: 2.005ms
+	ProcessAssetsWithTransientArtifactChanges: 8.674ms
+	CategorizeAssets: 3.951ms
+	ImportOutOfDateAssets: 1429.577ms (40.405ms without children)
+		ImportManagerImport: 638.538ms (3.304ms without children)
+			ImportInProcess: 634.948ms
+			UpdateCategorizedAssets: 0.286ms
+		CompileScripts: 749.918ms
+		ReloadNativeAssets: 0.001ms
+		UnloadImportedAssets: 0.137ms
+		ReloadImportedAssets: 0.006ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.088ms
+		InitializingProgressBar: 0.011ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.001ms
+		OnDemandSchedulerStart: 0.473ms
+	PostProcessAllAssets: 102.396ms
+	Hotreload: 1.765ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.003ms
+	UnloadStreamsBegin: 1.818ms
+	PersistCurrentRevisions: 0.296ms
+	UnloadStreamsEnd: 0.001ms
+	GenerateScriptTypeHashes: 0.159ms
+	Untracked: 1326.515ms
+
+Application.AssetDatabase Initial Refresh End
+Scanning for USB devices : 1.147ms
+Initializing Unity extensions:
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+[MODES] Loading mode Default (0) for mode-current-id-asset-review
+Unloading 19 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 385 unused Assets / (0.6 MB). Loaded Objects now: 992.
+Memory consumption went from 103.1 MB to 102.5 MB.
+Total: 6.150400 ms (FindLiveObjects: 0.113700 ms CreateObjectMapping: 0.023400 ms MarkObjects: 5.669500 ms  DeleteObjects: 0.341400 ms)
+
+Asset Pipeline Refresh (id=1d5cc8f79b8d488448843e852192e52c): Total: 0.020 seconds - Initiated by RefreshV2(NoUpdateAssetOptions)
+Start importing Assets/Production/ENV_streets_crate/ENV_streets_crate__v001__preview.png using Guid(831363279b1afdb4e880c2ac608790c2) (TextureImporter) -> (artifact id: '9e2d73531c10bb8d7d52fd24411b5086') in 0.0162563 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=f434d587bd916f1458c43edb8dbd1f29): Total: 0.057 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/ENV_streets_house/ENV_streets_house__v001__preview.png using Guid(7fa1742c813d04e4cb1a45be13584e9a) (TextureImporter) -> (artifact id: '556788fbf2a3992662b90075529fd74a') in 0.0160091 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=5d7be4c1174b9ef4c8236af31eae26cb): Total: 0.030 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/ENV_streets_kiosk/ENV_streets_kiosk__v001__preview.png using Guid(fc259f05ced1d634d98874d3dffaf5dc) (TextureImporter) -> (artifact id: '55f2705103b3b0e65134d56baadd4778') in 0.0139524 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=9a484ee11ba518a4eb4cd5e131756aa3): Total: 0.029 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/ENV_streets_shopfront/ENV_streets_shopfront__v001__preview.png using Guid(95193ec1cdd33474fb69d46647056afc) (TextureImporter) -> (artifact id: 'a22237e0836984c4e6db183b1bbe5b82') in 0.0158262 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=5610f13bae0fa814cac196e8293218d2): Total: 0.030 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/GATE_frame/GATE_frame__v001__preview.png using Guid(574966361bbff30439556c4ba62968f2) (TextureImporter) -> (artifact id: '59b0019dcfbae67c509967929049a674') in 0.0128459 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=d585970702fd78c4fb07b2fd3e686d1c): Total: 0.027 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/Particles/PT_coin__v001.png using Guid(aa31a6169269d3e4ba97ea8d46c5ec60) (TextureImporter) -> (artifact id: '95b7703d4fe7ed5e52c4b1f55f73a4a7') in 0.004824 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=240469552c61542469a68a4d0af9fa1a): Total: 0.018 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/Particles/PT_confetti__v001.png using Guid(8ca5e4c50bbc82740aea25f42e94d535) (TextureImporter) -> (artifact id: 'fae6429232ac88282e2c65dab8fb4617') in 0.0080938 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=cd42efcb29bda114ba75a4b9eadf595d): Total: 0.023 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/Particles/PT_dust__v001.png using Guid(6eb169c29775f5147aa84851f8b3924e) (TextureImporter) -> (artifact id: '0f599e976501bf235f2165d283a14ffd') in 0.005551 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=476207b61b8ca4f4e8a7db79247207f0): Total: 0.025 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/Particles/PT_note__v001.png using Guid(620a4d1db9f71684fb8e544e94d64cd5) (TextureImporter) -> (artifact id: '573b02deba2f0449227da8c6babb68c3') in 0.005087 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=bb9ed753a047a4440900bcfa1ce3ff5a): Total: 0.019 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/Particles/PT_ring__v001.png using Guid(ed930adfce6216844ad7ffa1464ac769) (TextureImporter) -> (artifact id: 'efc2317a6e3c9e898fc6eb27395bb1a3') in 0.005104 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=fd00a872735ae96488f752fd18395ce8): Total: 0.017 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/Particles/PT_soft__v001.png using Guid(890fc5356ea81c642a6690f784b61619) (TextureImporter) -> (artifact id: '0fe280691cd268a4e1b7c31daeaebb95') in 0.0058658 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=26ab2c31d09e4d64aac3f75b8506b433): Total: 0.018 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/Particles/PT_spark__v001.png using Guid(b377daff145e6e444b76bd5a54a984b9) (TextureImporter) -> (artifact id: 'dc56ceb84660493ed2ecc07309bb27ac') in 0.0054056 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=e1ec0a6c73cf921439d986b4a539fa84): Total: 0.016 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/Particles/PT_streak__v001.png using Guid(d5d2582eda6d537439b2cdc097813d6b) (TextureImporter) -> (artifact id: '8a677cfc9bc2fc11b8c6faee49bde087') in 0.0077995 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=889870dbbf1b8f74d9de330885f897a8): Total: 0.021 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/PROP_cash_stack/PROP_cash_stack__v001__preview.png using Guid(90cf055a803ae844493f2ab7b2430ced) (TextureImporter) -> (artifact id: '87344c6c9afe73e32434cbed3906867e') in 0.0137908 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=e276a139c073cb743a31824bf61d7a5f): Total: 0.030 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/PROP_coin/PROP_coin__v001__preview.png using Guid(337f093092bfb5641a4978ba78415094) (TextureImporter) -> (artifact id: '54b55a9dfdd21b360e0f45afe4f80edb') in 0.0106023 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=49190d57821c258419365b97f78f7217): Total: 0.028 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/Shared/SAM_palette__v001.png using Guid(18bc35dac21b5da499438f805896d276) (TextureImporter) -> (artifact id: '3b437df6da3d6743caa1f2b705ccfbb2') in 0.005028 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=065adced92f8b5b4bb16ab7c464572bb): Total: 0.018 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/TRK_bonus/TRK_bonus__v001__preview.png using Guid(19b1c77f29be9534981f1411d2fb1515) (TextureImporter) -> (artifact id: '56310b12c9870c4b019addbc3040025d') in 0.0086436 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=d5c7f7b7c4d86bd428836ff77c1f3c2e): Total: 0.020 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/TRK_finish/TRK_finish__v001__preview.png using Guid(ffd6f05be829ef643abe80f5b2408f3d) (TextureImporter) -> (artifact id: 'a908d666feb07efb4368e6edfb18a326') in 0.0091399 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=194fcfbe3a34a0c4681ce096c0f8f674): Total: 0.021 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/TRK_split/TRK_split__v001__preview.png using Guid(aa09653a625419d408add3440b088391) (TextureImporter) -> (artifact id: 'ec2268741705a8b918fa1540545b8be3') in 0.0098255 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=0aa2a3b6d7b02124a90d32d469970db0): Total: 0.023 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/TRK_straight/TRK_straight__v001__preview.png using Guid(82a84d49783ece44586c5cb39b22628d) (TextureImporter) -> (artifact id: '6ec0c5f2a8313747a5ae588932ef985b') in 0.010212 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=64ba0be50d86af345a9c2f71c703beb6): Total: 0.023 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_achievement__v001.png using Guid(69aaeabdb059ec94cbca0577e496bebc) (TextureImporter) -> (artifact id: 'b31d3010fd1b44147988b243617c418c') in 0.0219021 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=26b8169e5ef7e9f449115336684e2bb4): Total: 0.037 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_bonus__v001.png using Guid(41af402fe6583254cad03b522edabcd0) (TextureImporter) -> (artifact id: '7839e856dd0abab9bd910b2e415438b0') in 0.0229748 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=eb2491d35a2e737489ef4b5c6c9045bb): Total: 0.041 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_button_shape__v001.png using Guid(c5307b1f60866f9448adea8ce796bfdc) (TextureImporter) -> (artifact id: '066bb45d931904d216ac8c0de401d22c') in 0.0107777 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=3ef4fef03a208434096f77f37743d155): Total: 0.027 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_cash__v001.png using Guid(9b6fa5fc4d1d3d14ca11e6b1bf0becd3) (TextureImporter) -> (artifact id: 'bb7a5febc44b712f127547d02eb69113') in 0.0100794 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=f724d3953a8376f46b7d45a2bb2e1b80): Total: 0.026 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_claim__v001.png using Guid(20a03040170a99a47ba1f4774ab1fc83) (TextureImporter) -> (artifact id: '2da3254cb23d6af453d68b4d1fc50073') in 0.022432 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=16442d0ef67b1d14ea6bdea5b2ee9349): Total: 0.038 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_collection__v001.png using Guid(79eb0decff81d4a458165cd3bd57451b) (TextureImporter) -> (artifact id: 'd6ae144d69435f6cc753c08300e5b935') in 0.0097206 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=d6b87ab921fe7f54e82b4ad42786a6ed): Total: 0.023 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_crown__v001.png using Guid(a4123a9a352434444abfaf32f4554a01) (TextureImporter) -> (artifact id: '032e40dce4b7ff67f6e6bac8823410ad') in 0.0115751 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=2a87ccae7e2e73441bce6d7117cb4556): Total: 0.026 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_daily__v001.png using Guid(0b9b929426e820249817c496bd22a44b) (TextureImporter) -> (artifact id: '965eb5afd366cc83c95e0432cfa2b60f') in 0.0086801 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=d105b5d6bc068684487996b37be263e9): Total: 0.024 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_distance_on_color__v001.png using Guid(99435e0576661f049bf80fc73f62ed68) (TextureImporter) -> (artifact id: 'c379248bd4ba0c91066e6f53f46744ef') in 0.0081209 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=0c82f4297f2111d4680997e8be0f2d7b): Total: 0.023 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_distance__v001.png using Guid(6503c6c2b8801e24199804f0a9b3e7d3) (TextureImporter) -> (artifact id: '94a08c98243f18ef1e544ed37ec22d98') in 0.0089465 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=c2f647296b288864c90c91dc2fe97082): Total: 0.022 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_double_cash__v001.png using Guid(f6fcb4348f5f65743829374cc6a19df9) (TextureImporter) -> (artifact id: '2f714ee6210d2baea9fea3be51ac3f3e') in 0.0101583 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=11976cb6e09b9b24aa093cb4c6b35c4c): Total: 0.024 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_endless_on_color__v001.png using Guid(44eb650b6e95b3642b64e04fe107cf39) (TextureImporter) -> (artifact id: '8ef11c9d06cd7f8ec033ff3889952b30') in 0.0089529 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=db5841c266a10164abe35683cafc8957): Total: 0.023 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_endless__v001.png using Guid(43c6415487001ed449d158f2cb97492c) (TextureImporter) -> (artifact id: '81251529db63f509d9416bade6a8816f') in 0.0096973 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=bcf99eb833fcdee489008dcf82581e84): Total: 0.023 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_haptics_on_color__v001.png using Guid(55f940b516e3a8e4d9fd0dfe69201c6c) (TextureImporter) -> (artifact id: 'cda6df152f7cda1241510aa453a4bf1b') in 0.0101152 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=139cbca79ffd61b428f94302e22774ca): Total: 0.025 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_haptics__v001.png using Guid(9fe30f90d04764245ba762cc9322b7ee) (TextureImporter) -> (artifact id: '4fda6d3daacbd17a6acac0175bd1e91f') in 0.0101392 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=98a3115ee3a75084a8b6aadea16fab26): Total: 0.024 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_home_on_color__v001.png using Guid(d2bbc83cab6d5a443b3d668d805b2f10) (TextureImporter) -> (artifact id: '60969cb8c4abbb543f5b51027504ecc8') in 0.0096461 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=097d13b6f580d1f4ea1d62ecf21bfccc): Total: 0.023 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_home__v001.png using Guid(c087fa335b936da459c79c225521781c) (TextureImporter) -> (artifact id: '0df3f18a4377d7479015f6aa0fc49121') in 0.0090579 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=c67f3435e2499114dbf13dd22ca62b66): Total: 0.026 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_info_on_color__v001.png using Guid(e30b150777cc3c94682f1b27b6db1fe2) (TextureImporter) -> (artifact id: 'e45271d28e4ab3bb93e511898c88a6c3') in 0.0099371 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=ca281a1448fee15498bee1e2fef68748): Total: 0.022 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_info__v001.png using Guid(3478e27672f51dd4eb9bed91c43c61dd) (TextureImporter) -> (artifact id: 'f97ade61bfddf468013a8a3567bd89f3') in 0.0255743 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=fd3f588c0dbc7c14c8294b71afdb57d1): Total: 0.042 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_investment_on_color__v001.png using Guid(e1ca4dcecd4d7d04c84f88de7f81b0c9) (TextureImporter) -> (artifact id: 'bbf9645e295c4808325b6f8f9d13d20a') in 0.0075604 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=19587fca92b36c1419e8cff8b942cd44): Total: 0.023 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_investment__v001.png using Guid(1051f0068b2973e4fba8ab81634a93ee) (TextureImporter) -> (artifact id: '5ef795d2ecf907071aed299c7d7eab9c') in 0.0124361 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=21a0f639aef1c6344a067461ae020b0c): Total: 0.028 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_jackpot__v001.png using Guid(73d4cb0c65af5884198170e053787e70) (TextureImporter) -> (artifact id: '5d001b085a2f9806a53d5b5c692770ab') in 0.0338311 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=6de6d075bc73a0c43aa7df7e56239262): Total: 0.052 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_key__v001.png using Guid(1792685ad0363614899a5e953e2550bd) (TextureImporter) -> (artifact id: '3f32ae0e9bcb3d28937e70d1eaebd4e2') in 0.0093049 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=58b94a8b9039c624f90b554e2e559d88): Total: 0.024 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_language_on_color__v001.png using Guid(460c17b0e60b7294e9081cea07d4998c) (TextureImporter) -> (artifact id: '6660f60e4ee19d356d3720e12ac03e53') in 0.0098648 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=2a981d1a1f82aad4eb77f25d80311ba2): Total: 0.024 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_language__v001.png using Guid(1b636290ad3659543919c905b08001c6) (TextureImporter) -> (artifact id: '53e73887c1198f95431c439e0aa9b3a6') in 0.0237448 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=e53b1ce5d6b96af418c97585d4fb0f00): Total: 0.036 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_level_on_color__v001.png using Guid(86a9c3b127c14a248a9f19ae59cb8e90) (TextureImporter) -> (artifact id: 'db62881cdd3ce1fc0f5f3e4ce5c94de7') in 0.0129113 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=7a6fed2b3a1f9bd488c28ed1266cf05c): Total: 0.030 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_level__v001.png using Guid(6b0332d300a0e7442a7c1204e38b253b) (TextureImporter) -> (artifact id: '4be23e01bd822d1f2b465828aea499fe') in 0.0114967 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=d53ae712dfd6b4243a7b8882aa0df197): Total: 0.033 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_lock__v001.png using Guid(4fb30d7688a44e744b02b4eacd72f783) (TextureImporter) -> (artifact id: '2900ef55b86b4547cb8f9ee9a9c7b903') in 0.0089933 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=6b1d03db1a9dece40be0d9dc195b201d): Total: 0.024 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_luck__v001.png using Guid(9b5dd470f65adc74ba82721f9161d072) (TextureImporter) -> (artifact id: '6df387ec451c68018ce19f4d2f89ca35') in 0.0230813 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=0f0759c53e5c30c4589d34c9c8e46bf9): Total: 0.039 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_magnet__v001.png using Guid(e54597339c8eeae4e8a1b0bb8a479c10) (TextureImporter) -> (artifact id: '2bace1f88099ff5462dee23077369dc6') in 0.010444 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=26240905321564542bf853fb7e9e82b6): Total: 0.025 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_missions_on_color__v001.png using Guid(2d3595f367a16e74f95ce1117546b70e) (TextureImporter) -> (artifact id: '14dd3412b72abbea116d0feb024b6afa') in 0.0183304 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=0bc889e7ba13dae43a67dba8a628f1fb): Total: 0.043 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_missions__v001.png using Guid(8b4665afeed164c4caf5374e38258a94) (TextureImporter) -> (artifact id: '782a4d26e8379f4050dee483872c8e66') in 0.0279877 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=a719a4d6e4cbc26448dfddb2ef1b3fb4): Total: 0.052 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_music_on_color__v001.png using Guid(8d2f5fe3715dfcd49ba4129b7ac99f30) (TextureImporter) -> (artifact id: '1aca43d018539ce07a55f5b163c3c222') in 0.0142953 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=f3348999943e027499ddfd391de521a2): Total: 0.033 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_music__v001.png using Guid(01ef456e6eae5d84095b077633fd3642) (TextureImporter) -> (artifact id: '50bf214338af3cb3c806e91157d8cd43') in 0.0141121 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=113739c59a3c8de4c8ef191e6545d24c): Total: 0.034 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_panel__v001.png using Guid(fe672ad0ea38c744185a767b770546f0) (TextureImporter) -> (artifact id: '0df587d49da97e44e34987477af5e3ec') in 0.010986 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=d459970637173ef44af0bde41c848ae8): Total: 0.029 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_pill_shape__v001.png using Guid(9ed46e7a9eabfca4d826f17ea8af7415) (TextureImporter) -> (artifact id: 'b450ac19dc31102606aa8e7caa5203eb') in 0.0086182 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=8b737a8ef4a873447a01baa9bc852b73): Total: 0.028 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_play_on_color__v001.png using Guid(2ce785e6ac8344e448ad49abfaa78279) (TextureImporter) -> (artifact id: 'c22ed6c5b60d2a6b446ecfe35caee07b') in 0.0119236 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=77ffd4cc2b004064aaa798385fc2f998): Total: 0.031 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_play__v001.png using Guid(cf86a2e01f93300498d7c5231f3bb152) (TextureImporter) -> (artifact id: 'dc6767bed8b6f7e57ec660baffd2879f') in 0.0117455 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=f0859f2f1140586449395ca882e210be): Total: 0.031 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_police__v001.png using Guid(0b45cce5a996cbb4d9580893c114f85b) (TextureImporter) -> (artifact id: '6b6d2dfcfa7c33b1d0193ed68663c085') in 0.0131744 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=c3bf1af33741e9f438b7ce9fac8ff5fe): Total: 0.031 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_profile_on_color__v001.png using Guid(8e8d9dbc5e7a4784f816f702c231ea20) (TextureImporter) -> (artifact id: '959d536321280110fe71dd2258233d90') in 0.0104601 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=aebaa7edb96a9f0488af82e9eccf1559): Total: 0.027 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_profile__v001.png using Guid(1df1d21fedb50fd429ca5cf5641f2e9c) (TextureImporter) -> (artifact id: 'a3a55e08792cfd009e79a49222dc0571') in 0.0127966 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=db32a70ddc6ee1948a5908e7d4dcf926): Total: 0.026 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_rank_00__v001.png using Guid(cf9a91190066e7c4eafb16a5678088be) (TextureImporter) -> (artifact id: 'aa7e4f2125c0e759c9a5bcdd255e2f7c') in 0.0240564 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=e04c20cebca85a342b2cf5cbc8224995): Total: 0.037 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_rank_01__v001.png using Guid(2e4b10c70a8eea9478bf1de00d157f34) (TextureImporter) -> (artifact id: 'bc5ae7fd1cd9cec021e3196fc9cc21b5') in 0.0275552 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=4dc868af4ec0c5a408cdbe220d805036): Total: 0.041 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_rank_02__v001.png using Guid(7de5ce90a93f12048b2a6db1bae795d8) (TextureImporter) -> (artifact id: '175fa248117ae4c0474b6234da160dd1') in 0.0257153 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=570c563d262cfaf4aaf3276ffbbc621a): Total: 0.045 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_rank_03__v001.png using Guid(09ceae288104b6344aa17af0dfe31c09) (TextureImporter) -> (artifact id: 'a7b12965a72da00fc7c41b0bb86ae8f8') in 0.0178261 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=0ccd3d57eba58f14ab1d50d7c169cfd3): Total: 0.034 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_rank_04__v001.png using Guid(ccb16859bd4ebdc45adc5377d1fb331d) (TextureImporter) -> (artifact id: '880e7bbcddad5362843ca142411792aa') in 0.0227588 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=c31b74ad55077454097c85345db12be5): Total: 0.035 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_rank_05__v001.png using Guid(1a782379a60c8de4c9b1efbdc95f92a7) (TextureImporter) -> (artifact id: 'ca5bbff636affd8d314a5a975c86d53f') in 0.0203703 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=c612368dc729bf34fa21a1cff5bcb3d1): Total: 0.036 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_rank_06__v001.png using Guid(0d62e6f1c9a236048b93455361521c21) (TextureImporter) -> (artifact id: '1d637f4c45c93bcab456254971e305af') in 0.0250042 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=c01599ec3a76b3f4c80a667762548a87): Total: 0.039 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_rank_07__v001.png using Guid(07b94f04fc5908d429b125e4933787e1) (TextureImporter) -> (artifact id: '8c876bf718d98c674a2b60c9bb3e9f88') in 0.0180732 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=cf51357c7ffd2244e8ca6c41f9dea3e2): Total: 0.029 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_rank_08__v001.png using Guid(8423255bdee8a514db99d60f663ee25c) (TextureImporter) -> (artifact id: '4e4d5a02f4718d5cfc4549cef071e5a1') in 0.0191782 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=47aec2e33074ce3458f0a2e9f2276f5a): Total: 0.030 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_rank_09__v001.png using Guid(2163295b1a5dafc44be038c72a1b77e5) (TextureImporter) -> (artifact id: '40315d142ee74db530a60a63c2b85df9') in 0.0212703 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=113a1404d47ed2e4caa8c6203c1091bc): Total: 0.033 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_rank_10__v001.png using Guid(72eaa45ab8ebcad489ad1fc2c01f4755) (TextureImporter) -> (artifact id: 'ed2709428b6d37861c75e0d03531ec56') in 0.0208919 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=65fa769f3cddaed40a13cda3e36d3abd): Total: 0.035 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_rank_11__v001.png using Guid(83bca8c2c268617418c7d7d28497d820) (TextureImporter) -> (artifact id: '5c8806e33847e2f89484e5bfc92b57a7') in 0.0234928 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=1c35379f1689ab1468b08c8fdf92f227): Total: 0.034 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_resume_on_color__v001.png using Guid(605cea86057b9844684aa77a92d77b83) (TextureImporter) -> (artifact id: '53f1fbdf9ec81dc7154146a9e85054de') in 0.0068797 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=6a8c735a04730b3429dd58d6b127e7fe): Total: 0.017 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_resume__v001.png using Guid(84ae5fc5987951546a8eaa5f68bcd8c5) (TextureImporter) -> (artifact id: 'ed30398a2f0b92e7ed477b3a73eda326') in 0.0073677 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=a7b3e631fa34d1f498e4f94f3db1ec03): Total: 0.020 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_retry_on_color__v001.png using Guid(76584e8d37e1bf04885163513359bb78) (TextureImporter) -> (artifact id: 'b19811bca414c1cb8b58ca37a06b1e17') in 0.0098645 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=95a40870b70ee784b98f996d5da49875): Total: 0.021 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_retry__v001.png using Guid(bd1ed2d5ce057bf418e51fd6995059e5) (TextureImporter) -> (artifact id: '4c1dea9d73c2a8c2c8ea9e5dcf7837bb') in 0.0106111 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=0bc8104b29c30874fac30c88be0dd5f9): Total: 0.023 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_rewarded_on_color__v001.png using Guid(5ac7d7c97b6af8d4bab736e0a877eff9) (TextureImporter) -> (artifact id: '6db10ac34f43ec22118bf77fd9a734e7') in 0.0080359 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=f279bf0708e0adf4aa9aaf068399b40c): Total: 0.020 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_rewarded__v001.png using Guid(3f411a7f6e708904ab32161f1566950c) (TextureImporter) -> (artifact id: '48dcd880fea901aeac32324e358944df') in 0.0098889 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=46033b7e2b84eae4f8c144aa73cffc1b): Total: 0.021 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_risk_chain__v001.png using Guid(aefada8643bd57646a3a112c0d300746) (TextureImporter) -> (artifact id: 'fc327502376256aad36780f80b471205') in 0.0217504 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=2113bf8829c29a54b826072f74e5cbe5): Total: 0.034 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_risk__v001.png using Guid(e8ca31cf7b3beb949b867416499c8916) (TextureImporter) -> (artifact id: '467e09d2cb9f3e6322e56e9442841a2a') in 0.0093355 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=d43e2a88737565646809ab49732e683c): Total: 0.021 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_safe__v001.png using Guid(4489fb97db7533341bde9a9c6836616b) (TextureImporter) -> (artifact id: 'a0c2152bdae1557a11642662900e1e37') in 0.0087478 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=0f2dca41202820547b54332781872f3d): Total: 0.022 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_shop_on_color__v001.png using Guid(006d47aa7ea274241995b657e5f58390) (TextureImporter) -> (artifact id: '9c8f09371ac9b1165a4e110154454bde') in 0.0087363 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=7e10f9963f794db48849079c537f64a2): Total: 0.022 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_shop__v001.png using Guid(5452be4d726ab4249b2b45d99a505aea) (TextureImporter) -> (artifact id: 'ad02139f75f4cd9969d6e2115336a2b0') in 0.0090801 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=32586b7edde512d40894f5e67694f230): Total: 0.021 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_slow_motion__v001.png using Guid(12e417c5d70284748bb5d0b45b56eac0) (TextureImporter) -> (artifact id: '6f91552fbd4a902b3cb6f6da8e1b200b') in 0.0155505 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=78073a8496aaf4e41a776e953e12c453): Total: 0.029 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_sound_on_color__v001.png using Guid(cef8997137daf224ca360508157935b8) (TextureImporter) -> (artifact id: 'fa5111a27d8681e95118ea20d6911abf') in 0.0112287 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=2aa23a2f20b18d040a4b5e8015cdcd37): Total: 0.028 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_sound__v001.png using Guid(882b445d9eb047f409d47e38ec20965d) (TextureImporter) -> (artifact id: 'd90558452bb3f4bbfd23006a3b94b5c0') in 0.0106788 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=893491108f818f04886202fee3d497ab): Total: 0.023 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_tax__v001.png using Guid(a6eebdf4f82c6064abeb28e8e07ae1ab) (TextureImporter) -> (artifact id: '5e56f8cacd59afd59cc48fa8d566052a') in 0.0100892 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=cd64cb4b275869d4c80ef3af0d22d2d4): Total: 0.025 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_thief__v001.png using Guid(2da603a6a941a734e8992d3fcee3904a) (TextureImporter) -> (artifact id: '924412fe2210db9861f84487be285ed3') in 0.0107374 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=1504f492ef8c9b14ba4fbf53067cd65b): Total: 0.025 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_trophy__v001.png using Guid(e8d2ab0751fc2c546a1ad90857796184) (TextureImporter) -> (artifact id: '439b2f6c6441ad7e7c2ef0a6dbd6e3df') in 0.0246685 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=504b9bb57e06b0044baa39070e571f82): Total: 0.040 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_warning__v001.png using Guid(9f007fe49d292b84bbd83168c92675a9) (TextureImporter) -> (artifact id: '8e0998aae2c5e5cb47c171c48d9e1423') in 0.0085054 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=4bb33e57c97f1e84ba4ced952bd64581): Total: 0.021 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_worlds_on_color__v001.png using Guid(7b652203c8aaa4f47a0da6704894ed17) (TextureImporter) -> (artifact id: '2da5535ec66f637977938d3405fc5414') in 0.0102017 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=4a4219386ab668c46a773ff8cdf29374): Total: 0.024 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_worlds__v001.png using Guid(77f605ce44d3e0c49b88a59697c9ca3c) (TextureImporter) -> (artifact id: '7d4050199000f919c49eac107b6e5677') in 0.0272619 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=0e70b191acb0b0745a164371f1e69b41): Total: 0.042 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/UI/UI_xp__v001.png using Guid(ea004e714c5c40f44b96f016055cd618) (TextureImporter) -> (artifact id: '453c54be25f6f826750f3a97dfbed67f') in 0.013758 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=c81d2dc0d0b432145a315d8764bae245): Total: 0.035 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/vault_classic/vault_classic__v001__preview.png using Guid(8b135c8ca8586e5469883d6e8aee133a) (TextureImporter) -> (artifact id: '8fc597b8ba5074f18097fd0524d9ea7e') in 0.0113182 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=c57b641aabd141643b466d517bc96bca): Total: 0.024 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/vault_diamond/vault_diamond__v001__preview.png using Guid(f4905fa95e9e45f479c4fed527ef915c) (TextureImporter) -> (artifact id: 'a6f03afde362ba76d5d12db1bed72ebd') in 0.0106421 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=a09c1c23680ae6b4c9830ea30602361e): Total: 0.021 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/vault_gold/vault_gold__v001__preview.png using Guid(959df85a26c355a46823c6bd7b49a246) (TextureImporter) -> (artifact id: 'e66b3d55edaefd5b5eca4f74a2e2565b') in 0.0108017 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=b730cb319b662b7468d8056e9da12103): Total: 0.020 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/vault_neon/vault_neon__v001__preview.png using Guid(b82bf12280eca464cafd38bb37963468) (TextureImporter) -> (artifact id: '91a56c8c390801561cbf9ef53f38cb8d') in 0.0125859 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=144364c8fb715c74aade0dcb5d42005f): Total: 0.024 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Asset Pipeline Refresh (id=81f2a5fd34f0ab94e8521ffeb68978b1): Total: 0.011 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/ENV_streets_crate/ENV_streets_crate__v001__model.fbx using Guid(a36cf8df53efe5f49bbc03c8724e1773) (FBXImporter) -> (artifact id: 'eda497eef4a1da777f92e2d1c85af195') in 0.0224103 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=ab57a76ab88aacf4aaea61c85b0f683f): Total: 0.034 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=1625eae7b7498894c8d128047be58df8): Total: 0.017 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/ENV_streets_house/ENV_streets_house__v001__model.fbx using Guid(148fb718d3e797248b5d4dde1ced837b) (FBXImporter) -> (artifact id: '937602a339ae3377aabbbde41938f429') in 0.0248768 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=7d2f1e175fdf4834296d8a7c69d0b441): Total: 0.036 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=c865fd9c8f9e2e9478895a930bde7ec8): Total: 0.026 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/ENV_streets_kiosk/ENV_streets_kiosk__v001__model.fbx using Guid(ca2fdf15778f7764bb5af73d52121ee9) (FBXImporter) -> (artifact id: '54de214928d09b654e049103864ebf00') in 0.0222574 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=adafd780622c45d4685f69ab4b3d5cdc): Total: 0.034 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=9ff9c351fea1e6d4fa4c22bdd3be82eb): Total: 0.012 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/ENV_streets_shopfront/ENV_streets_shopfront__v001__model.fbx using Guid(a60680e02175dd24ab925645299fe3f1) (FBXImporter) -> (artifact id: '66e84ba3bd8dd5094f4c97c14335a0a6') in 0.0253403 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=e3c96ac4807ac4946928fc54ab84c749): Total: 0.039 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=557d4911b78b10248afe5b359112cef5): Total: 0.012 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/GATE_frame/GATE_frame__v001__model.fbx using Guid(2e9cd2bb197c36444a0dd306fb57fd15) (FBXImporter) -> (artifact id: 'db451e0eb24e7c4d67ef30acf8612807') in 0.0270567 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=98e12909bf05a48458dd7da46c0e6dce): Total: 0.041 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=7857546e9df4e664aae779332c0a34a5): Total: 0.009 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/PROP_cash_stack/PROP_cash_stack__v001__model.fbx using Guid(7bcf2493db9bb634ca503d482fcc0787) (FBXImporter) -> (artifact id: '379db74584eb2de6f8d1431ee52441a1') in 0.0221174 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=0734a50026fdac14eaace63bd6a22596): Total: 0.035 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=8227b6c1e4c026240b050dbc88832f32): Total: 0.010 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/PROP_coin/PROP_coin__v001__model.fbx using Guid(837c83c91b82b4a4b9ea5518836f53f4) (FBXImporter) -> (artifact id: 'c85a43410c895e2ef031e78176274838') in 0.024026 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=c38cdf5709220d04da9a025d37c2f40a): Total: 0.035 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=f0733a3950dd2884bb79119d662e0eff): Total: 0.010 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/TRK_bonus/TRK_bonus__v001__model.fbx using Guid(22e69b7612bdf664386ae7d8c7e3a27d) (FBXImporter) -> (artifact id: '858a93f58dd007ad66d8757ca2390704') in 0.0259504 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=2634ee1bd6f9951428f71a66350ed98d): Total: 0.043 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=3849e0e674737c34aa8068f94d1605d4): Total: 0.011 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/TRK_finish/TRK_finish__v001__model.fbx using Guid(27fa8d85c8ed75c4d887956a91e35a96) (FBXImporter) -> (artifact id: '72e798b1a2d31a6e699a3edfb6e56575') in 0.0238585 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=6ec0758e4e585a249ac286fc004675e1): Total: 0.038 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=231a5cabc2f072e4cbe9b6065f2e7c60): Total: 0.010 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/TRK_split/TRK_split__v001__model.fbx using Guid(5aa25e05788fff445a71de23ea52ad57) (FBXImporter) -> (artifact id: '393dbeb165ec99ea51b548ce411c61c5') in 0.0263869 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=f342800a12b5b1044b272f594e233c34): Total: 0.038 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=e0787a6bec248284889b4528a3dc759b): Total: 0.013 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/TRK_straight/TRK_straight__v001__model.fbx using Guid(1e527ce34d9fa244fb2dd4a3f0782f8b) (FBXImporter) -> (artifact id: '52d5c7211756e0932e7ccd1774c9f362') in 0.03043 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=172e2e418977fae438f8c962234f8243): Total: 0.046 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=cfdcd5ee101903542ae68801d2d112d5): Total: 0.012 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/vault_classic/vault_classic__v001__model.fbx using Guid(fb8d036f9fe9cf946b9dbadf14546c94) (FBXImporter) -> (artifact id: '08f9c06b6482a3efdea446020a92240a') in 0.0385614 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=39da5527c6bebe34eab31949a7cfcab2): Total: 0.054 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=342eba4b3115db34e908c5ac01c2e328): Total: 0.026 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/vault_diamond/vault_diamond__v001__model.fbx using Guid(42bb878f15bc7a54d862050cec5a1606) (FBXImporter) -> (artifact id: 'a55d3a0bf43029c130e62b1ac86d963d') in 0.0435139 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=f93d74284f73c774280b0acb7dd1a062): Total: 0.058 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=1eb65c89d30333446b1a3446aaad4fbe): Total: 0.023 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/vault_gold/vault_gold__v001__model.fbx using Guid(ec89b34a7b1b8154e8faf70376c45079) (FBXImporter) -> (artifact id: 'b933a2fd10999d64e5dd39eb09a2f934') in 0.0425058 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=97f3e3bbe1c503e4ab66646e17b8302b): Total: 0.061 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=3642e5122977d03438491363003893ba): Total: 0.021 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Start importing Assets/Production/vault_neon/vault_neon__v001__model.fbx using Guid(80f104afefc94ad4f87399ea9f0d068f) (FBXImporter) -> (artifact id: 'b77c602f507a48b95ac4b1394b351e08') in 0.0434698 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Asset Pipeline Refresh (id=4b283bc9f999d3e4a88478138d59b217): Total: 0.060 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=d8da432f0f543f643b0fa212684e85f1): Total: 0.020 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=53af95959e696bf4e993bbc4beaca5e4): Total: 0.022 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=48a64f97f453fa041b34d6aba68239db): Total: 0.017 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=1afe3466a504bcd40a3d4a50b0d693d3): Total: 0.021 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=8a8b95f375cfe1243831c25ddf4a4b1f): Total: 0.013 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=dfe1c9ea41655cc4eb9ad17dc9302d8b): Total: 0.023 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=597b4d2666325f04aaa2fda4ec5cdf15): Total: 0.028 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=63bfa6cb84a71814096f4bd5d5899bb0): Total: 0.021 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=934dee0097e9b7a4e9503228ac661199): Total: 0.019 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=7c410758143e7e841aa8f88e7b04e9f9): Total: 0.020 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=c460a9cfbd3f81b45beeb079f99e5ddf): Total: 0.015 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=cd571bf75b7cc354687144c58b4f5d89): Total: 0.017 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=20b76c0a9f155f643a0159ea07e30d49): Total: 0.020 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=04250b11830b5a74c9dba741a63c6891): Total: 0.022 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=7045c87a39db7c043b247cbdcf741aca): Total: 0.020 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=fed61d5c09497f04a800b407c33d82e7): Total: 0.017 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=a3e285b097163764c8a20efb3c55c70c): Total: 0.021 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=73f8239ec42b30f4fb41e91316def978): Total: 0.014 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=7364ed500db9c0148be8c719d2dc7aab): Total: 0.024 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=57e2bbe3567183740a16b019cba1ebbd): Total: 0.016 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=c0a0eadfe9da7984194e85a966f51213): Total: 0.016 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=e2ae3d9753cf69042b967c0757d9351e): Total: 0.016 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=98103eefe323b174982f1fbeeb46135d): Total: 0.026 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=8871785ba5b88334ba944925b974589b): Total: 0.024 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=50cc1ac24233ee7409bd0f499af450a8): Total: 0.026 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=6b39be78313054f43b3d6a29448fecce): Total: 0.027 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=b69fdccecb5966641b6967ad779934b4): Total: 0.038 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=ab379d0cf82729f4981002c9a5403f2c): Total: 0.030 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=61080670d4cce3c4a8700d189f001a40): Total: 0.025 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=0bdc67c126104384792ad0e75811908c): Total: 0.021 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=cb7f04f98a356a54f85534a0410ddd99): Total: 0.018 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=f20d38d3168197b45a5ba7262359fd1f): Total: 0.021 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=9ff49083fa6eee94b8098ff09cf0afd6): Total: 0.021 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=2a78a97786bd093449a0c9928d04e1ea): Total: 0.024 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=59e3f8da537c8bd45a751c0728941a1e): Total: 0.030 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=5a878efb7c7742c4c98939cc7c6bb5a7): Total: 0.022 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=23b5217e848de9846b5e28e7b60cc42f): Total: 0.019 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=93a2b8473c448414f992502da21c220b): Total: 0.022 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=5e8bf460ebf90ad4ab2f416337e6a18b): Total: 0.018 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=57e31461b8d93e446b8cd5620fcee678): Total: 0.024 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=3df136253ad269146ac43e7952dc770b): Total: 0.014 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=a5e8c617481e7b54ea0674bb1eaf9786): Total: 0.013 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=737dfc8466bfaaf438123b8299bde3c4): Total: 0.012 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=6b2d248089f8a2640ba0d930334928ed): Total: 0.013 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=4893236f39690764fa3ee1fe97d02d7f): Total: 0.017 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=a52a2aae847dde249bc439e3ccb4a6d6): Total: 0.010 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=5b81e1830b2a8644cbf4f756a140dfb9): Total: 0.011 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=af3c864ec2180ed499841dc9fd53f6fc): Total: 0.013 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=3140454c5ada1f64597de519ba999c60): Total: 0.014 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Starting new worker id: 0 with log in C:/Users/user/Desktop/game 1/.utmp/asset-review/Logs/AssetImportWorker0.log
+Starting new worker id: 1 with log in C:/Users/user/Desktop/game 1/.utmp/asset-review/Logs/AssetImportWorker1.log
+Worker ready: AssetImportWorker1 1
+Worker ready: AssetImportWorker0 0
+[Worker1] Start importing Assets/Production/ENV_streets_crate/ENV_streets_crate__v001__preview.png using Guid(831363279b1afdb4e880c2ac608790c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) 
+[Worker1] (PreviewImporter)
+[Worker1]  -> (artifact id: '241eccb3dd3a48d0dfc3f382405ba1b2') in 0.0719826 seconds
+[Worker0] Start importing Assets/Production/ENV_streets_house/ENV_streets_house__v001__preview.png using Guid(7fa1742c813d04e4cb1a45be13584e9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) 
+[Worker0] (PreviewImporter)
+[Worker0]  -> (artifact id: '046c07256b7988e8e0e7e4bb0da6260e') in 0.070546 seconds
+[Worker0] Start importing Assets/Production/TRK_finish/TRK_finish__v001__model.fbx using Guid(27fa8d85c8ed75c4d887956a91e35a96) Importer(815301076,1909f56bfc062723c751e8b465ee728b) 
+[Worker0] (PreviewImporter)
+[Worker0] Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+[Worker0]  -> (artifact id: '3bee635911d423bfe6c0a5cb2ae462db') in 0.1042931 seconds
+[Worker0] Start importing Assets/Production/TRK_straight/TRK_straight__v001__preview.png using Guid(82a84d49783ece44586c5cb39b22628d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) 
+[Worker0] (PreviewImporter)
+[Worker0]  -> (artifact id: '35eb98f5f912977be62e41cc14cf7908') in 0.0041229 seconds
+[Worker0] Start importing Assets/Production/PROP_coin/PROP_coin__v001__preview.png using Guid(337f093092bfb5641a4978ba78415094) Importer(815301076,1909f56bfc062723c751e8b465ee728b) 
+[Worker0] (PreviewImporter)
+[Worker0]  -> (artifact id: 'd20cda6314400cbd80131c6d9452e825') in 0.003386 seconds
+[Worker0] Start importing Assets/Production/ENV_streets_kiosk/ENV_streets_kiosk__v001__preview.png using Guid(fc259f05ced1d634d98874d3dffaf5dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) 
+[Worker0] (PreviewImporter)
+[Worker0]  -> (artifact id: 'a4d507ec96b8de55c5508ab19e0bbf79') in 0.003205 seconds
+[Worker0] Start importing Assets/Production/vault_diamond/vault_diamond__v001__model.fbx using Guid(42bb878f15bc7a54d862050cec5a1606) Importer(815301076,1909f56bfc062723c751e8b465ee728b) 
+[Worker0] (PreviewImporter)
+[Worker0]  -> (artifact id: 'ac449ea3acf5ff4809fab8ad62ad3af2') in 0.0068339 seconds
+[Worker0] Start importing Assets/Production/ENV_streets_shopfront/ENV_streets_shopfront__v001__preview.png using Guid(95193ec1cdd33474fb69d46647056afc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) 
+[Worker0] (PreviewImporter)
+[Worker0]  -> (artifact id: '5ffca999f184dadebc7a5bc8abbc1380') in 0.0087067 seconds
+[Worker0] Start importing Assets/Production/vault_neon/vault_neon__v001__model.fbx using Guid(80f104afefc94ad4f87399ea9f0d068f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) 
+[Worker0] (PreviewImporter)
+[Worker0]  -> (artifact id: '963d19a27df0189b110ee196c4a57018') in 0.0153991 seconds
+[Worker0] Start importing Assets/Production/vault_classic/vault_classic__v001__model.fbx using Guid(fb8d036f9fe9cf946b9dbadf14546c94) Importer(815301076,1909f56bfc062723c751e8b465ee728b) 
+[Worker0] (PreviewImporter)
+[Worker0]  -> (artifact id: '86d4da1e05db1ea7497811bde54e9314') in 0.0089813 seconds
+[Worker0] Start importing Assets/Production/vault_neon/vault_neon__v001__preview.png using Guid(b82bf12280eca464cafd38bb37963468) Importer(815301076,1909f56bfc062723c751e8b465ee728b) 
+[Worker0] (PreviewImporter)
+[Worker0]  -> (artifact id: 'af1e6cd8ebf948f413533cf988d00f32') in 0.0035409 seconds
+[Worker0] Start importing Assets/Production/vault_classic/vault_classic__v001__preview.png using Guid(8b135c8ca8586e5469883d6e8aee133a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) 
+[Worker0] (PreviewImporter)
+[Worker0]  -> (artifact id: '01367a7cc49def5df1db8900f3aa9fd1') in 0.0031771 seconds
+[Worker0] Start importing Assets/Production/ENV_streets_house/ENV_streets_house__v001__model.fbx using Guid(148fb718d3e797248b5d4dde1ced837b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) 
+[Worker0] (PreviewImporter)
+[Worker0]  -> (artifact id: 'd7aebabcc7a9121398ea7b73ea91afe5') in 0.0047506 seconds
+[Worker0] Start importing Assets/Production/GATE_frame/GATE_frame__v001__preview.png using Guid(574966361bbff30439556c4ba62968f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) 
+[Worker0] (PreviewImporter)
+[Worker0]  -> (artifact id: '2d3ac301c4b17d56e4586e29103fb3a2') in 0.0035865 seconds
+[Worker0] Start importing Assets/Production/ENV_streets_shopfront/ENV_streets_shopfront__v001__model.fbx using Guid(a60680e02175dd24ab925645299fe3f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) 
+[Worker0] (PreviewImporter)
+[Worker0]  -> (artifact id: 'b51660b5e294e0f260fcc83d448bf927') in 0.0046028 seconds
+[Worker0] Start importing Assets/Production/PROP_cash_stack/PROP_cash_stack__v001__preview.png using Guid(90cf055a803ae844493f2ab7b2430ced) Importer(815301076,1909f56bfc062723c751e8b465ee728b) 
+[Worker0] (PreviewImporter)
+[Worker0]  -> (artifact id: '08a591f9e89cb701b9bd08344beb77f2') in 0.0033071 seconds
+[Worker0] Start importing Assets/Production/ENV_streets_crate/ENV_streets_crate__v001__model.fbx using Guid(a36cf8df53efe5f49bbc03c8724e1773) Importer(815301076,1909f56bfc062723c751e8b465ee728b) 
+[Worker0] (PreviewImporter)
+[Worker0]  -> (artifact id: '0e70f3ed0d9b0b54f1ab89bb4dacfec2') in 0.0043649 seconds
+[Worker0] Start importing Assets/Production/TRK_split/TRK_split__v001__preview.png using Guid(aa09653a625419d408add3440b088391) Importer(815301076,1909f56bfc062723c751e8b465ee728b) 
+[Worker0] (PreviewImporter)
+[Worker0]  -> (artifact id: '68658ab731b1eb47268107ba6131d647') in 0.0038154 seconds
+[Worker0] Start importing Assets/Production/PROP_coin/PROP_coin__v001__model.fbx using Guid(837c83c91b82b4a4b9ea5518836f53f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) 
+[Worker0] (PreviewImporter)
+[Worker0]  -> (artifact id: '3eb2f2ae682067cd40b52f00be8cf1b5') in 0.0074168 seconds
+[Worker0] Start importing Assets/Production/vault_gold/vault_gold__v001__preview.png using Guid(959df85a26c355a46823c6bd7b49a246) Importer(815301076,1909f56bfc062723c751e8b465ee728b) 
+[Worker0] (PreviewImporter)
+[Worker0]  -> (artifact id: 'bc6cb246304ece7f311792226f7b2827') in 0.0044489 seconds
+[Worker0] Start importing Assets/Production/TRK_bonus/TRK_bonus__v001__preview.png using Guid(19b1c77f29be9534981f1411d2fb1515) Importer(815301076,1909f56bfc062723c751e8b465ee728b) 
+[Worker0] (PreviewImporter)
+[Worker0]  -> (artifact id: '73a7beab6fe30a4d3001cb7587f3f506') in 0.0037273 seconds
+[Worker0] Start importing Assets/Production/GATE_frame/GATE_frame__v001__model.fbx using Guid(2e9cd2bb197c36444a0dd306fb57fd15) Importer(815301076,1909f56bfc062723c751e8b465ee728b) 
+[Worker0] (PreviewImporter)
+[Worker0]  -> (artifact id: 'fecbba56ff652490f43290263c7aed4c') in 0.0062895 seconds
+[Worker0] Start importing Assets/Production/TRK_split/TRK_split__v001__model.fbx using Guid(5aa25e05788fff445a71de23ea52ad57) Importer(815301076,1909f56bfc062723c751e8b465ee728b) 
+[Worker0] (PreviewImporter)
+[Worker0]  -> (artifact id: 'db38a831a7595d2c290edbe0c30b39a1') in 0.0067822 seconds
+[Worker0] Start importing Assets/Production/Particles/PT_coin__v001.png using Guid(aa31a6169269d3e4ba97ea8d46c5ec60) Importer(815301076,1909f56bfc062723c751e8b465ee728b) 
+[Worker0] (PreviewImporter)
+[Worker0]  -> (artifact id: '82f275923f04e71ed99241c1827578b6') in 0.0031868 seconds
+[Worker0] Start importing Assets/Production/vault_diamond/vault_diamond__v001__preview.png using Guid(f4905fa95e9e45f479c4fed527ef915c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) 
+[Worker0] (PreviewImporter)
+[Worker0]  -> (artifact id: '6acf3c6fc4db61eb6fd7537ca51ef466') in 0.0031816 seconds
+[Worker0] Start importing Assets/Production/TRK_straight/TRK_straight__v001__model.fbx using Guid(1e527ce34d9fa244fb2dd4a3f0782f8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) 
+[Worker0] (PreviewImporter)
+[Worker0]  -> (artifact id: '4ccfdb70d60feceedac3594f3f3d6909') in 0.0078848 seconds
+[Worker0] Start importing Assets/Production/TRK_bonus/TRK_bonus__v001__model.fbx using Guid(22e69b7612bdf664386ae7d8c7e3a27d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) 
+[Worker0] (PreviewImporter)
+[Worker0]  -> (artifact id: '336a2d30c451450bf49df1a58153af0b') in 0.0070225 seconds
+[Worker0] Start importing Assets/Production/TRK_finish/TRK_finish__v001__preview.png using Guid(ffd6f05be829ef643abe80f5b2408f3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) 
+[Worker0] (PreviewImporter)
+[Worker0]  -> (artifact id: '08030096b9a7f5c2142760e1e2f12be5') in 0.0048483 seconds
+[Worker0] Start importing Assets/Production/vault_gold/vault_gold__v001__model.fbx using Guid(ec89b34a7b1b8154e8faf70376c45079) Importer(815301076,1909f56bfc062723c751e8b465ee728b) 
+[Worker0] (PreviewImporter)
+[Worker0]  -> (artifact id: 'a484552dbe842a11d1685e58139d2eab') in 0.0073244 seconds
+[Worker0] Start importing Assets/Production/PROP_cash_stack/PROP_cash_stack__v001__model.fbx using Guid(7bcf2493db9bb634ca503d482fcc0787) Importer(815301076,1909f56bfc062723c751e8b465ee728b) 
+[Worker0] (PreviewImporter)
+[Worker0]  -> (artifact id: '60d87b5196fbccc97ac297706fd328e1') in 0.004004 seconds
+[Worker0] Start importing Assets/Production/ENV_streets_kiosk/ENV_streets_kiosk__v001__model.fbx using Guid(ca2fdf15778f7764bb5af73d52121ee9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) 
+[Worker0] (PreviewImporter)
+[Worker0]  -> (artifact id: 'f95f5ce47f9d80f23e4eeb2c90915cfe') in 0.0047944 seconds
+PRODUCTION_REVIEW_PASS: 15 models, 38 particle prefabs, 10 motion templates.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+ProductionReview:Run () (at Assets/Editor/UnityProductionReview.cs:92)
+
+(Filename: Assets/Editor/UnityProductionReview.cs Line: 92)
+
+Batchmode quit successfully invoked - shutting down!
+Killing ADB server in 2,123418 seconds.
+[Physics::Module] Cleanup current backend.
+[Physics::Module] Id: 0xf2b8ea05
+Input System module state changed to: ShutdownInProgress.
+Input System polling thread exited.
+Input System module state changed to: Shutdown.
+[Licensing::IpcConnector] LicenseClient-user-notifications channel disconnected successfully.
+[Licensing::IpcConnector] LicenseClient-user channel disconnected successfully.
+AcceleratorClientConnectionCallback - disconnected - :0
+Cleanup mono
+Exiting batchmode successfully now!
+Exiting without the bug reporter. Application will terminate with return code 0

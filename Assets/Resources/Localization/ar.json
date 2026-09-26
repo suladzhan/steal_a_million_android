@@ -1,0 +1,1051 @@
+{
+  "code": "ar",
+  "name": "ar",
+  "rtl": true,
+  "entries": [
+    {
+      "key": "UI_TITLE",
+      "value": "STEAL A MILLION"
+    },
+    {
+      "key": "UI_PLAY",
+      "value": "العب"
+    },
+    {
+      "key": "UI_CONTINUE",
+      "value": "متابعة"
+    },
+    {
+      "key": "UI_SHOP",
+      "value": "المتجر"
+    },
+    {
+      "key": "UI_MISSIONS",
+      "value": "المهام"
+    },
+    {
+      "key": "UI_PROFILE",
+      "value": "الملف الشخصي"
+    },
+    {
+      "key": "UI_SETTINGS",
+      "value": "الإعدادات"
+    },
+    {
+      "key": "UI_WORLDS",
+      "value": "العوالم"
+    },
+    {
+      "key": "UI_LEVEL",
+      "value": "المستوى {0}"
+    },
+    {
+      "key": "UI_PLAYER_LEVEL",
+      "value": "مستوى اللاعب {0}"
+    },
+    {
+      "key": "UI_PAUSE",
+      "value": "إيقاف مؤقت"
+    },
+    {
+      "key": "UI_RESUME",
+      "value": "متابعة"
+    },
+    {
+      "key": "UI_MENU",
+      "value": "القائمة الرئيسية"
+    },
+    {
+      "key": "UI_RETRY",
+      "value": "حاول مجدداً"
+    },
+    {
+      "key": "UI_NEXT",
+      "value": "المستوى التالي"
+    },
+    {
+      "key": "UI_FINISH",
+      "value": "اكتمل المستوى"
+    },
+    {
+      "key": "UI_BROKE",
+      "value": "أفلست!"
+    },
+    {
+      "key": "UI_COINS",
+      "value": "{0} عملة"
+    },
+    {
+      "key": "UI_XP",
+      "value": "+{0} خبرة"
+    },
+    {
+      "key": "UI_TARGET",
+      "value": "{0} / {1}"
+    },
+    {
+      "key": "UI_BUY",
+      "value": "شراء {0}"
+    },
+    {
+      "key": "UI_EQUIP",
+      "value": "تجهيز"
+    },
+    {
+      "key": "UI_EQUIPPED",
+      "value": "مجهز"
+    },
+    {
+      "key": "UI_OWNED",
+      "value": "مملوك"
+    },
+    {
+      "key": "UI_LOCKED",
+      "value": "مقفل"
+    },
+    {
+      "key": "UI_REQUIREMENT",
+      "value": "المستوى {0} / اللاعب {1} / {2}"
+    },
+    {
+      "key": "UI_BACK",
+      "value": "رجوع"
+    },
+    {
+      "key": "UI_SOUND",
+      "value": "الصوت"
+    },
+    {
+      "key": "UI_MUSIC",
+      "value": "الموسيقى"
+    },
+    {
+      "key": "UI_HAPTICS",
+      "value": "الاهتزاز"
+    },
+    {
+      "key": "UI_LANGUAGE",
+      "value": "اللغة"
+    },
+    {
+      "key": "UI_AUTO",
+      "value": "تلقائي"
+    },
+    {
+      "key": "UI_RESET",
+      "value": "إعادة ضبط التقدم"
+    },
+    {
+      "key": "UI_RESET_CONFIRM",
+      "value": "إعادة ضبط كل التقدم؟"
+    },
+    {
+      "key": "UI_RESET_BODY",
+      "value": "سيتم حذف المال والمقتنيات والإحصائيات."
+    },
+    {
+      "key": "UI_CANCEL",
+      "value": "إلغاء"
+    },
+    {
+      "key": "UI_CONFIRM",
+      "value": "تأكيد"
+    },
+    {
+      "key": "UI_ENDLESS",
+      "value": "جري بلا نهاية"
+    },
+    {
+      "key": "UI_ENDLESS_LOCK",
+      "value": "بلا نهاية · المستوى {0}"
+    },
+    {
+      "key": "UI_DISTANCE",
+      "value": "{0} م"
+    },
+    {
+      "key": "UI_PRACTICE",
+      "value": "تدريب"
+    },
+    {
+      "key": "UI_BONUS",
+      "value": "خزنة المكافآت"
+    },
+    {
+      "key": "UI_KEYS",
+      "value": "{0}/3 مفاتيح"
+    },
+    {
+      "key": "UI_SECOND_CHANCE",
+      "value": "فرصة ثانية · إعلان تجريبي"
+    },
+    {
+      "key": "UI_DOUBLE_COINS",
+      "value": "ضاعف العملات · تجربة"
+    },
+    {
+      "key": "UI_AD_WAIT",
+      "value": "مكافأة تجريبية"
+    },
+    {
+      "key": "UI_SAVE_ERROR",
+      "value": "تعذر حفظ التقدم."
+    },
+    {
+      "key": "UI_DAILY",
+      "value": "اليومية"
+    },
+    {
+      "key": "UI_ACHIEVEMENTS",
+      "value": "الإنجازات"
+    },
+    {
+      "key": "UI_CLAIM",
+      "value": "استلام"
+    },
+    {
+      "key": "UI_CLAIMED",
+      "value": "تم الاستلام"
+    },
+    {
+      "key": "UI_PROGRESS",
+      "value": "{0} / {1}"
+    },
+    {
+      "key": "UI_COLLECTION",
+      "value": "المجموعة {0}/{1}"
+    },
+    {
+      "key": "UI_BEST",
+      "value": "الأفضل {0}"
+    },
+    {
+      "key": "UI_RANK",
+      "value": "رتبة الثروة"
+    },
+    {
+      "key": "UI_WEALTH",
+      "value": "الثروة الحالية"
+    },
+    {
+      "key": "UI_HIGHEST",
+      "value": "أعلى ثروة"
+    },
+    {
+      "key": "UI_TOTAL_EARNED",
+      "value": "إجمالي الأرباح"
+    },
+    {
+      "key": "UI_BIGGEST",
+      "value": "أكبر مكافأة"
+    },
+    {
+      "key": "UI_COMPLETED",
+      "value": "المستويات المكتملة"
+    },
+    {
+      "key": "UI_RISKS",
+      "value": "بوابات المخاطرة"
+    },
+    {
+      "key": "UI_WINS",
+      "value": "المخاطر الناجحة"
+    },
+    {
+      "key": "UI_WIN_RATE",
+      "value": "نسبة النجاح"
+    },
+    {
+      "key": "UI_SAFE",
+      "value": "البوابات الآمنة"
+    },
+    {
+      "key": "UI_CASH",
+      "value": "المال المجموع"
+    },
+    {
+      "key": "UI_COINS_EARNED",
+      "value": "العملات المكتسبة"
+    },
+    {
+      "key": "UI_SKINS",
+      "value": "الشخصيات"
+    },
+    {
+      "key": "UI_ENDLESS_BEST",
+      "value": "أفضل مسافة"
+    },
+    {
+      "key": "UI_NEW_WORLD",
+      "value": "تم فتح عالم جديد"
+    },
+    {
+      "key": "UI_MILESTONE",
+      "value": "إنجاز مالي جديد"
+    },
+    {
+      "key": "UI_MILESTONE_VALUE",
+      "value": "وصلت إلى {0}"
+    },
+    {
+      "key": "UI_MILLIONAIRE",
+      "value": "مليونير!"
+    },
+    {
+      "key": "UI_BILLIONAIRE",
+      "value": "ملياردير!"
+    },
+    {
+      "key": "UI_TRILLIONAIRE",
+      "value": "تريليونير!"
+    },
+    {
+      "key": "UI_FIRST_THOUSAND",
+      "value": "الألف الأولى!"
+    },
+    {
+      "key": "UI_SIX_FIGURES",
+      "value": "ستة أرقام!"
+    },
+    {
+      "key": "UI_SWIPE",
+      "value": "اسحب للتحرك"
+    },
+    {
+      "key": "UI_CHOOSE",
+      "value": "اختر طريقك"
+    },
+    {
+      "key": "UI_COMBO",
+      "value": "{0} جمع متتالٍ"
+    },
+    {
+      "key": "UI_RESULT_WIN",
+      "value": "نجحت المخاطرة!"
+    },
+    {
+      "key": "UI_RESULT_LOSS",
+      "value": "خسرت المخاطرة!"
+    },
+    {
+      "key": "UI_CHANCE",
+      "value": "فرصة النجاح {0}%"
+    },
+    {
+      "key": "UI_LOSS",
+      "value": "خسارة {0}%"
+    },
+    {
+      "key": "UI_INVEST_RETURN",
+      "value": "عائد +50%"
+    },
+    {
+      "key": "UI_BUSINESS_RETURN",
+      "value": "عائد +80%"
+    },
+    {
+      "key": "UI_FINISH_GATE",
+      "value": "النهاية"
+    },
+    {
+      "key": "UI_STARS",
+      "value": "{0} / 3"
+    },
+    {
+      "key": "UI_SCORE",
+      "value": "النقاط {0}"
+    },
+    {
+      "key": "UI_SEED",
+      "value": "البذرة {0}"
+    },
+    {
+      "key": "UI_EXIT_ENDLESS",
+      "value": "احفظ الربح وأنهِ"
+    },
+    {
+      "key": "UI_CASH_OUT",
+      "value": "خذ {0}"
+    },
+    {
+      "key": "UI_CHAIN",
+      "value": "السلسلة {0}"
+    },
+    {
+      "key": "UI_MARKET_ODDS",
+      "value": "20% x5\n50% +20%\n30% -25%"
+    },
+    {
+      "key": "UI_SHIELDED",
+      "value": "محمي!"
+    },
+    {
+      "key": "UI_NOT_ENOUGH",
+      "value": "عملات غير كافية"
+    },
+    {
+      "key": "UI_WORLD_LOCK",
+      "value": "المستوى {0} أو {1}"
+    },
+    {
+      "key": "UI_REPLAY",
+      "value": "إعادة اللعب"
+    },
+    {
+      "key": "UI_NEW_RUN_CONFIRM",
+      "value": "بدء سباق جديد؟"
+    },
+    {
+      "key": "UI_NEW_RUN_BODY",
+      "value": "سيتم الاحتفاظ بثروتك الحالية."
+    },
+    {
+      "key": "UI_GRAPHICS",
+      "value": "الرسومات"
+    },
+    {
+      "key": "UI_HIGH",
+      "value": "عالية"
+    },
+    {
+      "key": "UI_LOW",
+      "value": "منخفضة"
+    },
+    {
+      "key": "SLOT_Character",
+      "value": "الشخصيات"
+    },
+    {
+      "key": "SLOT_Outfit",
+      "value": "الملابس"
+    },
+    {
+      "key": "SLOT_Trail",
+      "value": "المسارات"
+    },
+    {
+      "key": "SLOT_MoneyEffect",
+      "value": "تأثيرات المال"
+    },
+    {
+      "key": "SLOT_Victory",
+      "value": "الفوز"
+    },
+    {
+      "key": "SLOT_Vault",
+      "value": "الخزنات"
+    },
+    {
+      "key": "SLOT_Gate",
+      "value": "تأثيرات البوابات"
+    },
+    {
+      "key": "GATE_Safe",
+      "value": "آمن"
+    },
+    {
+      "key": "GATE_Risk",
+      "value": "مخاطرة"
+    },
+    {
+      "key": "GATE_AddMoney",
+      "value": "مال"
+    },
+    {
+      "key": "GATE_SubtractMoney",
+      "value": "رسوم"
+    },
+    {
+      "key": "GATE_Multiplier",
+      "value": "مضاعف"
+    },
+    {
+      "key": "GATE_Tax",
+      "value": "ضريبة"
+    },
+    {
+      "key": "GATE_Investment",
+      "value": "استثمار"
+    },
+    {
+      "key": "GATE_Business",
+      "value": "شركة"
+    },
+    {
+      "key": "GATE_Market",
+      "value": "السوق"
+    },
+    {
+      "key": "GATE_Insurance",
+      "value": "تأمين"
+    },
+    {
+      "key": "GATE_Shield",
+      "value": "درع"
+    },
+    {
+      "key": "GATE_Luck",
+      "value": "حظ +{0}%"
+    },
+    {
+      "key": "GATE_Mystery",
+      "value": "مفاجأة"
+    },
+    {
+      "key": "GATE_Jackpot",
+      "value": "الجائزة الكبرى"
+    },
+    {
+      "key": "GATE_DoubleOrNothing",
+      "value": "الضعف أو لا شيء"
+    },
+    {
+      "key": "GATE_CashOut",
+      "value": "خذ الأرباح"
+    },
+    {
+      "key": "GATE_RiskChain",
+      "value": "سلسلة المخاطرة"
+    },
+    {
+      "key": "GATE_Bonus",
+      "value": "مكافأة"
+    },
+    {
+      "key": "GATE_KeyGate",
+      "value": "مفتاح"
+    },
+    {
+      "key": "POWER_Shield",
+      "value": "درع"
+    },
+    {
+      "key": "POWER_Magnet",
+      "value": "مغناطيس"
+    },
+    {
+      "key": "POWER_Luck",
+      "value": "حظ +{0}%"
+    },
+    {
+      "key": "POWER_DoubleCash",
+      "value": "مال مضاعف"
+    },
+    {
+      "key": "POWER_SlowMotion",
+      "value": "حركة بطيئة"
+    },
+    {
+      "key": "OBSTACLE_tax",
+      "value": "ضريبة"
+    },
+    {
+      "key": "OBSTACLE_police",
+      "value": "شرطة"
+    },
+    {
+      "key": "OBSTACLE_thief",
+      "value": "لص"
+    },
+    {
+      "key": "OBSTACLE_barrier",
+      "value": "حاجز"
+    },
+    {
+      "key": "OBSTACLE_spinner",
+      "value": "احذر"
+    },
+    {
+      "key": "OBSTACLE_safe",
+      "value": "خزنة متدحرجة"
+    },
+    {
+      "key": "OBSTACLE_traffic",
+      "value": "مرور"
+    },
+    {
+      "key": "OBSTACLE_wall",
+      "value": "جدار الضرائب"
+    },
+    {
+      "key": "OBSTACLE_sign",
+      "value": "لافتة متأرجحة"
+    },
+    {
+      "key": "OBSTACLE_closing",
+      "value": "بوابة تغلق"
+    },
+    {
+      "key": "RANK_0",
+      "value": "مفلس"
+    },
+    {
+      "key": "RANK_1",
+      "value": "مكافح"
+    },
+    {
+      "key": "RANK_2",
+      "value": "كاسب"
+    },
+    {
+      "key": "RANK_3",
+      "value": "ثري"
+    },
+    {
+      "key": "RANK_4",
+      "value": "مليونير"
+    },
+    {
+      "key": "RANK_5",
+      "value": "متعدد الملايين"
+    },
+    {
+      "key": "RANK_6",
+      "value": "قطب أعمال"
+    },
+    {
+      "key": "RANK_7",
+      "value": "ملياردير"
+    },
+    {
+      "key": "RANK_8",
+      "value": "صاحب نفوذ"
+    },
+    {
+      "key": "RANK_9",
+      "value": "باني إمبراطورية"
+    },
+    {
+      "key": "RANK_10",
+      "value": "تريليونير"
+    },
+    {
+      "key": "RANK_11",
+      "value": "أسطورة"
+    },
+    {
+      "key": "MISSION_cash",
+      "value": "اجمع {0} حزمة نقود"
+    },
+    {
+      "key": "MISSION_safe",
+      "value": "اختر الأمان {0} مرة"
+    },
+    {
+      "key": "MISSION_risks",
+      "value": "اعبر {0} بوابة مخاطرة"
+    },
+    {
+      "key": "MISSION_wins",
+      "value": "اربح في {0} بوابة مخاطرة"
+    },
+    {
+      "key": "MISSION_avoided",
+      "value": "تجنب {0} عقبة"
+    },
+    {
+      "key": "MISSION_completed",
+      "value": "أكمل {0} مستوى"
+    },
+    {
+      "key": "MISSION_perfect",
+      "value": "أكمل {0} سباقا مثاليا"
+    },
+    {
+      "key": "MISSION_coins",
+      "value": "اكسب {0} عملة"
+    },
+    {
+      "key": "MISSION_powers",
+      "value": "استخدم {0} تعزيزات"
+    },
+    {
+      "key": "MISSION_investments",
+      "value": "نفذ {0} استثمارات"
+    },
+    {
+      "key": "MISSION_keys",
+      "value": "اجمع {0} مفتاحا"
+    },
+    {
+      "key": "MISSION_bonus",
+      "value": "أكمل {0} سباق مكافأة"
+    },
+    {
+      "key": "MISSION_rareWins",
+      "value": "اربح {0} مخاطرات نادرة"
+    },
+    {
+      "key": "MISSION_combo",
+      "value": "حقق سلسلة من {0} حزمة"
+    },
+    {
+      "key": "MISSION_wealth",
+      "value": "صل إلى {0}"
+    },
+    {
+      "key": "MISSION_collection",
+      "value": "امتلك {0} قطعة تجميل"
+    },
+    {
+      "key": "LANG_en",
+      "value": "English"
+    },
+    {
+      "key": "LANG_ru",
+      "value": "Русский"
+    },
+    {
+      "key": "LANG_tr",
+      "value": "Türkçe"
+    },
+    {
+      "key": "LANG_de",
+      "value": "Deutsch"
+    },
+    {
+      "key": "LANG_ar",
+      "value": "العربية"
+    },
+    {
+      "key": "LANG_zh",
+      "value": "简体中文"
+    },
+    {
+      "key": "LANG_es",
+      "value": "Español"
+    },
+    {
+      "key": "LANG_pt",
+      "value": "Português"
+    },
+    {
+      "key": "LANG_fr",
+      "value": "Français"
+    },
+    {
+      "key": "LANG_it",
+      "value": "Italiano"
+    },
+    {
+      "key": "LANG_pl",
+      "value": "Polski"
+    },
+    {
+      "key": "LANG_uk",
+      "value": "Українська"
+    },
+    {
+      "key": "LANG_hi",
+      "value": "हिन्दी"
+    },
+    {
+      "key": "LANG_id",
+      "value": "Bahasa Indonesia"
+    },
+    {
+      "key": "LANG_vi",
+      "value": "Tiếng Việt"
+    },
+    {
+      "key": "LANG_th",
+      "value": "ไทย"
+    },
+    {
+      "key": "LANG_ja",
+      "value": "日本語"
+    },
+    {
+      "key": "LANG_ko",
+      "value": "한국어"
+    },
+    {
+      "key": "LANG_zh_Hant",
+      "value": "繁體中文"
+    },
+    {
+      "key": "WORLD_streets",
+      "value": "الشوارع"
+    },
+    {
+      "key": "WORLD_downtown",
+      "value": "وسط المدينة"
+    },
+    {
+      "key": "WORLD_business",
+      "value": "حي الأعمال"
+    },
+    {
+      "key": "WORLD_luxury",
+      "value": "الحي الفاخر"
+    },
+    {
+      "key": "WORLD_island",
+      "value": "جزيرة المليونيرات"
+    },
+    {
+      "key": "WORLD_capital",
+      "value": "عاصمة المال"
+    },
+    {
+      "key": "WORLD_bay",
+      "value": "خليج المليارديرات"
+    },
+    {
+      "key": "WORLD_future",
+      "value": "مدينة المستقبل"
+    },
+    {
+      "key": "WORLD_gold",
+      "value": "مدينة الذهب"
+    },
+    {
+      "key": "ITEM_runner",
+      "value": "العداء الأساسي"
+    },
+    {
+      "key": "ITEM_street",
+      "value": "عداء الشارع"
+    },
+    {
+      "key": "ITEM_businessman",
+      "value": "رجل أعمال"
+    },
+    {
+      "key": "ITEM_businesswoman",
+      "value": "سيدة أعمال"
+    },
+    {
+      "key": "ITEM_sport",
+      "value": "رياضي"
+    },
+    {
+      "key": "ITEM_gold_runner",
+      "value": "العداء الذهبي"
+    },
+    {
+      "key": "ITEM_millionaire",
+      "value": "مليونير"
+    },
+    {
+      "key": "ITEM_billionaire",
+      "value": "ملياردير"
+    },
+    {
+      "key": "ITEM_neon",
+      "value": "نيون"
+    },
+    {
+      "key": "ITEM_king",
+      "value": "ملك المال"
+    },
+    {
+      "key": "ITEM_outfit_classic",
+      "value": "كلاسيكي"
+    },
+    {
+      "key": "ITEM_outfit_coral",
+      "value": "مرجاني"
+    },
+    {
+      "key": "ITEM_outfit_mint",
+      "value": "نعناعي"
+    },
+    {
+      "key": "ITEM_dust",
+      "value": "غبار"
+    },
+    {
+      "key": "ITEM_cash_trail",
+      "value": "أثر النقود"
+    },
+    {
+      "key": "ITEM_coin_trail",
+      "value": "أثر العملات"
+    },
+    {
+      "key": "ITEM_gold_trail",
+      "value": "أثر ذهبي"
+    },
+    {
+      "key": "ITEM_neon_trail",
+      "value": "أثر نيون"
+    },
+    {
+      "key": "ITEM_rainbow_trail",
+      "value": "قوس قزح"
+    },
+    {
+      "key": "ITEM_cash_green",
+      "value": "نقود كلاسيكية"
+    },
+    {
+      "key": "ITEM_cash_gold",
+      "value": "نقود ذهبية"
+    },
+    {
+      "key": "ITEM_cash_neon",
+      "value": "نقود نيون"
+    },
+    {
+      "key": "ITEM_cash_blue",
+      "value": "نقود رقمية"
+    },
+    {
+      "key": "ITEM_cash_rainbow",
+      "value": "نقود قوس قزح"
+    },
+    {
+      "key": "ITEM_cash_spark",
+      "value": "شرر النقود"
+    },
+    {
+      "key": "ITEM_jump",
+      "value": "قفزة"
+    },
+    {
+      "key": "ITEM_dance",
+      "value": "رقصة"
+    },
+    {
+      "key": "ITEM_money_rain",
+      "value": "مطر النقود"
+    },
+    {
+      "key": "ITEM_backflip",
+      "value": "شقلبة خلفية"
+    },
+    {
+      "key": "ITEM_gold_pose",
+      "value": "وقفة ذهبية"
+    },
+    {
+      "key": "ITEM_tornado",
+      "value": "إعصار النقود"
+    },
+    {
+      "key": "ITEM_vault_classic",
+      "value": "خزنة كلاسيكية"
+    },
+    {
+      "key": "ITEM_vault_gold",
+      "value": "خزنة ذهبية"
+    },
+    {
+      "key": "ITEM_vault_diamond",
+      "value": "خزنة ألماسية"
+    },
+    {
+      "key": "ITEM_vault_neon",
+      "value": "خزنة نيون"
+    },
+    {
+      "key": "ITEM_gate_classic",
+      "value": "بوابات كلاسيكية"
+    },
+    {
+      "key": "ITEM_gate_spark",
+      "value": "بوابات الشرر"
+    },
+    {
+      "key": "ITEM_gate_confetti",
+      "value": "قصاصات ملونة"
+    },
+    {
+      "key": "MISSION_jackpots",
+      "value": "اربح {0} جوائز كبرى"
+    },
+    {
+      "key": "LEVEL_1",
+      "value": "مصروف الجيب"
+    },
+    {
+      "key": "LEVEL_2",
+      "value": "شارع جانبي"
+    },
+    {
+      "key": "LEVEL_3",
+      "value": "أضواء زرقاء"
+    },
+    {
+      "key": "LEVEL_4",
+      "value": "قليل من الحظ"
+    },
+    {
+      "key": "LEVEL_5",
+      "value": "فرصة ذهبية"
+    },
+    {
+      "key": "LEVEL_6",
+      "value": "ممر المشاة"
+    },
+    {
+      "key": "LEVEL_7",
+      "value": "السلامة أولا"
+    },
+    {
+      "key": "LEVEL_8",
+      "value": "طريقان"
+    },
+    {
+      "key": "LEVEL_9",
+      "value": "أيد سريعة"
+    },
+    {
+      "key": "LEVEL_10",
+      "value": "وسط المدينة"
+    },
+    {
+      "key": "LEVEL_11",
+      "value": "حركة المرور"
+    },
+    {
+      "key": "LEVEL_12",
+      "value": "استثمار ذكي"
+    },
+    {
+      "key": "LEVEL_13",
+      "value": "جسور المدينة"
+    },
+    {
+      "key": "LEVEL_14",
+      "value": "موسم الضرائب"
+    },
+    {
+      "key": "LEVEL_15",
+      "value": "مخاطرة مضاعفة"
+    },
+    {
+      "key": "LEVEL_16",
+      "value": "مفاتيح الخزنة"
+    },
+    {
+      "key": "LEVEL_17",
+      "value": "المال يعمل"
+    },
+    {
+      "key": "LEVEL_18",
+      "value": "السوق المفتوحة"
+    },
+    {
+      "key": "LEVEL_19",
+      "value": "الشارع الرئيسي"
+    },
+    {
+      "key": "LEVEL_20",
+      "value": "اندفاع المال"
+    },
+    {
+      "key": "UI_PRIVACY",
+      "value": "الخصوصية"
+    },
+    {
+      "key": "UI_PRIVACY_BODY",
+      "value": "يتم حفظ تقدمك وإعداداتك ومجموعتك على هذا الجهاز. لا تتطلب اللعبة تسجيل حساب ولا ترسل تحليلات اللعب إلى خادم. يمكنك حذف تقدمك من الإعدادات أو مسح بيانات التطبيق."
+    },
+    {
+      "key": "UI_PRIVACY_OPEN",
+      "value": "قراءة السياسة الكاملة"
+    }
+  ]
+}

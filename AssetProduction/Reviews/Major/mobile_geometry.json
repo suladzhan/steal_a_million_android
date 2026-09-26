@@ -1,0 +1,100 @@
+{
+  "assets": [
+    {
+      "id": "townhouse",
+      "source": "AssetProduction\\02_Generated\\Major\\20260926_152927_townhouse_01a0ddb0",
+      "triangles": 3499,
+      "budget": 3500,
+      "materials": [
+        {
+          "name": "townhouse_M0",
+          "texture": "townhouse_M0.png"
+        }
+      ]
+    },
+    {
+      "id": "tower",
+      "source": "AssetProduction\\02_Generated\\Major\\20260926_152931_tower_01a0ddb1",
+      "triangles": 3500,
+      "budget": 3500,
+      "materials": [
+        {
+          "name": "tower_M0",
+          "texture": "tower_M0.png"
+        }
+      ]
+    },
+    {
+      "id": "villa",
+      "source": "AssetProduction\\02_Generated\\Major\\20260926_152934_villa_01a0ddb1",
+      "triangles": 4999,
+      "budget": 6000,
+      "materials": [
+        {
+          "name": "villa_M0",
+          "texture": "villa_M0.png"
+        }
+      ]
+    },
+    {
+      "id": "future",
+      "source": "AssetProduction\\02_Generated\\Major\\20260926_152937_future_01a0ddb1",
+      "triangles": 3499,
+      "budget": 3500,
+      "materials": [
+        {
+          "name": "future_M0",
+          "texture": "future_M0.png"
+        }
+      ]
+    },
+    {
+      "id": "palm2",
+      "source": "AssetProduction\\02_Generated\\Major\\20260926_153747_palm2_01a0ddb8",
+      "triangles": 1543,
+      "budget": 1543,
+      "materials": [
+        {
+          "name": "palm2_M0",
+          "texture": "palm2_M0.png"
+        }
+      ]
+    },
+    {
+      "id": "tree",
+      "source": "AssetProduction\\02_Generated\\Major\\20260926_152944_tree_01a0ddb1",
+      "triangles": 1454,
+      "budget": 1500,
+      "materials": [
+        {
+          "name": "tree_M0",
+          "texture": "tree_M0.png"
+        }
+      ]
+    },
+    {
+      "id": "car",
+      "source": "AssetProduction\\02_Generated\\Major\\20260926_152948_car_01a0ddb1",
+      "triangles": 3497,
+      "budget": 3508,
+      "materials": [
+        {
+          "name": "car_M0",
+          "texture": "car_M0.png"
+        }
+      ]
+    },
+    {
+      "id": "barrier",
+      "source": "AssetProduction\\02_Generated\\Major\\20260926_152952_barrier_01a0ddb1",
+      "triangles": 2500,
+      "budget": 2500,
+      "materials": [
+        {
+          "name": "barrier_M0",
+          "texture": "barrier_M0.png"
+        }
+      ]
+    }
+  ]
+}

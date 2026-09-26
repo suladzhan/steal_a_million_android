@@ -1,0 +1,22 @@
+﻿{
+    "id":  "gate-crest-risk-v001",
+    "estimated_credits":  20,
+    "arguments":  [
+                      "text-to-3d",
+                      "create",
+                      "--mode",
+                      "preview",
+                      "--prompt",
+                      "Two chunky divergent upward arrows forming a split-path emblem, angular faceted toy style, broad beveled edges, front-facing vertical shallow solid relief badge, no letters, no pedestal, no scene, clean silhouette, mobile game gateway crest",
+                      "--target-formats",
+                      "glb",
+                      "--async",
+                      "--workspace",
+                      "C:/Users/user/Desktop/game 1/AssetProduction/02_Generated",
+                      "--output-schema",
+                      "v1",
+                      "--format",
+                      "json",
+                      "--no-update-check"
+                  ]
+}

@@ -1,0 +1,1051 @@
+{
+  "code": "zh",
+  "name": "zh",
+  "rtl": false,
+  "entries": [
+    {
+      "key": "UI_TITLE",
+      "value": "STEAL A MILLION"
+    },
+    {
+      "key": "UI_PLAY",
+      "value": "开始"
+    },
+    {
+      "key": "UI_CONTINUE",
+      "value": "继续"
+    },
+    {
+      "key": "UI_SHOP",
+      "value": "商店"
+    },
+    {
+      "key": "UI_MISSIONS",
+      "value": "任务"
+    },
+    {
+      "key": "UI_PROFILE",
+      "value": "个人资料"
+    },
+    {
+      "key": "UI_SETTINGS",
+      "value": "设置"
+    },
+    {
+      "key": "UI_WORLDS",
+      "value": "世界"
+    },
+    {
+      "key": "UI_LEVEL",
+      "value": "第 {0} 关"
+    },
+    {
+      "key": "UI_PLAYER_LEVEL",
+      "value": "玩家等级 {0}"
+    },
+    {
+      "key": "UI_PAUSE",
+      "value": "已暂停"
+    },
+    {
+      "key": "UI_RESUME",
+      "value": "继续"
+    },
+    {
+      "key": "UI_MENU",
+      "value": "主菜单"
+    },
+    {
+      "key": "UI_RETRY",
+      "value": "重试"
+    },
+    {
+      "key": "UI_NEXT",
+      "value": "下一关"
+    },
+    {
+      "key": "UI_FINISH",
+      "value": "关卡完成"
+    },
+    {
+      "key": "UI_BROKE",
+      "value": "破产了！"
+    },
+    {
+      "key": "UI_COINS",
+      "value": "{0} 金币"
+    },
+    {
+      "key": "UI_XP",
+      "value": "+{0} 经验"
+    },
+    {
+      "key": "UI_TARGET",
+      "value": "{0} / {1}"
+    },
+    {
+      "key": "UI_BUY",
+      "value": "购买 {0}"
+    },
+    {
+      "key": "UI_EQUIP",
+      "value": "装备"
+    },
+    {
+      "key": "UI_EQUIPPED",
+      "value": "已装备"
+    },
+    {
+      "key": "UI_OWNED",
+      "value": "已拥有"
+    },
+    {
+      "key": "UI_LOCKED",
+      "value": "未解锁"
+    },
+    {
+      "key": "UI_REQUIREMENT",
+      "value": "关卡 {0} / 等级 {1} / {2}"
+    },
+    {
+      "key": "UI_BACK",
+      "value": "返回"
+    },
+    {
+      "key": "UI_SOUND",
+      "value": "音效"
+    },
+    {
+      "key": "UI_MUSIC",
+      "value": "音乐"
+    },
+    {
+      "key": "UI_HAPTICS",
+      "value": "振动"
+    },
+    {
+      "key": "UI_LANGUAGE",
+      "value": "语言"
+    },
+    {
+      "key": "UI_AUTO",
+      "value": "自动"
+    },
+    {
+      "key": "UI_RESET",
+      "value": "重置进度"
+    },
+    {
+      "key": "UI_RESET_CONFIRM",
+      "value": "重置所有进度？"
+    },
+    {
+      "key": "UI_RESET_BODY",
+      "value": "金钱、收藏和统计数据将被重置。"
+    },
+    {
+      "key": "UI_CANCEL",
+      "value": "取消"
+    },
+    {
+      "key": "UI_CONFIRM",
+      "value": "确认"
+    },
+    {
+      "key": "UI_ENDLESS",
+      "value": "无尽模式"
+    },
+    {
+      "key": "UI_ENDLESS_LOCK",
+      "value": "无尽模式 · 第 {0} 关"
+    },
+    {
+      "key": "UI_DISTANCE",
+      "value": "{0} 米"
+    },
+    {
+      "key": "UI_PRACTICE",
+      "value": "练习"
+    },
+    {
+      "key": "UI_BONUS",
+      "value": "奖励金库"
+    },
+    {
+      "key": "UI_KEYS",
+      "value": "{0}/3 钥匙"
+    },
+    {
+      "key": "UI_SECOND_CHANCE",
+      "value": "再来一次 · 测试广告"
+    },
+    {
+      "key": "UI_DOUBLE_COINS",
+      "value": "双倍金币 · 测试广告"
+    },
+    {
+      "key": "UI_AD_WAIT",
+      "value": "测试奖励…"
+    },
+    {
+      "key": "UI_SAVE_ERROR",
+      "value": "无法保存进度。"
+    },
+    {
+      "key": "UI_DAILY",
+      "value": "每日任务"
+    },
+    {
+      "key": "UI_ACHIEVEMENTS",
+      "value": "成就"
+    },
+    {
+      "key": "UI_CLAIM",
+      "value": "领取"
+    },
+    {
+      "key": "UI_CLAIMED",
+      "value": "已领取"
+    },
+    {
+      "key": "UI_PROGRESS",
+      "value": "{0} / {1}"
+    },
+    {
+      "key": "UI_COLLECTION",
+      "value": "收藏 {0}/{1}"
+    },
+    {
+      "key": "UI_BEST",
+      "value": "最佳 {0}"
+    },
+    {
+      "key": "UI_RANK",
+      "value": "财富等级"
+    },
+    {
+      "key": "UI_WEALTH",
+      "value": "当前财富"
+    },
+    {
+      "key": "UI_HIGHEST",
+      "value": "最高财富"
+    },
+    {
+      "key": "UI_TOTAL_EARNED",
+      "value": "累计收入"
+    },
+    {
+      "key": "UI_BIGGEST",
+      "value": "最大奖励"
+    },
+    {
+      "key": "UI_COMPLETED",
+      "value": "完成关卡"
+    },
+    {
+      "key": "UI_RISKS",
+      "value": "风险门"
+    },
+    {
+      "key": "UI_WINS",
+      "value": "风险成功次数"
+    },
+    {
+      "key": "UI_WIN_RATE",
+      "value": "成功率"
+    },
+    {
+      "key": "UI_SAFE",
+      "value": "安全门"
+    },
+    {
+      "key": "UI_CASH",
+      "value": "收集钞票"
+    },
+    {
+      "key": "UI_COINS_EARNED",
+      "value": "获得金币"
+    },
+    {
+      "key": "UI_SKINS",
+      "value": "拥有角色"
+    },
+    {
+      "key": "UI_ENDLESS_BEST",
+      "value": "无尽最佳距离"
+    },
+    {
+      "key": "UI_NEW_WORLD",
+      "value": "新世界已解锁"
+    },
+    {
+      "key": "UI_MILESTONE",
+      "value": "财富里程碑"
+    },
+    {
+      "key": "UI_MILESTONE_VALUE",
+      "value": "达到 {0}"
+    },
+    {
+      "key": "UI_MILLIONAIRE",
+      "value": "百万富翁！"
+    },
+    {
+      "key": "UI_BILLIONAIRE",
+      "value": "十亿富翁！"
+    },
+    {
+      "key": "UI_TRILLIONAIRE",
+      "value": "万亿富翁！"
+    },
+    {
+      "key": "UI_FIRST_THOUSAND",
+      "value": "第一个一千！"
+    },
+    {
+      "key": "UI_SIX_FIGURES",
+      "value": "六位数财富！"
+    },
+    {
+      "key": "UI_SWIPE",
+      "value": "滑动移动"
+    },
+    {
+      "key": "UI_CHOOSE",
+      "value": "选择你的道路"
+    },
+    {
+      "key": "UI_COMBO",
+      "value": "{0} 连击"
+    },
+    {
+      "key": "UI_RESULT_WIN",
+      "value": "冒险成功！"
+    },
+    {
+      "key": "UI_RESULT_LOSS",
+      "value": "冒险失败！"
+    },
+    {
+      "key": "UI_CHANCE",
+      "value": "{0}% 成功率"
+    },
+    {
+      "key": "UI_LOSS",
+      "value": "损失 {0}%"
+    },
+    {
+      "key": "UI_INVEST_RETURN",
+      "value": "回报 +50%"
+    },
+    {
+      "key": "UI_BUSINESS_RETURN",
+      "value": "回报 +80%"
+    },
+    {
+      "key": "UI_FINISH_GATE",
+      "value": "终点"
+    },
+    {
+      "key": "UI_STARS",
+      "value": "{0} / 3"
+    },
+    {
+      "key": "UI_SCORE",
+      "value": "得分 {0}"
+    },
+    {
+      "key": "UI_SEED",
+      "value": "种子 {0}"
+    },
+    {
+      "key": "UI_EXIT_ENDLESS",
+      "value": "保存收益并结束"
+    },
+    {
+      "key": "UI_CASH_OUT",
+      "value": "领取 {0}"
+    },
+    {
+      "key": "UI_CHAIN",
+      "value": "连锁 {0}"
+    },
+    {
+      "key": "UI_MARKET_ODDS",
+      "value": "20% x5\n50% +20%\n30% -25%"
+    },
+    {
+      "key": "UI_SHIELDED",
+      "value": "已保护！"
+    },
+    {
+      "key": "UI_NOT_ENOUGH",
+      "value": "金币不足"
+    },
+    {
+      "key": "UI_WORLD_LOCK",
+      "value": "第 {0} 关或 {1}"
+    },
+    {
+      "key": "UI_REPLAY",
+      "value": "重玩"
+    },
+    {
+      "key": "UI_NEW_RUN_CONFIRM",
+      "value": "开始新的奔跑？"
+    },
+    {
+      "key": "UI_NEW_RUN_BODY",
+      "value": "当前财富将保留。"
+    },
+    {
+      "key": "UI_GRAPHICS",
+      "value": "画质"
+    },
+    {
+      "key": "UI_HIGH",
+      "value": "高"
+    },
+    {
+      "key": "UI_LOW",
+      "value": "低"
+    },
+    {
+      "key": "SLOT_Character",
+      "value": "角色"
+    },
+    {
+      "key": "SLOT_Outfit",
+      "value": "服装"
+    },
+    {
+      "key": "SLOT_Trail",
+      "value": "拖尾"
+    },
+    {
+      "key": "SLOT_MoneyEffect",
+      "value": "钞票效果"
+    },
+    {
+      "key": "SLOT_Victory",
+      "value": "胜利动作"
+    },
+    {
+      "key": "SLOT_Vault",
+      "value": "金库"
+    },
+    {
+      "key": "SLOT_Gate",
+      "value": "门效果"
+    },
+    {
+      "key": "GATE_Safe",
+      "value": "安全"
+    },
+    {
+      "key": "GATE_Risk",
+      "value": "风险"
+    },
+    {
+      "key": "GATE_AddMoney",
+      "value": "现金"
+    },
+    {
+      "key": "GATE_SubtractMoney",
+      "value": "费用"
+    },
+    {
+      "key": "GATE_Multiplier",
+      "value": "倍增"
+    },
+    {
+      "key": "GATE_Tax",
+      "value": "税收"
+    },
+    {
+      "key": "GATE_Investment",
+      "value": "投资"
+    },
+    {
+      "key": "GATE_Business",
+      "value": "生意"
+    },
+    {
+      "key": "GATE_Market",
+      "value": "市场"
+    },
+    {
+      "key": "GATE_Insurance",
+      "value": "保险"
+    },
+    {
+      "key": "GATE_Shield",
+      "value": "护盾"
+    },
+    {
+      "key": "GATE_Luck",
+      "value": "幸运 +{0}%"
+    },
+    {
+      "key": "GATE_Mystery",
+      "value": "神秘"
+    },
+    {
+      "key": "GATE_Jackpot",
+      "value": "大奖"
+    },
+    {
+      "key": "GATE_DoubleOrNothing",
+      "value": "翻倍或归零"
+    },
+    {
+      "key": "GATE_CashOut",
+      "value": "领取收益"
+    },
+    {
+      "key": "GATE_RiskChain",
+      "value": "连环风险"
+    },
+    {
+      "key": "GATE_Bonus",
+      "value": "奖励"
+    },
+    {
+      "key": "GATE_KeyGate",
+      "value": "钥匙"
+    },
+    {
+      "key": "POWER_Shield",
+      "value": "护盾"
+    },
+    {
+      "key": "POWER_Magnet",
+      "value": "磁铁"
+    },
+    {
+      "key": "POWER_Luck",
+      "value": "幸运 +{0}%"
+    },
+    {
+      "key": "POWER_DoubleCash",
+      "value": "双倍现金"
+    },
+    {
+      "key": "POWER_SlowMotion",
+      "value": "慢动作"
+    },
+    {
+      "key": "OBSTACLE_tax",
+      "value": "税款"
+    },
+    {
+      "key": "OBSTACLE_police",
+      "value": "警察"
+    },
+    {
+      "key": "OBSTACLE_thief",
+      "value": "小偷"
+    },
+    {
+      "key": "OBSTACLE_barrier",
+      "value": "路障"
+    },
+    {
+      "key": "OBSTACLE_spinner",
+      "value": "小心"
+    },
+    {
+      "key": "OBSTACLE_safe",
+      "value": "滚动保险箱"
+    },
+    {
+      "key": "OBSTACLE_traffic",
+      "value": "交通"
+    },
+    {
+      "key": "OBSTACLE_wall",
+      "value": "税墙"
+    },
+    {
+      "key": "OBSTACLE_sign",
+      "value": "摆动路牌"
+    },
+    {
+      "key": "OBSTACLE_closing",
+      "value": "关闭的门"
+    },
+    {
+      "key": "RANK_0",
+      "value": "身无分文"
+    },
+    {
+      "key": "RANK_1",
+      "value": "奋斗者"
+    },
+    {
+      "key": "RANK_2",
+      "value": "赚钱能手"
+    },
+    {
+      "key": "RANK_3",
+      "value": "富人"
+    },
+    {
+      "key": "RANK_4",
+      "value": "百万富翁"
+    },
+    {
+      "key": "RANK_5",
+      "value": "千万富翁"
+    },
+    {
+      "key": "RANK_6",
+      "value": "商业大亨"
+    },
+    {
+      "key": "RANK_7",
+      "value": "十亿富翁"
+    },
+    {
+      "key": "RANK_8",
+      "value": "金融巨头"
+    },
+    {
+      "key": "RANK_9",
+      "value": "帝国缔造者"
+    },
+    {
+      "key": "RANK_10",
+      "value": "万亿富翁"
+    },
+    {
+      "key": "RANK_11",
+      "value": "传奇"
+    },
+    {
+      "key": "MISSION_cash",
+      "value": "收集{0}叠钞票"
+    },
+    {
+      "key": "MISSION_safe",
+      "value": "选择安全门{0}次"
+    },
+    {
+      "key": "MISSION_risks",
+      "value": "通过{0}个风险门"
+    },
+    {
+      "key": "MISSION_wins",
+      "value": "赢得{0}次风险挑战"
+    },
+    {
+      "key": "MISSION_avoided",
+      "value": "避开{0}个障碍"
+    },
+    {
+      "key": "MISSION_completed",
+      "value": "完成{0}个关卡"
+    },
+    {
+      "key": "MISSION_perfect",
+      "value": "完成{0}次完美奔跑"
+    },
+    {
+      "key": "MISSION_coins",
+      "value": "赚取{0}枚金币"
+    },
+    {
+      "key": "MISSION_powers",
+      "value": "使用{0}个强化道具"
+    },
+    {
+      "key": "MISSION_investments",
+      "value": "进行{0}次投资"
+    },
+    {
+      "key": "MISSION_keys",
+      "value": "收集{0}把钥匙"
+    },
+    {
+      "key": "MISSION_bonus",
+      "value": "完成{0}次奖励奔跑"
+    },
+    {
+      "key": "MISSION_rareWins",
+      "value": "赢得{0}次低概率挑战"
+    },
+    {
+      "key": "MISSION_combo",
+      "value": "达成{0}次钞票连击"
+    },
+    {
+      "key": "MISSION_wealth",
+      "value": "达到{0}"
+    },
+    {
+      "key": "MISSION_collection",
+      "value": "拥有{0}件装饰"
+    },
+    {
+      "key": "LANG_en",
+      "value": "English"
+    },
+    {
+      "key": "LANG_ru",
+      "value": "Русский"
+    },
+    {
+      "key": "LANG_tr",
+      "value": "Türkçe"
+    },
+    {
+      "key": "LANG_de",
+      "value": "Deutsch"
+    },
+    {
+      "key": "LANG_ar",
+      "value": "العربية"
+    },
+    {
+      "key": "LANG_zh",
+      "value": "简体中文"
+    },
+    {
+      "key": "LANG_es",
+      "value": "Español"
+    },
+    {
+      "key": "LANG_pt",
+      "value": "Português"
+    },
+    {
+      "key": "LANG_fr",
+      "value": "Français"
+    },
+    {
+      "key": "LANG_it",
+      "value": "Italiano"
+    },
+    {
+      "key": "LANG_pl",
+      "value": "Polski"
+    },
+    {
+      "key": "LANG_uk",
+      "value": "Українська"
+    },
+    {
+      "key": "LANG_hi",
+      "value": "हिन्दी"
+    },
+    {
+      "key": "LANG_id",
+      "value": "Bahasa Indonesia"
+    },
+    {
+      "key": "LANG_vi",
+      "value": "Tiếng Việt"
+    },
+    {
+      "key": "LANG_th",
+      "value": "ไทย"
+    },
+    {
+      "key": "LANG_ja",
+      "value": "日本語"
+    },
+    {
+      "key": "LANG_ko",
+      "value": "한국어"
+    },
+    {
+      "key": "LANG_zh_Hant",
+      "value": "繁體中文"
+    },
+    {
+      "key": "WORLD_streets",
+      "value": "街道"
+    },
+    {
+      "key": "WORLD_downtown",
+      "value": "市中心"
+    },
+    {
+      "key": "WORLD_business",
+      "value": "商务区"
+    },
+    {
+      "key": "WORLD_luxury",
+      "value": "豪华区"
+    },
+    {
+      "key": "WORLD_island",
+      "value": "百万富翁岛"
+    },
+    {
+      "key": "WORLD_capital",
+      "value": "金融之都"
+    },
+    {
+      "key": "WORLD_bay",
+      "value": "亿万富翁湾"
+    },
+    {
+      "key": "WORLD_future",
+      "value": "未来之城"
+    },
+    {
+      "key": "WORLD_gold",
+      "value": "黄金之城"
+    },
+    {
+      "key": "ITEM_runner",
+      "value": "初始跑者"
+    },
+    {
+      "key": "ITEM_street",
+      "value": "街头跑者"
+    },
+    {
+      "key": "ITEM_businessman",
+      "value": "商务男士"
+    },
+    {
+      "key": "ITEM_businesswoman",
+      "value": "商务女士"
+    },
+    {
+      "key": "ITEM_sport",
+      "value": "运动员"
+    },
+    {
+      "key": "ITEM_gold_runner",
+      "value": "黄金跑者"
+    },
+    {
+      "key": "ITEM_millionaire",
+      "value": "百万富翁"
+    },
+    {
+      "key": "ITEM_billionaire",
+      "value": "亿万富翁"
+    },
+    {
+      "key": "ITEM_neon",
+      "value": "霓虹跑者"
+    },
+    {
+      "key": "ITEM_king",
+      "value": "金钱之王"
+    },
+    {
+      "key": "ITEM_outfit_classic",
+      "value": "经典"
+    },
+    {
+      "key": "ITEM_outfit_coral",
+      "value": "珊瑚红"
+    },
+    {
+      "key": "ITEM_outfit_mint",
+      "value": "薄荷绿"
+    },
+    {
+      "key": "ITEM_dust",
+      "value": "尘土"
+    },
+    {
+      "key": "ITEM_cash_trail",
+      "value": "钞票轨迹"
+    },
+    {
+      "key": "ITEM_coin_trail",
+      "value": "金币轨迹"
+    },
+    {
+      "key": "ITEM_gold_trail",
+      "value": "黄金轨迹"
+    },
+    {
+      "key": "ITEM_neon_trail",
+      "value": "霓虹轨迹"
+    },
+    {
+      "key": "ITEM_rainbow_trail",
+      "value": "彩虹"
+    },
+    {
+      "key": "ITEM_cash_green",
+      "value": "经典钞票"
+    },
+    {
+      "key": "ITEM_cash_gold",
+      "value": "黄金钞票"
+    },
+    {
+      "key": "ITEM_cash_neon",
+      "value": "霓虹钞票"
+    },
+    {
+      "key": "ITEM_cash_blue",
+      "value": "数字钞票"
+    },
+    {
+      "key": "ITEM_cash_rainbow",
+      "value": "彩虹钞票"
+    },
+    {
+      "key": "ITEM_cash_spark",
+      "value": "闪光钞票"
+    },
+    {
+      "key": "ITEM_jump",
+      "value": "跳跃"
+    },
+    {
+      "key": "ITEM_dance",
+      "value": "舞蹈"
+    },
+    {
+      "key": "ITEM_money_rain",
+      "value": "金钱雨"
+    },
+    {
+      "key": "ITEM_backflip",
+      "value": "后空翻"
+    },
+    {
+      "key": "ITEM_gold_pose",
+      "value": "黄金姿势"
+    },
+    {
+      "key": "ITEM_tornado",
+      "value": "金钱旋风"
+    },
+    {
+      "key": "ITEM_vault_classic",
+      "value": "经典金库"
+    },
+    {
+      "key": "ITEM_vault_gold",
+      "value": "黄金金库"
+    },
+    {
+      "key": "ITEM_vault_diamond",
+      "value": "钻石金库"
+    },
+    {
+      "key": "ITEM_vault_neon",
+      "value": "霓虹金库"
+    },
+    {
+      "key": "ITEM_gate_classic",
+      "value": "经典门"
+    },
+    {
+      "key": "ITEM_gate_spark",
+      "value": "火花门"
+    },
+    {
+      "key": "ITEM_gate_confetti",
+      "value": "彩纸"
+    },
+    {
+      "key": "MISSION_jackpots",
+      "value": "赢得{0}次大奖"
+    },
+    {
+      "key": "LEVEL_1",
+      "value": "零花钱"
+    },
+    {
+      "key": "LEVEL_2",
+      "value": "小巷"
+    },
+    {
+      "key": "LEVEL_3",
+      "value": "蓝色警灯"
+    },
+    {
+      "key": "LEVEL_4",
+      "value": "一点运气"
+    },
+    {
+      "key": "LEVEL_5",
+      "value": "黄金机会"
+    },
+    {
+      "key": "LEVEL_6",
+      "value": "人行横道"
+    },
+    {
+      "key": "LEVEL_7",
+      "value": "安全第一"
+    },
+    {
+      "key": "LEVEL_8",
+      "value": "两条道路"
+    },
+    {
+      "key": "LEVEL_9",
+      "value": "敏捷双手"
+    },
+    {
+      "key": "LEVEL_10",
+      "value": "市中心"
+    },
+    {
+      "key": "LEVEL_11",
+      "value": "车流"
+    },
+    {
+      "key": "LEVEL_12",
+      "value": "明智投资"
+    },
+    {
+      "key": "LEVEL_13",
+      "value": "城市桥梁"
+    },
+    {
+      "key": "LEVEL_14",
+      "value": "纳税季"
+    },
+    {
+      "key": "LEVEL_15",
+      "value": "双倍风险"
+    },
+    {
+      "key": "LEVEL_16",
+      "value": "金库钥匙"
+    },
+    {
+      "key": "LEVEL_17",
+      "value": "让钱工作"
+    },
+    {
+      "key": "LEVEL_18",
+      "value": "开放市场"
+    },
+    {
+      "key": "LEVEL_19",
+      "value": "繁华街道"
+    },
+    {
+      "key": "LEVEL_20",
+      "value": "金钱狂潮"
+    },
+    {
+      "key": "UI_PRIVACY",
+      "value": "隐私"
+    },
+    {
+      "key": "UI_PRIVACY_BODY",
+      "value": "游戏进度、设置和收藏保存在此设备上。游戏无需注册账户，也不会向服务器发送游戏分析数据。你可以在设置中删除进度，或清除应用数据。"
+    },
+    {
+      "key": "UI_PRIVACY_OPEN",
+      "value": "阅读完整政策"
+    }
+  ]
+}

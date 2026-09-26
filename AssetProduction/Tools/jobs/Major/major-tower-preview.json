@@ -1,0 +1,22 @@
+﻿{
+    "estimated_credits":  20,
+    "arguments":  [
+                      "text-to-3d",
+                      "create",
+                      "--mode",
+                      "preview",
+                      "--target-formats",
+                      "glb",
+                      "--async",
+                      "--prompt",
+                      "Premium original stylized mobile runner game asset: complete eight storey modern city office tower with rounded corners, navy window strips, pale blue facade, stepped rooftop and broad entrance, no text. Soft rounded bevels, chunky readable silhouette, clean toy proportions, complete isolated object, no scene, no characters, no logos, no text.",
+                      "--workspace",
+                      "C:\\Users\\user\\Desktop\\game 1\\AssetProduction\\02_Generated",
+                      "--output-schema",
+                      "v1",
+                      "--format",
+                      "json",
+                      "--no-update-check"
+                  ],
+    "id":  "major-tower-preview"
+}

@@ -1,0 +1,194 @@
+{
+    "assets": [
+        {
+            "id": "Obstacles/tax",
+            "triangles": 308,
+            "renderers": 3,
+            "size": {
+                "x": 1.7000000476837159,
+                "y": 1.4100000858306885,
+                "z": 0.699999988079071
+            }
+        },
+        {
+            "id": "Obstacles/police",
+            "triangles": 1932,
+            "renderers": 6,
+            "size": {
+                "x": 1.7845511436462403,
+                "y": 1.7450000047683716,
+                "z": 0.699999988079071
+            }
+        },
+        {
+            "id": "Obstacles/thief",
+            "triangles": 11300,
+            "renderers": 9,
+            "size": {
+                "x": 1.2149999141693116,
+                "y": 2.0929999351501467,
+                "z": 0.675000011920929
+            }
+        },
+        {
+            "id": "Obstacles/barrier",
+            "triangles": 308,
+            "renderers": 3,
+            "size": {
+                "x": 1.7845511436462403,
+                "y": 1.4100000858306885,
+                "z": 0.699999988079071
+            }
+        },
+        {
+            "id": "Obstacles/spinner",
+            "triangles": 1740,
+            "renderers": 4,
+            "size": {
+                "x": 2.56000018119812,
+                "y": 1.3000000715255738,
+                "z": 0.6500001549720764
+            }
+        },
+        {
+            "id": "Obstacles/safe",
+            "triangles": 300,
+            "renderers": 4,
+            "size": {
+                "x": 1.25,
+                "y": 1.2999999523162842,
+                "z": 1.4399998188018799
+            }
+        },
+        {
+            "id": "Obstacles/traffic",
+            "triangles": 716,
+            "renderers": 5,
+            "size": {
+                "x": 1.6600000858306885,
+                "y": 1.3350000381469727,
+                "z": 2.5250000953674318
+            }
+        },
+        {
+            "id": "Obstacles/wall",
+            "triangles": 264,
+            "renderers": 2,
+            "size": {
+                "x": 1.75,
+                "y": 2.5999999046325685,
+                "z": 0.3774999976158142
+            }
+        },
+        {
+            "id": "Obstacles/sign",
+            "triangles": 220,
+            "renderers": 3,
+            "size": {
+                "x": 1.4311840534210206,
+                "y": 2.4205923080444338,
+                "z": 0.550000011920929
+            }
+        },
+        {
+            "id": "Obstacles/closing",
+            "triangles": 308,
+            "renderers": 7,
+            "size": {
+                "x": 2.200000047683716,
+                "y": 2.619999885559082,
+                "z": 0.4000000059604645
+            }
+        },
+        {
+            "id": "Worlds/streets",
+            "triangles": 1012,
+            "renderers": 5,
+            "size": {
+                "x": 4.0,
+                "y": 4.260000228881836,
+                "z": 5.324999809265137
+            }
+        },
+        {
+            "id": "Worlds/downtown",
+            "triangles": 1980,
+            "renderers": 5,
+            "size": {
+                "x": 4.0,
+                "y": 9.260000228881836,
+                "z": 5.324999809265137
+            }
+        },
+        {
+            "id": "Worlds/business",
+            "triangles": 2860,
+            "renderers": 5,
+            "size": {
+                "x": 4.0,
+                "y": 12.260000228881836,
+                "z": 5.324999809265137
+            }
+        },
+        {
+            "id": "Worlds/luxury",
+            "triangles": 1452,
+            "renderers": 5,
+            "size": {
+                "x": 4.0,
+                "y": 6.930000305175781,
+                "z": 4.800000190734863
+            }
+        },
+        {
+            "id": "Worlds/island",
+            "triangles": 1056,
+            "renderers": 3,
+            "size": {
+                "x": 4.5,
+                "y": 3.6700000762939455,
+                "z": 6.125
+            }
+        },
+        {
+            "id": "Worlds/capital",
+            "triangles": 3700,
+            "renderers": 5,
+            "size": {
+                "x": 4.0,
+                "y": 24.0,
+                "z": 4.860000133514404
+            }
+        },
+        {
+            "id": "Worlds/bay",
+            "triangles": 1056,
+            "renderers": 4,
+            "size": {
+                "x": 4.5,
+                "y": 5.269999980926514,
+                "z": 6.125
+            }
+        },
+        {
+            "id": "Worlds/future",
+            "triangles": 2640,
+            "renderers": 5,
+            "size": {
+                "x": 3.950000047683716,
+                "y": 16.049999237060548,
+                "z": 4.75
+            }
+        },
+        {
+            "id": "Worlds/gold",
+            "triangles": 3436,
+            "renderers": 5,
+            "size": {
+                "x": 4.0,
+                "y": 24.0,
+                "z": 4.860000133514404
+            }
+        }
+    ]
+}

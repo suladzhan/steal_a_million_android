@@ -102,6 +102,8 @@ namespace StealAMillion.Core
     [Serializable]
     public sealed class SaveData
     {
+        public RunnerSave runner;
+        [NonSerialized] public bool loadedFromDisk;
         public int version = 1;
         public bool hasRun;
         public int decisionIndex;

@@ -1,0 +1,22 @@
+﻿{
+    "id":  "gate-crest-investment-v001",
+    "estimated_credits":  20,
+    "arguments":  [
+                      "text-to-3d",
+                      "create",
+                      "--mode",
+                      "preview",
+                      "--prompt",
+                      "Three ascending chunky chart bars and one broad upward growth arrow, clean beveled toy style, front-facing vertical shallow solid relief emblem, no letters or numbers, no pedestal, no scene, mobile game gateway crest",
+                      "--target-formats",
+                      "glb",
+                      "--async",
+                      "--workspace",
+                      "C:/Users/user/Desktop/game 1/AssetProduction/02_Generated",
+                      "--output-schema",
+                      "v1",
+                      "--format",
+                      "json",
+                      "--no-update-check"
+                  ]
+}

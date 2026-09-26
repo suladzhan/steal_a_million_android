@@ -94,6 +94,7 @@ namespace StealAMillion.Editor
 
         public static void EnsureReady()
         {
+            if (Resources.Load<RunnerConfig>("Runner/Balance") != null) { RunnerSetup.Validate(); return; }
             if (!IsReady()) Configure();
             else ValidateData();
         }

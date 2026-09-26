@@ -1,0 +1,70 @@
+﻿[
+    {
+        "value":  [
+                      {
+                          "job":  "anim-idle-wait",
+                          "resource":  "animate",
+                          "task_id":  "01a0d4c0-2c34-72c6-9642-5d525fcae9d6",
+                          "status":  "SUCCEEDED",
+                          "consumed_credits":  3
+                      },
+                      {
+                          "job":  "anim-preview-wait",
+                          "resource":  "animate",
+                          "task_id":  "01a0d4c0-95b9-75da-b9a9-02fb4a1b4cad",
+                          "status":  "SUCCEEDED",
+                          "consumed_credits":  3
+                      },
+                      {
+                          "job":  "anim-risk_win-wait",
+                          "resource":  "animate",
+                          "task_id":  "01a0d4c1-730b-7477-babb-b368c41c3d03",
+                          "status":  "SUCCEEDED",
+                          "consumed_credits":  3
+                      },
+                      {
+                          "job":  "anim-victory_backflip-wait",
+                          "resource":  "animate",
+                          "task_id":  "01a0d4c1-e76d-70b5-9dd7-800b26e930d6",
+                          "status":  "FAILED",
+                          "consumed_credits":  0
+                      },
+                      {
+                          "job":  "anim-victory_dance-wait",
+                          "resource":  "animate",
+                          "task_id":  "01a0d4c1-d69a-72ab-a377-e7d4380bc0d8",
+                          "status":  "SUCCEEDED",
+                          "consumed_credits":  3
+                      },
+                      {
+                          "job":  "anim-victory_jump-wait",
+                          "resource":  "animate",
+                          "task_id":  "01a0d4c1-ce26-739b-ade0-6077de01bc89",
+                          "status":  "SUCCEEDED",
+                          "consumed_credits":  3
+                      },
+                      {
+                          "job":  "anim-victory_money_rain-wait",
+                          "resource":  "animate",
+                          "task_id":  "01a0d4c1-dedc-7548-8f77-f044a588cb51",
+                          "status":  "SUCCEEDED",
+                          "consumed_credits":  3
+                      },
+                      {
+                          "job":  "runner-rig-wait",
+                          "resource":  "rigging",
+                          "task_id":  "01a0d4bc-f5bb-73d6-bcba-c385f8dc84bf",
+                          "status":  "SUCCEEDED",
+                          "consumed_credits":  5
+                      }
+                  ],
+        "Count":  8
+    },
+    {
+        "job":  "runner-model",
+        "resource":  "image-to-3d",
+        "task_id":  "01a0d30a-7e27-75b7-be63-7f2b493f5253",
+        "status":  "SUCCEEDED",
+        "consumed_credits":  15
+    }
+]

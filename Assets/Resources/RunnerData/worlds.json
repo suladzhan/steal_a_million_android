@@ -1,0 +1,85 @@
+{
+  "worlds": [
+    {
+      "id": "streets",
+      "title": "WORLD_streets",
+      "ground": "#75CE86",
+      "building": "#FFC77C",
+      "accent": "#3E78FF",
+      "level": 1,
+      "exponent": 0
+    },
+    {
+      "id": "downtown",
+      "title": "WORLD_downtown",
+      "ground": "#82CEA7",
+      "building": "#93B8EC",
+      "accent": "#FF8B70",
+      "level": 10,
+      "exponent": 3
+    },
+    {
+      "id": "business",
+      "title": "WORLD_business",
+      "ground": "#75C9C6",
+      "building": "#B8D8F1",
+      "accent": "#477DC8",
+      "level": 20,
+      "exponent": 4
+    },
+    {
+      "id": "luxury",
+      "title": "WORLD_luxury",
+      "ground": "#8CE0BD",
+      "building": "#FFEFDD",
+      "accent": "#B873EF",
+      "level": 30,
+      "exponent": 5
+    },
+    {
+      "id": "island",
+      "title": "WORLD_island",
+      "ground": "#46CDE0",
+      "building": "#FFFFFF",
+      "accent": "#FFD064",
+      "level": 50,
+      "exponent": 6
+    },
+    {
+      "id": "capital",
+      "title": "WORLD_capital",
+      "ground": "#8BD6BF",
+      "building": "#789DE0",
+      "accent": "#FFC928",
+      "level": 80,
+      "exponent": 8
+    },
+    {
+      "id": "bay",
+      "title": "WORLD_bay",
+      "ground": "#55CFDA",
+      "building": "#FBE7A2",
+      "accent": "#EFB32D",
+      "level": 120,
+      "exponent": 9
+    },
+    {
+      "id": "future",
+      "title": "WORLD_future",
+      "ground": "#86BED6",
+      "building": "#DBE9FA",
+      "accent": "#BF73F6",
+      "level": 180,
+      "exponent": 12
+    },
+    {
+      "id": "gold",
+      "title": "WORLD_gold",
+      "ground": "#AFE0D3",
+      "building": "#FFE390",
+      "accent": "#EBAF2B",
+      "level": 250,
+      "exponent": 14
+    }
+  ]
+}

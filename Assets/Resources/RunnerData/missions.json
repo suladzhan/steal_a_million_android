@@ -1,0 +1,544 @@
+{
+  "missions": [
+    {
+      "id": "mission_0",
+      "title": "MISSION_cash",
+      "metric": "cash",
+      "target": 50,
+      "coins": 35,
+      "xp": 50,
+      "achievement": false
+    },
+    {
+      "id": "mission_1",
+      "title": "MISSION_safe",
+      "metric": "safe",
+      "target": 10,
+      "coins": 35,
+      "xp": 50,
+      "achievement": false
+    },
+    {
+      "id": "mission_2",
+      "title": "MISSION_wins",
+      "metric": "wins",
+      "target": 3,
+      "coins": 35,
+      "xp": 50,
+      "achievement": false
+    },
+    {
+      "id": "mission_3",
+      "title": "MISSION_avoided",
+      "metric": "avoided",
+      "target": 10,
+      "coins": 35,
+      "xp": 50,
+      "achievement": false
+    },
+    {
+      "id": "mission_4",
+      "title": "MISSION_completed",
+      "metric": "completed",
+      "target": 5,
+      "coins": 35,
+      "xp": 50,
+      "achievement": false
+    },
+    {
+      "id": "mission_5",
+      "title": "MISSION_perfect",
+      "metric": "perfect",
+      "target": 2,
+      "coins": 35,
+      "xp": 50,
+      "achievement": false
+    },
+    {
+      "id": "mission_6",
+      "title": "MISSION_coins",
+      "metric": "coins",
+      "target": 100,
+      "coins": 35,
+      "xp": 50,
+      "achievement": false
+    },
+    {
+      "id": "mission_7",
+      "title": "MISSION_powers",
+      "metric": "powers",
+      "target": 5,
+      "coins": 35,
+      "xp": 50,
+      "achievement": false
+    },
+    {
+      "id": "mission_8",
+      "title": "MISSION_investments",
+      "metric": "investments",
+      "target": 3,
+      "coins": 35,
+      "xp": 50,
+      "achievement": false
+    },
+    {
+      "id": "mission_9",
+      "title": "MISSION_keys",
+      "metric": "keys",
+      "target": 3,
+      "coins": 35,
+      "xp": 50,
+      "achievement": false
+    },
+    {
+      "id": "mission_10",
+      "title": "MISSION_risks",
+      "metric": "risks",
+      "target": 8,
+      "coins": 35,
+      "xp": 50,
+      "achievement": false
+    },
+    {
+      "id": "mission_11",
+      "title": "MISSION_bonus",
+      "metric": "bonus",
+      "target": 2,
+      "coins": 35,
+      "xp": 50,
+      "achievement": false
+    },
+    {
+      "id": "mission_12",
+      "title": "MISSION_cash",
+      "metric": "cash",
+      "target": 100,
+      "coins": 45,
+      "xp": 50,
+      "achievement": false
+    },
+    {
+      "id": "mission_13",
+      "title": "MISSION_safe",
+      "metric": "safe",
+      "target": 20,
+      "coins": 45,
+      "xp": 50,
+      "achievement": false
+    },
+    {
+      "id": "mission_14",
+      "title": "MISSION_wins",
+      "metric": "wins",
+      "target": 6,
+      "coins": 45,
+      "xp": 50,
+      "achievement": false
+    },
+    {
+      "id": "mission_15",
+      "title": "MISSION_avoided",
+      "metric": "avoided",
+      "target": 20,
+      "coins": 45,
+      "xp": 50,
+      "achievement": false
+    },
+    {
+      "id": "mission_16",
+      "title": "MISSION_completed",
+      "metric": "completed",
+      "target": 10,
+      "coins": 45,
+      "xp": 50,
+      "achievement": false
+    },
+    {
+      "id": "mission_17",
+      "title": "MISSION_perfect",
+      "metric": "perfect",
+      "target": 4,
+      "coins": 45,
+      "xp": 50,
+      "achievement": false
+    },
+    {
+      "id": "mission_18",
+      "title": "MISSION_coins",
+      "metric": "coins",
+      "target": 200,
+      "coins": 45,
+      "xp": 50,
+      "achievement": false
+    },
+    {
+      "id": "mission_19",
+      "title": "MISSION_powers",
+      "metric": "powers",
+      "target": 10,
+      "coins": 45,
+      "xp": 50,
+      "achievement": false
+    },
+    {
+      "id": "mission_20",
+      "title": "MISSION_investments",
+      "metric": "investments",
+      "target": 6,
+      "coins": 45,
+      "xp": 50,
+      "achievement": false
+    },
+    {
+      "id": "mission_21",
+      "title": "MISSION_keys",
+      "metric": "keys",
+      "target": 6,
+      "coins": 45,
+      "xp": 50,
+      "achievement": false
+    },
+    {
+      "id": "mission_22",
+      "title": "MISSION_risks",
+      "metric": "risks",
+      "target": 16,
+      "coins": 45,
+      "xp": 50,
+      "achievement": false
+    },
+    {
+      "id": "mission_23",
+      "title": "MISSION_bonus",
+      "metric": "bonus",
+      "target": 4,
+      "coins": 45,
+      "xp": 50,
+      "achievement": false
+    },
+    {
+      "id": "mission_24",
+      "title": "MISSION_cash",
+      "metric": "cash",
+      "target": 150,
+      "coins": 55,
+      "xp": 50,
+      "achievement": false
+    },
+    {
+      "id": "mission_25",
+      "title": "MISSION_safe",
+      "metric": "safe",
+      "target": 30,
+      "coins": 55,
+      "xp": 50,
+      "achievement": false
+    },
+    {
+      "id": "mission_26",
+      "title": "MISSION_wins",
+      "metric": "wins",
+      "target": 9,
+      "coins": 55,
+      "xp": 50,
+      "achievement": false
+    },
+    {
+      "id": "mission_27",
+      "title": "MISSION_avoided",
+      "metric": "avoided",
+      "target": 30,
+      "coins": 55,
+      "xp": 50,
+      "achievement": false
+    },
+    {
+      "id": "mission_28",
+      "title": "MISSION_completed",
+      "metric": "completed",
+      "target": 15,
+      "coins": 55,
+      "xp": 50,
+      "achievement": false
+    },
+    {
+      "id": "mission_29",
+      "title": "MISSION_perfect",
+      "metric": "perfect",
+      "target": 6,
+      "coins": 55,
+      "xp": 50,
+      "achievement": false
+    },
+    {
+      "id": "mission_30",
+      "title": "MISSION_coins",
+      "metric": "coins",
+      "target": 300,
+      "coins": 55,
+      "xp": 50,
+      "achievement": false
+    },
+    {
+      "id": "mission_31",
+      "title": "MISSION_powers",
+      "metric": "powers",
+      "target": 15,
+      "coins": 55,
+      "xp": 50,
+      "achievement": false
+    },
+    {
+      "id": "mission_32",
+      "title": "MISSION_investments",
+      "metric": "investments",
+      "target": 9,
+      "coins": 55,
+      "xp": 50,
+      "achievement": false
+    },
+    {
+      "id": "mission_33",
+      "title": "MISSION_keys",
+      "metric": "keys",
+      "target": 9,
+      "coins": 55,
+      "xp": 50,
+      "achievement": false
+    },
+    {
+      "id": "mission_34",
+      "title": "MISSION_risks",
+      "metric": "risks",
+      "target": 24,
+      "coins": 55,
+      "xp": 50,
+      "achievement": false
+    },
+    {
+      "id": "mission_35",
+      "title": "MISSION_bonus",
+      "metric": "bonus",
+      "target": 6,
+      "coins": 55,
+      "xp": 50,
+      "achievement": false
+    },
+    {
+      "id": "wealth_3",
+      "title": "MISSION_wealth",
+      "metric": "wealth",
+      "target": 3,
+      "coins": 65,
+      "xp": 100,
+      "achievement": true
+    },
+    {
+      "id": "wealth_4",
+      "title": "MISSION_wealth",
+      "metric": "wealth",
+      "target": 4,
+      "coins": 70,
+      "xp": 100,
+      "achievement": true
+    },
+    {
+      "id": "wealth_5",
+      "title": "MISSION_wealth",
+      "metric": "wealth",
+      "target": 5,
+      "coins": 75,
+      "xp": 100,
+      "achievement": true
+    },
+    {
+      "id": "wealth_6",
+      "title": "MISSION_wealth",
+      "metric": "wealth",
+      "target": 6,
+      "coins": 80,
+      "xp": 100,
+      "achievement": true
+    },
+    {
+      "id": "wealth_7",
+      "title": "MISSION_wealth",
+      "metric": "wealth",
+      "target": 7,
+      "coins": 85,
+      "xp": 100,
+      "achievement": true
+    },
+    {
+      "id": "wealth_8",
+      "title": "MISSION_wealth",
+      "metric": "wealth",
+      "target": 8,
+      "coins": 90,
+      "xp": 100,
+      "achievement": true
+    },
+    {
+      "id": "wealth_9",
+      "title": "MISSION_wealth",
+      "metric": "wealth",
+      "target": 9,
+      "coins": 95,
+      "xp": 100,
+      "achievement": true
+    },
+    {
+      "id": "wealth_10",
+      "title": "MISSION_wealth",
+      "metric": "wealth",
+      "target": 10,
+      "coins": 100,
+      "xp": 100,
+      "achievement": true
+    },
+    {
+      "id": "wealth_11",
+      "title": "MISSION_wealth",
+      "metric": "wealth",
+      "target": 11,
+      "coins": 105,
+      "xp": 100,
+      "achievement": true
+    },
+    {
+      "id": "wealth_12",
+      "title": "MISSION_wealth",
+      "metric": "wealth",
+      "target": 12,
+      "coins": 110,
+      "xp": 100,
+      "achievement": true
+    },
+    {
+      "id": "wealth_14",
+      "title": "MISSION_wealth",
+      "metric": "wealth",
+      "target": 14,
+      "coins": 120,
+      "xp": 100,
+      "achievement": true
+    },
+    {
+      "id": "wealth_18",
+      "title": "MISSION_wealth",
+      "metric": "wealth",
+      "target": 18,
+      "coins": 140,
+      "xp": 100,
+      "achievement": true
+    },
+    {
+      "id": "achievement_risks",
+      "title": "MISSION_risks",
+      "metric": "risks",
+      "target": 50,
+      "coins": 100,
+      "xp": 120,
+      "achievement": true
+    },
+    {
+      "id": "achievement_safe",
+      "title": "MISSION_safe",
+      "metric": "safe",
+      "target": 50,
+      "coins": 100,
+      "xp": 120,
+      "achievement": true
+    },
+    {
+      "id": "achievement_rareWins",
+      "title": "MISSION_rareWins",
+      "metric": "rareWins",
+      "target": 3,
+      "coins": 100,
+      "xp": 120,
+      "achievement": true
+    },
+    {
+      "id": "achievement_perfect",
+      "title": "MISSION_perfect",
+      "metric": "perfect",
+      "target": 10,
+      "coins": 100,
+      "xp": 120,
+      "achievement": true
+    },
+    {
+      "id": "achievement_collection",
+      "title": "MISSION_collection",
+      "metric": "collection",
+      "target": 12,
+      "coins": 100,
+      "xp": 120,
+      "achievement": true
+    },
+    {
+      "id": "achievement_wins",
+      "title": "MISSION_wins",
+      "metric": "wins",
+      "target": 30,
+      "coins": 100,
+      "xp": 120,
+      "achievement": true
+    },
+    {
+      "id": "achievement_combo",
+      "title": "MISSION_combo",
+      "metric": "combo",
+      "target": 30,
+      "coins": 100,
+      "xp": 120,
+      "achievement": true
+    },
+    {
+      "id": "achievement_completed",
+      "title": "MISSION_completed",
+      "metric": "completed",
+      "target": 50,
+      "coins": 100,
+      "xp": 120,
+      "achievement": true
+    },
+    {
+      "id": "achievement_cash",
+      "title": "MISSION_cash",
+      "metric": "cash",
+      "target": 1000,
+      "coins": 100,
+      "xp": 120,
+      "achievement": true
+    },
+    {
+      "id": "achievement_jackpots",
+      "title": "MISSION_jackpots",
+      "metric": "jackpots",
+      "target": 3,
+      "coins": 100,
+      "xp": 120,
+      "achievement": true
+    },
+    {
+      "id": "achievement_bonus",
+      "title": "MISSION_bonus",
+      "metric": "bonus",
+      "target": 5,
+      "coins": 100,
+      "xp": 120,
+      "achievement": true
+    },
+    {
+      "id": "achievement_keys",
+      "title": "MISSION_keys",
+      "metric": "keys",
+      "target": 30,
+      "coins": 100,
+      "xp": 120,
+      "achievement": true
+    }
+  ]
+}

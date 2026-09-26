@@ -18,3 +18,9 @@ Assets/Scenes/Workspace.unity*
 *.VC.db
 *.keystore
 *.jks
+
+# Local asset-generation intermediates and tooling checkout
+/AssetProduction/02_Generated/
+/Get-Game-Done_Android/
+*.blend1
+*.blend2

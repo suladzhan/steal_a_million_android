@@ -1,0 +1,22 @@
+﻿{
+    "estimated_credits":  5,
+    "arguments":  [
+                      "rigging",
+                      "create",
+                      "--model-url",
+                      "C:\\Users\\user\\Desktop\\game 1\\AssetProduction\\02_Generated\\Major\\20260926_160857_female_01a0ddd5\\female__mobile.glb",
+                      "--height-meters",
+                      "1.8",
+                      "--async",
+                      "--project",
+                      "C:\\Users\\user\\Desktop\\game 1\\AssetProduction\\02_Generated\\Major\\20260926_160857_female_01a0ddd5",
+                      "--stage",
+                      "rigging-welded-v2",
+                      "--output-schema",
+                      "v1",
+                      "--format",
+                      "json",
+                      "--no-update-check"
+                  ],
+    "id":  "major-female-rig-welded-v2"
+}

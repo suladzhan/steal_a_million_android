@@ -1,0 +1,16 @@
+{
+  "id": "animation-catalog",
+  "arguments": [
+    "animation-catalog",
+    "list",
+    "--save-json",
+    "C:/Users/user/Desktop/game 1/AssetProduction/02_Generated/animation_catalog.json",
+    "--workspace",
+    "C:/Users/user/Desktop/game 1/AssetProduction/02_Generated",
+    "--output-schema",
+    "v1",
+    "--format",
+    "json",
+    "--no-update-check"
+  ]
+}

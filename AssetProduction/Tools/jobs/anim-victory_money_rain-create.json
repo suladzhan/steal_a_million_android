@@ -1,0 +1,24 @@
+{
+  "id": "anim-victory_money_rain-create",
+  "estimated_credits": 3,
+  "arguments": [
+    "animate",
+    "create",
+    "--rig-task-id",
+    "01a0d4bc-f5bb-73d6-bcba-c385f8dc84bf",
+    "--action-id",
+    "298",
+    "--async",
+    "--project",
+    "C:/Users/user/Desktop/game 1/AssetProduction/02_Generated/meshy_output/20260924_135132_char-runner-v001_01a0d30a",
+    "--stage",
+    "animation_victory_money_rain",
+    "--workspace",
+    "C:/Users/user/Desktop/game 1/AssetProduction/02_Generated",
+    "--output-schema",
+    "v1",
+    "--format",
+    "json",
+    "--no-update-check"
+  ]
+}

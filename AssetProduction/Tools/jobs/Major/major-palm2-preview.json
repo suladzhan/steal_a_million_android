@@ -1,0 +1,22 @@
+﻿{
+    "estimated_credits":  20,
+    "arguments":  [
+                      "text-to-3d",
+                      "create",
+                      "--mode",
+                      "preview",
+                      "--target-formats",
+                      "glb",
+                      "--async",
+                      "--prompt",
+                      "Premium original stylized mobile runner game asset: one single cartoon coconut palm, tall bare curved brown trunk, leaves ONLY at the very top, exactly six long simple smooth green fronds in one umbrella crown, NO banana leaves, NO foliage around trunk, no ground or pot. Soft rounded bevels, chunky readable silhouette, clean toy proportions, complete isolated object, no scene, no characters, no logos, no text.",
+                      "--workspace",
+                      "C:\\Users\\user\\Desktop\\game 1\\AssetProduction\\02_Generated",
+                      "--output-schema",
+                      "v1",
+                      "--format",
+                      "json",
+                      "--no-update-check"
+                  ],
+    "id":  "major-palm2-preview"
+}

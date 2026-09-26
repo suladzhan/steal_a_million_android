@@ -1,0 +1,21 @@
+{
+  "asset_id": "vault_neon",
+  "status": "Exported",
+  "triangles": 2352,
+  "triangle_budget": 3000,
+  "within_triangle_budget": true,
+  "materials": 1,
+  "bounds_unity_metres": {
+    "width": 4.799999952316284,
+    "height": 4.0,
+    "depth": 2.915000081062317
+  },
+  "source": "Original parameterized Blender geometry; build_models.py",
+  "palette": "../Shared/SAM_palette__v001.png",
+  "blender_version": "4.5.12 LTS",
+  "date": "2026-09-24",
+  "credits": 0,
+  "mesh_objects": 3,
+  "notes": "DoorHinge local pivot: Unity (-1.6,2,-1.4); separate door and wheel.",
+  "qa": "Blender counts only; pending FBX reimport, Unity, Android and visual approval."
+}

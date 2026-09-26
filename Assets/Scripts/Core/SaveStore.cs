@@ -11,6 +11,7 @@ namespace StealAMillion.Core
         private readonly Func<SaveData, string> encode;
         private readonly Func<string, SaveData> decode;
         public string LastError { get; private set; }
+        public bool LoadedValidSave { get; private set; }
 
         public SaveStore(string file, Func<SaveData, string> serialize, Func<string, SaveData> deserialize)
         {
@@ -22,7 +23,8 @@ namespace StealAMillion.Core
         public SaveData Load()
         {
             SaveData data;
-            if (TryRead(path, out data) || TryRead(path + ".bak", out data)) return data;
+            LoadedValidSave = TryRead(path, out data) || TryRead(path + ".bak", out data);
+            if (LoadedValidSave) return data;
             return new SaveData();
         }
 
@@ -54,10 +56,10 @@ namespace StealAMillion.Core
             }
         }
 
-        public bool Reset()
+        public bool Reset(SaveData fresh = null)
         {
             // Write fresh progress to both generations so old progress cannot reappear on recovery.
-            var fresh = new SaveData();
+            fresh = fresh ?? new SaveData();
             return Write(fresh) && Write(fresh);
         }
 
@@ -70,7 +72,7 @@ namespace StealAMillion.Core
                 string[] parts = File.ReadAllText(file).Split(new[] { '\n' }, 3);
                 if (parts.Length != 3 || parts[0] != "SAM1" || parts[1] != Digest(parts[2])) return false;
                 data = decode(parts[2]);
-                return data != null && data.version == 1;
+                return data != null && (data.version == 1 || data.version == 2);
             }
             catch (Exception e)
             {

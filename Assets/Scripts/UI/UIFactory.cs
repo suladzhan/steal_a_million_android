@@ -15,6 +15,15 @@ namespace StealAMillion
         public static readonly Color Red = Hex("#F18A92");
         public static readonly Color Gold = Hex("#F4CA68");
         private static Sprite rounded;
+        private static Material surfaceMaterial;
+        public static Material SurfaceMaterial
+        {
+            get
+            {
+                if (surfaceMaterial == null) surfaceMaterial = Resources.Load<Material>("Runner/Materials/UI");
+                return surfaceMaterial;
+            }
+        }
 
         public static Color Hex(string code) { Color value; return ColorUtility.TryParseHtmlString(code, out value) ? value : White; }
 
@@ -32,6 +41,7 @@ namespace StealAMillion
         public static Image Panel(Transform parent, string name, Color color, float x, float y, float w, float h, bool round = false)
         {
             var image = Rect(parent, name, x, y, w, h).gameObject.AddComponent<Image>();
+            image.material = SurfaceMaterial;
             image.color = color;
             image.raycastTarget = false;
             if (round) { image.sprite = Rounded(); image.type = Image.Type.Sliced; }
@@ -64,6 +74,9 @@ namespace StealAMillion
             var panel = Panel(parent, text, background, x, y, w, h, true);
             panel.raycastTarget = true;
             var button = panel.gameObject.AddComponent<Button>();
+            var face=Resources.Load<Sprite>("Runner/UI/ButtonFace-v001");
+            if(face!=null){panel.sprite=face;panel.type=Image.Type.Sliced;}
+            var shadow=panel.gameObject.AddComponent<Shadow>();shadow.effectColor=new Color(.03f,.12f,.22f,.3f);shadow.effectDistance=new Vector2(0,-3);shadow.useGraphicAlpha=true;
             button.targetGraphic = panel;
             var colors = button.colors;
             colors.highlightedColor = new Color(.92f, .95f, .94f);
@@ -80,6 +93,7 @@ namespace StealAMillion
         public static GameArt Art(Transform parent, ArtKind kind, Color color, float x, float y, float w, float h)
         {
             var art = Rect(parent, kind.ToString(), x, y, w, h).gameObject.AddComponent<GameArt>();
+            art.material = SurfaceMaterial;
             art.kind = kind;
             art.color = color;
             art.raycastTarget = false;
@@ -89,6 +103,8 @@ namespace StealAMillion
         private static Sprite Rounded()
         {
             if (rounded != null) return rounded;
+            rounded=Resources.Load<Sprite>("Runner/UI/UI_panel");
+            if(rounded!=null)return rounded;
             const int size = 32;
             const float radius = 7;
             var texture = new Texture2D(size, size, TextureFormat.RGBA32, false);

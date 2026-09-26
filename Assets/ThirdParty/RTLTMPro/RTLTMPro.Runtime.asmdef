@@ -1,0 +1,5 @@
+{
+  "name": "RTLTMPro.Runtime",
+  "references": ["Unity.TextMeshPro"],
+  "autoReferenced": true
+}

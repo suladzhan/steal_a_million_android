@@ -1,0 +1,21 @@
+{
+  "asset_id": "ENV_streets_house",
+  "status": "Exported",
+  "triangles": 604,
+  "triangle_budget": 2000,
+  "within_triangle_budget": true,
+  "materials": 1,
+  "bounds_unity_metres": {
+    "width": 3.718374252319336,
+    "height": 5.174796104431152,
+    "depth": 2.799999952316284
+  },
+  "source": "Original parameterized Blender geometry; build_models.py",
+  "palette": "../Shared/SAM_palette__v001.png",
+  "blender_version": "4.5.12 LTS",
+  "date": "2026-09-24",
+  "credits": 0,
+  "mesh_objects": 1,
+  "notes": "",
+  "qa": "Blender counts only; pending FBX reimport, Unity, Android and visual approval."
+}

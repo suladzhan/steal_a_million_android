@@ -1,6 +1,7 @@
 param(
     [Parameter(Mandatory = $true)][string]$UnityPath,
-    [switch]$Visual
+    [switch]$Visual,
+    [string]$TestFilter
 )
 $ErrorActionPreference = 'Stop'
 $projectRoot = Split-Path -Parent $PSScriptRoot
@@ -8,7 +9,8 @@ if (-not (Test-Path -LiteralPath $UnityPath)) { throw 'Unity.exe was not found a
 $resultsDirectory = Join-Path $projectRoot 'TestResults'
 New-Item -ItemType Directory -Force -Path $resultsDirectory | Out-Null
 $reportName = if ($Visual) { 'unity-visual' } else { 'unity-editmode' }
-$filter = if ($Visual) { 'StealAMillion.Tests.VisualFlowTests' } else { 'StealAMillion.Tests.GameSessionTests' }
+$filter = if ($Visual) { 'StealAMillion.Tests.VisualFlowTests' } else { 'StealAMillion.Tests' }
+if($TestFilter){$filter=$TestFilter}
 $platform = if ($Visual) { 'PlayMode' } else { 'EditMode' }
 $arguments = @('-batchmode', '-projectPath', ('"' + $projectRoot + '"'), '-runTests', '-testPlatform', $platform, '-testFilter', $filter, '-testResults', ('"' + (Join-Path $resultsDirectory ($reportName + '.xml')) + '"'), '-logFile', ('"' + (Join-Path $resultsDirectory ($reportName + '.log')) + '"'))
 if (-not $Visual) { $arguments += '-nographics' }

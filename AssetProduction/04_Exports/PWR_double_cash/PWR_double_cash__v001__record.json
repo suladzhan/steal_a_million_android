@@ -1,0 +1,21 @@
+{
+  "asset_id": "PWR_double_cash",
+  "status": "Exported",
+  "triangles": 616,
+  "triangle_budget": 2500,
+  "within_triangle_budget": true,
+  "materials": 1,
+  "bounds_unity_metres": {
+    "width": 0.7979999780654907,
+    "height": 0.3657499849796295,
+    "depth": 0.4927999973297119
+  },
+  "source": "Original parameterized Blender geometry; build_models.py",
+  "palette": "../Shared/SAM_palette__v001.png",
+  "blender_version": "5.2.2 LTS",
+  "date": "2026-09-25",
+  "credits": 0,
+  "mesh_objects": 1,
+  "notes": "Visual only; no collider or baked gameplay text.",
+  "qa": "Blender counts only; pending FBX reimport, Unity, Android and visual approval."
+}

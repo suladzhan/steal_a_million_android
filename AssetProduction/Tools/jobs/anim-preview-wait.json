@@ -1,0 +1,21 @@
+﻿{
+    "id":  "anim-preview-wait",
+    "arguments":  [
+                      "animate",
+                      "wait",
+                      "01a0d4c0-95b9-75da-b9a9-02fb4a1b4cad",
+                      "--timeout",
+                      "600",
+                      "--project",
+                      "C:/Users/user/Desktop/game 1/AssetProduction/02_Generated/meshy_output/20260924_135132_char-runner-v001_01a0d30a",
+                      "--stage",
+                      "anim-preview-wait",
+                      "--workspace",
+                      "C:/Users/user/Desktop/game 1/AssetProduction/02_Generated",
+                      "--output-schema",
+                      "v1",
+                      "--format",
+                      "json",
+                      "--no-update-check"
+                  ]
+}

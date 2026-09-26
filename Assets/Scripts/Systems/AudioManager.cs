@@ -5,7 +5,7 @@ using UnityEngine;
 
 namespace StealAMillion
 {
-    public enum SoundCue { Click, Safe, Risk, Win, Loss, Jackpot, Level, Victory, GameOver }
+    public enum SoundCue { Click, Safe, Risk, Win, Loss, Jackpot, Level, Victory, GameOver, Cash, Police }
 
     public sealed class AudioManager : MonoBehaviour
     {
@@ -13,6 +13,7 @@ namespace StealAMillion
         private AudioSource effects;
         private AudioSource music;
         private SaveData settings;
+        private float lastCash=-10;private int cashPitch;private bool generatedMusic;
 
         public void Initialize(SaveData data)
         {
@@ -23,8 +24,10 @@ namespace StealAMillion
             music = gameObject.AddComponent<AudioSource>();
             music.playOnAwake = false;
             music.loop = true;
-            music.volume = .065f;
+            music.volume = .14f;
             clips[SoundCue.Click] = Tone("click", new[] { 700f }, .04f);
+            clips[SoundCue.Cash] = Tone("cash", new[] { 1100f, 1400f }, .04f);
+            clips[SoundCue.Police] = Tone("police", new[] { 680f, 420f, 680f }, .1f);
             clips[SoundCue.Safe] = Tone("safe", new[] { 392f, 523f }, .11f);
             clips[SoundCue.Risk] = Tone("risk", new[] { 220f, 247f, 262f }, .14f);
             clips[SoundCue.Win] = Tone("win", new[] { 523f, 659f, 784f }, .10f);
@@ -33,7 +36,8 @@ namespace StealAMillion
             clips[SoundCue.Level] = Tone("level", new[] { 659f, 784f }, .12f);
             clips[SoundCue.Victory] = Tone("victory", new[] { 523f, 659f, 784f, 1047f, 784f, 1047f }, .17f);
             clips[SoundCue.GameOver] = Tone("game over", new[] { 262f, 220f, 175f, 131f }, .16f);
-            music.clip = Tone("night shift", new[] { 130.81f, 164.81f, 196f, 164.81f, 110f, 146.83f, 174.61f, 146.83f }, .75f);
+            music.clip=Resources.Load<AudioClip>("Runner/Audio/music-v002");generatedMusic=music.clip==null;
+            if(generatedMusic)music.clip = Tone("night shift", new[] { 130.81f, 164.81f, 196f, 164.81f, 110f, 146.83f, 174.61f, 146.83f }, .75f);
             Refresh();
         }
 
@@ -45,9 +49,11 @@ namespace StealAMillion
         }
 
         public void SetSettings(SaveData data) { settings = data; Refresh(); }
+        public void Duck(bool value) { if (music != null) music.volume = value ? .035f : .14f; }
 
         public void Play(SoundCue cue)
         {
+            if(cue==SoundCue.Cash){if(Time.unscaledTime-lastCash<.055f)return;lastCash=Time.unscaledTime;effects.pitch=.96f+(cashPitch++%4)*.025f;}else effects.pitch=1;
             AudioClip clip;
             if (settings != null && settings.soundEnabled && clips.TryGetValue(cue, out clip) && clip != null)
                 effects.PlayOneShot(clip);
@@ -74,7 +80,7 @@ namespace StealAMillion
         private void OnDestroy()
         {
             foreach (var clip in clips.Values) if (clip != null) Destroy(clip);
-            if (music != null && music.clip != null) Destroy(music.clip);
+            if (generatedMusic && music != null && music.clip != null) Destroy(music.clip);
         }
     }
 }

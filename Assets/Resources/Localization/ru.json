@@ -1,0 +1,1051 @@
+{
+  "code": "ru",
+  "name": "ru",
+  "rtl": false,
+  "entries": [
+    {
+      "key": "UI_TITLE",
+      "value": "STEAL A MILLION"
+    },
+    {
+      "key": "UI_PLAY",
+      "value": "ИГРАТЬ"
+    },
+    {
+      "key": "UI_CONTINUE",
+      "value": "ПРОДОЛЖИТЬ"
+    },
+    {
+      "key": "UI_SHOP",
+      "value": "МАГАЗИН"
+    },
+    {
+      "key": "UI_MISSIONS",
+      "value": "ЗАДАНИЯ"
+    },
+    {
+      "key": "UI_PROFILE",
+      "value": "ПРОФИЛЬ"
+    },
+    {
+      "key": "UI_SETTINGS",
+      "value": "НАСТРОЙКИ"
+    },
+    {
+      "key": "UI_WORLDS",
+      "value": "МИРЫ"
+    },
+    {
+      "key": "UI_LEVEL",
+      "value": "УРОВЕНЬ {0}"
+    },
+    {
+      "key": "UI_PLAYER_LEVEL",
+      "value": "ИГРОК: УРОВЕНЬ {0}"
+    },
+    {
+      "key": "UI_PAUSE",
+      "value": "ПАУЗА"
+    },
+    {
+      "key": "UI_RESUME",
+      "value": "ПРОДОЛЖИТЬ"
+    },
+    {
+      "key": "UI_MENU",
+      "value": "ГЛАВНОЕ МЕНЮ"
+    },
+    {
+      "key": "UI_RETRY",
+      "value": "ЕЩЁ РАЗ"
+    },
+    {
+      "key": "UI_NEXT",
+      "value": "СЛЕДУЮЩИЙ УРОВЕНЬ"
+    },
+    {
+      "key": "UI_FINISH",
+      "value": "УРОВЕНЬ ПРОЙДЕН"
+    },
+    {
+      "key": "UI_BROKE",
+      "value": "БАНКРОТ!"
+    },
+    {
+      "key": "UI_COINS",
+      "value": "МОНЕТЫ: {0}"
+    },
+    {
+      "key": "UI_XP",
+      "value": "+{0} ОПЫТА"
+    },
+    {
+      "key": "UI_TARGET",
+      "value": "{0} / {1}"
+    },
+    {
+      "key": "UI_BUY",
+      "value": "КУПИТЬ: {0}"
+    },
+    {
+      "key": "UI_EQUIP",
+      "value": "НАДЕТЬ"
+    },
+    {
+      "key": "UI_EQUIPPED",
+      "value": "ВЫБРАНО"
+    },
+    {
+      "key": "UI_OWNED",
+      "value": "КУПЛЕНО"
+    },
+    {
+      "key": "UI_LOCKED",
+      "value": "ЗАКРЫТО"
+    },
+    {
+      "key": "UI_REQUIREMENT",
+      "value": "ЭТАП {0} / ИГРОК {1} / {2}"
+    },
+    {
+      "key": "UI_BACK",
+      "value": "НАЗАД"
+    },
+    {
+      "key": "UI_SOUND",
+      "value": "ЗВУК"
+    },
+    {
+      "key": "UI_MUSIC",
+      "value": "МУЗЫКА"
+    },
+    {
+      "key": "UI_HAPTICS",
+      "value": "ВИБРАЦИЯ"
+    },
+    {
+      "key": "UI_LANGUAGE",
+      "value": "ЯЗЫК"
+    },
+    {
+      "key": "UI_AUTO",
+      "value": "АВТОМАТИЧЕСКИ"
+    },
+    {
+      "key": "UI_RESET",
+      "value": "СБРОСИТЬ ПРОГРЕСС"
+    },
+    {
+      "key": "UI_RESET_CONFIRM",
+      "value": "Сбросить весь прогресс?"
+    },
+    {
+      "key": "UI_RESET_BODY",
+      "value": "Деньги, покупки и статистика будут сброшены."
+    },
+    {
+      "key": "UI_CANCEL",
+      "value": "ОТМЕНА"
+    },
+    {
+      "key": "UI_CONFIRM",
+      "value": "ПОДТВЕРДИТЬ"
+    },
+    {
+      "key": "UI_ENDLESS",
+      "value": "БЕСКОНЕЧНЫЙ ЗАБЕГ"
+    },
+    {
+      "key": "UI_ENDLESS_LOCK",
+      "value": "БЕСКОНЕЧНЫЙ: УРОВЕНЬ {0}"
+    },
+    {
+      "key": "UI_DISTANCE",
+      "value": "{0} м"
+    },
+    {
+      "key": "UI_PRACTICE",
+      "value": "ТРЕНИРОВКА"
+    },
+    {
+      "key": "UI_BONUS",
+      "value": "БОНУСНОЕ ХРАНИЛИЩЕ"
+    },
+    {
+      "key": "UI_KEYS",
+      "value": "КЛЮЧИ: {0}/3"
+    },
+    {
+      "key": "UI_SECOND_CHANCE",
+      "value": "ВТОРОЙ ШАНС · ТЕСТ РЕКЛАМЫ"
+    },
+    {
+      "key": "UI_DOUBLE_COINS",
+      "value": "УДВОИТЬ МОНЕТЫ · ТЕСТ"
+    },
+    {
+      "key": "UI_AD_WAIT",
+      "value": "ТЕСТОВАЯ НАГРАДА…"
+    },
+    {
+      "key": "UI_SAVE_ERROR",
+      "value": "Не удалось сохранить прогресс."
+    },
+    {
+      "key": "UI_DAILY",
+      "value": "НА СЕГОДНЯ"
+    },
+    {
+      "key": "UI_ACHIEVEMENTS",
+      "value": "ДОСТИЖЕНИЯ"
+    },
+    {
+      "key": "UI_CLAIM",
+      "value": "ЗАБРАТЬ"
+    },
+    {
+      "key": "UI_CLAIMED",
+      "value": "ПОЛУЧЕНО"
+    },
+    {
+      "key": "UI_PROGRESS",
+      "value": "{0} / {1}"
+    },
+    {
+      "key": "UI_COLLECTION",
+      "value": "КОЛЛЕКЦИЯ {0}/{1}"
+    },
+    {
+      "key": "UI_BEST",
+      "value": "РЕКОРД {0}"
+    },
+    {
+      "key": "UI_RANK",
+      "value": "РАНГ БОГАТСТВА"
+    },
+    {
+      "key": "UI_WEALTH",
+      "value": "ТЕКУЩЕЕ СОСТОЯНИЕ"
+    },
+    {
+      "key": "UI_HIGHEST",
+      "value": "РЕКОРДНОЕ СОСТОЯНИЕ"
+    },
+    {
+      "key": "UI_TOTAL_EARNED",
+      "value": "ВСЕГО ЗАРАБОТАНО"
+    },
+    {
+      "key": "UI_BIGGEST",
+      "value": "КРУПНЕЙШАЯ НАГРАДА"
+    },
+    {
+      "key": "UI_COMPLETED",
+      "value": "ПРОЙДЕНО УРОВНЕЙ"
+    },
+    {
+      "key": "UI_RISKS",
+      "value": "РИСКОВЫХ ВОРОТ"
+    },
+    {
+      "key": "UI_WINS",
+      "value": "УСПЕШНЫХ РИСКОВ"
+    },
+    {
+      "key": "UI_WIN_RATE",
+      "value": "ДОЛЯ УСПЕХОВ"
+    },
+    {
+      "key": "UI_SAFE",
+      "value": "БЕЗОПАСНЫХ ВОРОТ"
+    },
+    {
+      "key": "UI_CASH",
+      "value": "СОБРАНО ПАЧЕК"
+    },
+    {
+      "key": "UI_COINS_EARNED",
+      "value": "ЗАРАБОТАНО МОНЕТ"
+    },
+    {
+      "key": "UI_SKINS",
+      "value": "ПЕРСОНАЖЕЙ В КОЛЛЕКЦИИ"
+    },
+    {
+      "key": "UI_ENDLESS_BEST",
+      "value": "РЕКОРД БЕСКОНЕЧНОГО ЗАБЕГА"
+    },
+    {
+      "key": "UI_NEW_WORLD",
+      "value": "ОТКРЫТ НОВЫЙ МИР"
+    },
+    {
+      "key": "UI_MILESTONE",
+      "value": "НОВАЯ ВЕРШИНА"
+    },
+    {
+      "key": "UI_MILESTONE_VALUE",
+      "value": "У ВАС {0}"
+    },
+    {
+      "key": "UI_MILLIONAIRE",
+      "value": "МИЛЛИОНЕР!"
+    },
+    {
+      "key": "UI_BILLIONAIRE",
+      "value": "МИЛЛИАРДЕР!"
+    },
+    {
+      "key": "UI_TRILLIONAIRE",
+      "value": "ТРИЛЛИОНЕР!"
+    },
+    {
+      "key": "UI_FIRST_THOUSAND",
+      "value": "ПЕРВАЯ ТЫСЯЧА!"
+    },
+    {
+      "key": "UI_SIX_FIGURES",
+      "value": "ШЕСТЬ ЗНАКОВ!"
+    },
+    {
+      "key": "UI_SWIPE",
+      "value": "СВАЙПАЙ ДЛЯ ДВИЖЕНИЯ"
+    },
+    {
+      "key": "UI_CHOOSE",
+      "value": "ВЫБЕРИ СВОЙ ПУТЬ"
+    },
+    {
+      "key": "UI_COMBO",
+      "value": "КОМБО: {0} ПАЧЕК"
+    },
+    {
+      "key": "UI_RESULT_WIN",
+      "value": "РИСК ОПРАВДАН!"
+    },
+    {
+      "key": "UI_RESULT_LOSS",
+      "value": "РИСК НЕ УДАЛСЯ!"
+    },
+    {
+      "key": "UI_CHANCE",
+      "value": "УСПЕХ: {0}%"
+    },
+    {
+      "key": "UI_LOSS",
+      "value": "ПОТЕРЯ: {0}%"
+    },
+    {
+      "key": "UI_INVEST_RETURN",
+      "value": "ВОЗВРАТ +50%"
+    },
+    {
+      "key": "UI_BUSINESS_RETURN",
+      "value": "ВОЗВРАТ +80%"
+    },
+    {
+      "key": "UI_FINISH_GATE",
+      "value": "ФИНИШ"
+    },
+    {
+      "key": "UI_STARS",
+      "value": "{0} / 3"
+    },
+    {
+      "key": "UI_SCORE",
+      "value": "ОЧКИ: {0}"
+    },
+    {
+      "key": "UI_SEED",
+      "value": "СИД: {0}"
+    },
+    {
+      "key": "UI_EXIT_ENDLESS",
+      "value": "ЗАВЕРШИТЬ ЗАБЕГ"
+    },
+    {
+      "key": "UI_CASH_OUT",
+      "value": "ЗАБРАТЬ {0}"
+    },
+    {
+      "key": "UI_CHAIN",
+      "value": "ЦЕПОЧКА: {0}"
+    },
+    {
+      "key": "UI_MARKET_ODDS",
+      "value": "20% x5\n50% +20%\n30% -25%"
+    },
+    {
+      "key": "UI_SHIELDED",
+      "value": "ЗАЩИЩЕНО!"
+    },
+    {
+      "key": "UI_NOT_ENOUGH",
+      "value": "НЕДОСТАТОЧНО МОНЕТ"
+    },
+    {
+      "key": "UI_WORLD_LOCK",
+      "value": "УРОВЕНЬ {0} ИЛИ {1}"
+    },
+    {
+      "key": "UI_REPLAY",
+      "value": "ПОВТОРИТЬ"
+    },
+    {
+      "key": "UI_NEW_RUN_CONFIRM",
+      "value": "Начать новый забег?"
+    },
+    {
+      "key": "UI_NEW_RUN_BODY",
+      "value": "Текущий результат будет сохранён."
+    },
+    {
+      "key": "UI_GRAPHICS",
+      "value": "ГРАФИКА"
+    },
+    {
+      "key": "UI_HIGH",
+      "value": "ВЫСОКАЯ"
+    },
+    {
+      "key": "UI_LOW",
+      "value": "НИЗКАЯ"
+    },
+    {
+      "key": "SLOT_Character",
+      "value": "ПЕРСОНАЖИ"
+    },
+    {
+      "key": "SLOT_Outfit",
+      "value": "ОДЕЖДА"
+    },
+    {
+      "key": "SLOT_Trail",
+      "value": "СЛЕДЫ"
+    },
+    {
+      "key": "SLOT_MoneyEffect",
+      "value": "ЭФФЕКТЫ ДЕНЕГ"
+    },
+    {
+      "key": "SLOT_Victory",
+      "value": "ПОБЕДА"
+    },
+    {
+      "key": "SLOT_Vault",
+      "value": "ХРАНИЛИЩА"
+    },
+    {
+      "key": "SLOT_Gate",
+      "value": "ЭФФЕКТЫ ВОРОТ"
+    },
+    {
+      "key": "GATE_Safe",
+      "value": "НАДЁЖНО"
+    },
+    {
+      "key": "GATE_Risk",
+      "value": "РИСК"
+    },
+    {
+      "key": "GATE_AddMoney",
+      "value": "ДЕНЬГИ"
+    },
+    {
+      "key": "GATE_SubtractMoney",
+      "value": "СБОР"
+    },
+    {
+      "key": "GATE_Multiplier",
+      "value": "МНОЖИТЕЛЬ"
+    },
+    {
+      "key": "GATE_Tax",
+      "value": "НАЛОГ"
+    },
+    {
+      "key": "GATE_Investment",
+      "value": "ИНВЕСТИЦИЯ"
+    },
+    {
+      "key": "GATE_Business",
+      "value": "БИЗНЕС"
+    },
+    {
+      "key": "GATE_Market",
+      "value": "РЫНОК"
+    },
+    {
+      "key": "GATE_Insurance",
+      "value": "СТРАХОВКА"
+    },
+    {
+      "key": "GATE_Shield",
+      "value": "ЩИТ"
+    },
+    {
+      "key": "GATE_Luck",
+      "value": "УДАЧА +{0}%"
+    },
+    {
+      "key": "GATE_Mystery",
+      "value": "СЮРПРИЗ"
+    },
+    {
+      "key": "GATE_Jackpot",
+      "value": "ДЖЕКПОТ"
+    },
+    {
+      "key": "GATE_DoubleOrNothing",
+      "value": "ВСЁ ИЛИ НИЧЕГО"
+    },
+    {
+      "key": "GATE_CashOut",
+      "value": "ЗАБРАТЬ"
+    },
+    {
+      "key": "GATE_RiskChain",
+      "value": "ЦЕПОЧКА РИСКА"
+    },
+    {
+      "key": "GATE_Bonus",
+      "value": "БОНУС"
+    },
+    {
+      "key": "GATE_KeyGate",
+      "value": "КЛЮЧ"
+    },
+    {
+      "key": "POWER_Shield",
+      "value": "ЩИТ"
+    },
+    {
+      "key": "POWER_Magnet",
+      "value": "МАГНИТ"
+    },
+    {
+      "key": "POWER_Luck",
+      "value": "УДАЧА +{0}%"
+    },
+    {
+      "key": "POWER_DoubleCash",
+      "value": "ДЕНЬГИ x2"
+    },
+    {
+      "key": "POWER_SlowMotion",
+      "value": "ЗАМЕДЛЕНИЕ"
+    },
+    {
+      "key": "OBSTACLE_tax",
+      "value": "НАЛОГ"
+    },
+    {
+      "key": "OBSTACLE_police",
+      "value": "ПОЛИЦИЯ"
+    },
+    {
+      "key": "OBSTACLE_thief",
+      "value": "ВОР"
+    },
+    {
+      "key": "OBSTACLE_barrier",
+      "value": "БАРЬЕР"
+    },
+    {
+      "key": "OBSTACLE_spinner",
+      "value": "ОСТОРОЖНО"
+    },
+    {
+      "key": "OBSTACLE_safe",
+      "value": "СЕЙФ"
+    },
+    {
+      "key": "OBSTACLE_traffic",
+      "value": "ДВИЖЕНИЕ"
+    },
+    {
+      "key": "OBSTACLE_wall",
+      "value": "НАЛОГОВАЯ СТЕНА"
+    },
+    {
+      "key": "OBSTACLE_sign",
+      "value": "ЗНАК"
+    },
+    {
+      "key": "OBSTACLE_closing",
+      "value": "ЗАСЛОН"
+    },
+    {
+      "key": "RANK_0",
+      "value": "БЕЗ ГРОША"
+    },
+    {
+      "key": "RANK_1",
+      "value": "ПРЕДПРИИМЧИВЫЙ"
+    },
+    {
+      "key": "RANK_2",
+      "value": "ДОБЫТЧИК"
+    },
+    {
+      "key": "RANK_3",
+      "value": "БОГАЧ"
+    },
+    {
+      "key": "RANK_4",
+      "value": "МИЛЛИОНЕР"
+    },
+    {
+      "key": "RANK_5",
+      "value": "МУЛЬТИМИЛЛИОНЕР"
+    },
+    {
+      "key": "RANK_6",
+      "value": "МАГНАТ"
+    },
+    {
+      "key": "RANK_7",
+      "value": "МИЛЛИАРДЕР"
+    },
+    {
+      "key": "RANK_8",
+      "value": "ОЛИГАРХ"
+    },
+    {
+      "key": "RANK_9",
+      "value": "СОЗДАТЕЛЬ ИМПЕРИИ"
+    },
+    {
+      "key": "RANK_10",
+      "value": "ТРИЛЛИОНЕР"
+    },
+    {
+      "key": "RANK_11",
+      "value": "ЛЕГЕНДА"
+    },
+    {
+      "key": "MISSION_cash",
+      "value": "СОБЕРИ ПАЧКИ: {0}"
+    },
+    {
+      "key": "MISSION_safe",
+      "value": "ВЫБЕРИ НАДЁЖНЫЙ ПУТЬ: {0}"
+    },
+    {
+      "key": "MISSION_risks",
+      "value": "ПРОЙДИ РИСКОВЫЕ ВОРОТА: {0}"
+    },
+    {
+      "key": "MISSION_wins",
+      "value": "ВЫИГРАЙ РИСК: {0}"
+    },
+    {
+      "key": "MISSION_avoided",
+      "value": "ОБОЙДИ ПРЕПЯТСТВИЯ: {0}"
+    },
+    {
+      "key": "MISSION_completed",
+      "value": "ПРОЙДИ УРОВНИ: {0}"
+    },
+    {
+      "key": "MISSION_perfect",
+      "value": "ЗАБЕГИ БЕЗ СТОЛКНОВЕНИЙ: {0}"
+    },
+    {
+      "key": "MISSION_coins",
+      "value": "ЗАРАБОТАЙ МОНЕТЫ: {0}"
+    },
+    {
+      "key": "MISSION_powers",
+      "value": "ПРИМЕНИ УСИЛЕНИЯ: {0}"
+    },
+    {
+      "key": "MISSION_investments",
+      "value": "СДЕЛАЙ ИНВЕСТИЦИИ: {0}"
+    },
+    {
+      "key": "MISSION_keys",
+      "value": "СОБЕРИ КЛЮЧИ: {0}"
+    },
+    {
+      "key": "MISSION_bonus",
+      "value": "ПРОЙДИ БОНУСНЫЕ ЗАБЕГИ: {0}"
+    },
+    {
+      "key": "MISSION_rareWins",
+      "value": "ПОБЕДЫ С НИЗКИМ ШАНСОМ: {0}"
+    },
+    {
+      "key": "MISSION_combo",
+      "value": "СОБЕРИ КОМБО: {0}"
+    },
+    {
+      "key": "MISSION_wealth",
+      "value": "ДОСТИГНИ {0}"
+    },
+    {
+      "key": "MISSION_collection",
+      "value": "СОБЕРИ ПРЕДМЕТЫ: {0}"
+    },
+    {
+      "key": "LANG_en",
+      "value": "English"
+    },
+    {
+      "key": "LANG_ru",
+      "value": "Русский"
+    },
+    {
+      "key": "LANG_tr",
+      "value": "Türkçe"
+    },
+    {
+      "key": "LANG_de",
+      "value": "Deutsch"
+    },
+    {
+      "key": "LANG_ar",
+      "value": "العربية"
+    },
+    {
+      "key": "LANG_zh",
+      "value": "简体中文"
+    },
+    {
+      "key": "LANG_es",
+      "value": "Español"
+    },
+    {
+      "key": "LANG_pt",
+      "value": "Português"
+    },
+    {
+      "key": "LANG_fr",
+      "value": "Français"
+    },
+    {
+      "key": "LANG_it",
+      "value": "Italiano"
+    },
+    {
+      "key": "LANG_pl",
+      "value": "Polski"
+    },
+    {
+      "key": "LANG_uk",
+      "value": "Українська"
+    },
+    {
+      "key": "LANG_hi",
+      "value": "हिन्दी"
+    },
+    {
+      "key": "LANG_id",
+      "value": "Bahasa Indonesia"
+    },
+    {
+      "key": "LANG_vi",
+      "value": "Tiếng Việt"
+    },
+    {
+      "key": "LANG_th",
+      "value": "ไทย"
+    },
+    {
+      "key": "LANG_ja",
+      "value": "日本語"
+    },
+    {
+      "key": "LANG_ko",
+      "value": "한국어"
+    },
+    {
+      "key": "LANG_zh_Hant",
+      "value": "繁體中文"
+    },
+    {
+      "key": "WORLD_streets",
+      "value": "УЛИЦЫ"
+    },
+    {
+      "key": "WORLD_downtown",
+      "value": "ЦЕНТР ГОРОДА"
+    },
+    {
+      "key": "WORLD_business",
+      "value": "ДЕЛОВОЙ КВАРТАЛ"
+    },
+    {
+      "key": "WORLD_luxury",
+      "value": "ЭЛИТНЫЙ РАЙОН"
+    },
+    {
+      "key": "WORLD_island",
+      "value": "ОСТРОВ МИЛЛИОНЕРОВ"
+    },
+    {
+      "key": "WORLD_capital",
+      "value": "ФИНАНСОВАЯ СТОЛИЦА"
+    },
+    {
+      "key": "WORLD_bay",
+      "value": "ЗАЛИВ МИЛЛИАРДЕРОВ"
+    },
+    {
+      "key": "WORLD_future",
+      "value": "ГОРОД БУДУЩЕГО"
+    },
+    {
+      "key": "WORLD_gold",
+      "value": "ЗОЛОТОЙ ГОРОД"
+    },
+    {
+      "key": "ITEM_runner",
+      "value": "ОБЫЧНЫЙ"
+    },
+    {
+      "key": "ITEM_street",
+      "value": "УЛИЧНЫЙ"
+    },
+    {
+      "key": "ITEM_businessman",
+      "value": "БИЗНЕСМЕН"
+    },
+    {
+      "key": "ITEM_businesswoman",
+      "value": "БИЗНЕСВУМЕН"
+    },
+    {
+      "key": "ITEM_sport",
+      "value": "СПОРТСМЕН"
+    },
+    {
+      "key": "ITEM_gold_runner",
+      "value": "ЗОЛОТОЙ БЕГУН"
+    },
+    {
+      "key": "ITEM_millionaire",
+      "value": "МИЛЛИОНЕР"
+    },
+    {
+      "key": "ITEM_billionaire",
+      "value": "МИЛЛИАРДЕР"
+    },
+    {
+      "key": "ITEM_neon",
+      "value": "НЕОН"
+    },
+    {
+      "key": "ITEM_king",
+      "value": "КОРОЛЬ ДЕНЕГ"
+    },
+    {
+      "key": "ITEM_outfit_classic",
+      "value": "КЛАССИКА"
+    },
+    {
+      "key": "ITEM_outfit_coral",
+      "value": "КОРАЛЛ"
+    },
+    {
+      "key": "ITEM_outfit_mint",
+      "value": "МЯТА"
+    },
+    {
+      "key": "ITEM_dust",
+      "value": "ПЫЛЬ"
+    },
+    {
+      "key": "ITEM_cash_trail",
+      "value": "КУПЮРЫ"
+    },
+    {
+      "key": "ITEM_coin_trail",
+      "value": "МОНЕТЫ"
+    },
+    {
+      "key": "ITEM_gold_trail",
+      "value": "ЗОЛОТОЙ СЛЕД"
+    },
+    {
+      "key": "ITEM_neon_trail",
+      "value": "НЕОНОВЫЙ СЛЕД"
+    },
+    {
+      "key": "ITEM_rainbow_trail",
+      "value": "РАДУГА"
+    },
+    {
+      "key": "ITEM_cash_green",
+      "value": "ЗЕЛЁНЫЕ КУПЮРЫ"
+    },
+    {
+      "key": "ITEM_cash_gold",
+      "value": "ЗОЛОТЫЕ КУПЮРЫ"
+    },
+    {
+      "key": "ITEM_cash_neon",
+      "value": "НЕОНОВЫЕ КУПЮРЫ"
+    },
+    {
+      "key": "ITEM_cash_blue",
+      "value": "ЦИФРОВЫЕ ДЕНЬГИ"
+    },
+    {
+      "key": "ITEM_cash_rainbow",
+      "value": "РАДУЖНЫЕ КУПЮРЫ"
+    },
+    {
+      "key": "ITEM_cash_spark",
+      "value": "ДЕНЕЖНЫЕ ИСКРЫ"
+    },
+    {
+      "key": "ITEM_jump",
+      "value": "ПРЫЖОК"
+    },
+    {
+      "key": "ITEM_dance",
+      "value": "ТАНЕЦ"
+    },
+    {
+      "key": "ITEM_money_rain",
+      "value": "ДЕНЕЖНЫЙ ДОЖДЬ"
+    },
+    {
+      "key": "ITEM_backflip",
+      "value": "САЛЬТО"
+    },
+    {
+      "key": "ITEM_gold_pose",
+      "value": "ЗОЛОТАЯ ПОЗА"
+    },
+    {
+      "key": "ITEM_tornado",
+      "value": "ДЕНЕЖНЫЙ ВИХРЬ"
+    },
+    {
+      "key": "ITEM_vault_classic",
+      "value": "КЛАССИЧЕСКИЙ СЕЙФ"
+    },
+    {
+      "key": "ITEM_vault_gold",
+      "value": "ЗОЛОТОЙ СЕЙФ"
+    },
+    {
+      "key": "ITEM_vault_diamond",
+      "value": "АЛМАЗНЫЙ СЕЙФ"
+    },
+    {
+      "key": "ITEM_vault_neon",
+      "value": "НЕОНОВЫЙ СЕЙФ"
+    },
+    {
+      "key": "ITEM_gate_classic",
+      "value": "ОБЫЧНЫЕ ВОРОТА"
+    },
+    {
+      "key": "ITEM_gate_spark",
+      "value": "ИСКРЯЩИЕСЯ ВОРОТА"
+    },
+    {
+      "key": "ITEM_gate_confetti",
+      "value": "КОНФЕТТИ"
+    },
+    {
+      "key": "MISSION_jackpots",
+      "value": "ВЫИГРАЙ ДЖЕКПОТ: {0}"
+    },
+    {
+      "key": "LEVEL_1",
+      "value": "КАРМАННЫЕ ДЕНЬГИ"
+    },
+    {
+      "key": "LEVEL_2",
+      "value": "ПЕРЕУЛОК"
+    },
+    {
+      "key": "LEVEL_3",
+      "value": "СИНИЕ МАЯЧКИ"
+    },
+    {
+      "key": "LEVEL_4",
+      "value": "НЕМНОГО УДАЧИ"
+    },
+    {
+      "key": "LEVEL_5",
+      "value": "ЗОЛОТОЙ ШАНС"
+    },
+    {
+      "key": "LEVEL_6",
+      "value": "ПЕРЕХОД"
+    },
+    {
+      "key": "LEVEL_7",
+      "value": "БЕЗОПАСНОСТЬ ПРЕЖДЕ ВСЕГО"
+    },
+    {
+      "key": "LEVEL_8",
+      "value": "ДВЕ ДОРОГИ"
+    },
+    {
+      "key": "LEVEL_9",
+      "value": "ЛОВКИЕ РУКИ"
+    },
+    {
+      "key": "LEVEL_10",
+      "value": "ЦЕНТР ГОРОДА"
+    },
+    {
+      "key": "LEVEL_11",
+      "value": "ПОТОК МАШИН"
+    },
+    {
+      "key": "LEVEL_12",
+      "value": "УМНЫЙ ВКЛАД"
+    },
+    {
+      "key": "LEVEL_13",
+      "value": "ГОРОДСКИЕ МОСТЫ"
+    },
+    {
+      "key": "LEVEL_14",
+      "value": "ВРЕМЯ НАЛОГОВ"
+    },
+    {
+      "key": "LEVEL_15",
+      "value": "ДВОЙНОЙ РИСК"
+    },
+    {
+      "key": "LEVEL_16",
+      "value": "КЛЮЧИ ОТ СЕЙФА"
+    },
+    {
+      "key": "LEVEL_17",
+      "value": "ДЕНЬГИ РАБОТАЮТ"
+    },
+    {
+      "key": "LEVEL_18",
+      "value": "ОТКРЫТЫЙ РЫНОК"
+    },
+    {
+      "key": "LEVEL_19",
+      "value": "ГЛАВНАЯ УЛИЦА"
+    },
+    {
+      "key": "LEVEL_20",
+      "value": "ДЕНЕЖНАЯ ЛИХОРАДКА"
+    },
+    {
+      "key": "UI_PRIVACY",
+      "value": "Конфиденциальность"
+    },
+    {
+      "key": "UI_PRIVACY_BODY",
+      "value": "Прогресс, настройки и коллекция хранятся на этом устройстве. Игра не требует регистрации и не отправляет игровую аналитику на сервер. Удалить прогресс можно в настройках игры или очистив данные приложения."
+    },
+    {
+      "key": "UI_PRIVACY_OPEN",
+      "value": "Полная политика"
+    }
+  ]
+}

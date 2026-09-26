@@ -1,0 +1,21 @@
+{
+  "asset_id": "PWR_slow_motion",
+  "status": "Exported",
+  "triangles": 660,
+  "triangle_budget": 2500,
+  "within_triangle_budget": true,
+  "materials": 1,
+  "bounds_unity_metres": {
+    "width": 0.6800000071525574,
+    "height": 0.8300000205636024,
+    "depth": 0.23250003159046173
+  },
+  "source": "Original parameterized Blender geometry; build_models.py",
+  "palette": "../Shared/SAM_palette__v001.png",
+  "blender_version": "5.2.2 LTS",
+  "date": "2026-09-25",
+  "credits": 0,
+  "mesh_objects": 1,
+  "notes": "Visual only; no collider or baked gameplay text.",
+  "qa": "Blender counts only; pending FBX reimport, Unity, Android and visual approval."
+}

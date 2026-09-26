@@ -1,0 +1,21 @@
+{
+  "id": "runner-rig-download",
+  "arguments": [
+    "download",
+    "--resource",
+    "rigging",
+    "--task-id",
+    "01a0d4bc-f5bb-73d6-bcba-c385f8dc84bf",
+    "--asset",
+    "result.rigged_character_glb_url",
+    "--output",
+    "C:/Users/user/Desktop/game 1/AssetProduction/02_Generated/CHAR_runner/CHAR_runner__v001__rigged.glb",
+    "--workspace",
+    "C:/Users/user/Desktop/game 1/AssetProduction/02_Generated",
+    "--output-schema",
+    "v1",
+    "--format",
+    "json",
+    "--no-update-check"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "asset_id": "GATE_frame",
+  "status": "Exported",
+  "triangles": 264,
+  "triangle_budget": 1500,
+  "within_triangle_budget": true,
+  "materials": 1,
+  "bounds_unity_metres": {
+    "width": 3.559999942779541,
+    "height": 4.779999732971191,
+    "depth": 0.6399999856948853
+  },
+  "source": "Original parameterized Blender geometry; build_models.py",
+  "palette": "../Shared/SAM_palette__v001.png",
+  "blender_version": "4.5.12 LTS",
+  "date": "2026-09-24",
+  "credits": 0,
+  "mesh_objects": 1,
+  "notes": "Blank TMP anchors retained. No collider in FBX.",
+  "qa": "Blender counts only; pending FBX reimport, Unity, Android and visual approval."
+}

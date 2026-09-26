@@ -1,0 +1,23 @@
+﻿{
+    "id":  "anim-risk_win-download",
+    "arguments":  [
+                      "download",
+                      "--task-json",
+                      "C:/Users/user/Desktop/game 1/AssetProduction/02_Generated/meshy_output/20260924_135132_char-runner-v001_01a0d30a/task_01a0d4c1-730b-7477-babb-b368c41c3d03.json",
+                      "--asset",
+                      "result.animation_glb_url",
+                      "--output",
+                      "C:/Users/user/Desktop/game 1/AssetProduction/02_Generated/CHAR_runner/ANIM_risk_win__v001.glb",
+                      "--project",
+                      "C:/Users/user/Desktop/game 1/AssetProduction/02_Generated/meshy_output/20260924_135132_char-runner-v001_01a0d30a",
+                      "--stage",
+                      "animation_risk_win",
+                      "--workspace",
+                      "C:/Users/user/Desktop/game 1/AssetProduction/02_Generated",
+                      "--output-schema",
+                      "v1",
+                      "--format",
+                      "json",
+                      "--no-update-check"
+                  ]
+}

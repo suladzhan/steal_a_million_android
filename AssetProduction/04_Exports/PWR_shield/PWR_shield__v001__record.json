@@ -1,0 +1,21 @@
+{
+  "asset_id": "PWR_shield",
+  "status": "Exported",
+  "triangles": 132,
+  "triangle_budget": 2500,
+  "within_triangle_budget": true,
+  "materials": 1,
+  "bounds_unity_metres": {
+    "width": 0.7172279953956604,
+    "height": 0.8310169158503413,
+    "depth": 0.1795000061392784
+  },
+  "source": "Original parameterized Blender geometry; build_models.py",
+  "palette": "../Shared/SAM_palette__v001.png",
+  "blender_version": "5.2.2 LTS",
+  "date": "2026-09-25",
+  "credits": 0,
+  "mesh_objects": 1,
+  "notes": "Visual only; no collider or baked gameplay text.",
+  "qa": "Blender counts only; pending FBX reimport, Unity, Android and visual approval."
+}

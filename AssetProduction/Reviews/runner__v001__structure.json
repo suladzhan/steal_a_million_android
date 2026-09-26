@@ -1,0 +1,147 @@
+[
+  {
+    "file": "ANIM_idle__v001.glb",
+    "bytes": 5783940,
+    "triangles": 8055,
+    "materials": 1,
+    "joints": [
+      24
+    ],
+    "weighted_primitives": 1,
+    "animations": [
+      {
+        "name": "Armature|Idle|baselayer",
+        "channels": 72,
+        "duration": 4.0
+      }
+    ]
+  },
+  {
+    "file": "ANIM_preview__v001.glb",
+    "bytes": 5803764,
+    "triangles": 8055,
+    "materials": 1,
+    "joints": [
+      24
+    ],
+    "weighted_primitives": 1,
+    "animations": [
+      {
+        "name": "Armature|Big_Wave_Hello|baselayer",
+        "channels": 72,
+        "duration": 5.333333333333333
+      }
+    ]
+  },
+  {
+    "file": "ANIM_risk_win__v001.glb",
+    "bytes": 5754304,
+    "triangles": 8055,
+    "materials": 1,
+    "joints": [
+      24
+    ],
+    "weighted_primitives": 1,
+    "animations": [
+      {
+        "name": "Armature|Victory_Fist_Pump|baselayer",
+        "channels": 72,
+        "duration": 1.5333333333333332
+      }
+    ]
+  },
+  {
+    "file": "ANIM_run__v001.glb",
+    "bytes": 5743160,
+    "triangles": 8055,
+    "materials": 1,
+    "joints": [
+      24
+    ],
+    "weighted_primitives": 1,
+    "animations": [
+      {
+        "name": "Armature|running|baselayer",
+        "channels": 72,
+        "duration": 0.6333333333333333
+      }
+    ]
+  },
+  {
+    "file": "ANIM_victory_dance__v001.glb",
+    "bytes": 5819448,
+    "triangles": 8055,
+    "materials": 1,
+    "joints": [
+      24
+    ],
+    "weighted_primitives": 1,
+    "animations": [
+      {
+        "name": "Armature|Joyful_Dance_with_Hand_Sway|baselayer",
+        "channels": 72,
+        "duration": 6.566666666666666
+      }
+    ]
+  },
+  {
+    "file": "ANIM_victory_jump__v001.glb",
+    "bytes": 5853952,
+    "triangles": 8055,
+    "materials": 1,
+    "joints": [
+      24
+    ],
+    "weighted_primitives": 1,
+    "animations": [
+      {
+        "name": "Armature|happy_jump_m|baselayer",
+        "channels": 72,
+        "duration": 9.833333333333334
+      }
+    ]
+  },
+  {
+    "file": "ANIM_victory_money_rain__v001.glb",
+    "bytes": 5758704,
+    "triangles": 8055,
+    "materials": 1,
+    "joints": [
+      24
+    ],
+    "weighted_primitives": 1,
+    "animations": [
+      {
+        "name": "Armature|Cheer_with_Both_Hands_Up|baselayer",
+        "channels": 72,
+        "duration": 1.9
+      }
+    ]
+  },
+  {
+    "file": "CHAR_runner__v001__model.glb",
+    "bytes": 2985580,
+    "triangles": 8070,
+    "materials": 1,
+    "joints": [],
+    "weighted_primitives": 0,
+    "animations": []
+  },
+  {
+    "file": "CHAR_runner__v001__rigged.glb",
+    "bytes": 5734996,
+    "triangles": 8055,
+    "materials": 1,
+    "joints": [
+      24
+    ],
+    "weighted_primitives": 1,
+    "animations": [
+      {
+        "name": "Armature|clip0|baselayer",
+        "channels": 72,
+        "duration": 0.0
+      }
+    ]
+  }
+]

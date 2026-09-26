@@ -3,7 +3,7 @@ using UnityEngine.UI;
 
 namespace StealAMillion
 {
-    public enum ArtKind { Vault, Coin, Pause, Back, Settings, Shield, Bolt, Check, Cross }
+    public enum ArtKind { Vault, Coin, Pause, Back, Settings, Shield, Bolt, Check, Cross, Star }
 
     [RequireComponent(typeof(CanvasRenderer))]
     public sealed class GameArt : MaskableGraphic
@@ -48,7 +48,8 @@ namespace StealAMillion
                 }
                 return;
             }
-            if (kind == ArtKind.Coin)
+            if(kind==ArtKind.Star){for(int i=0;i<10;i++){float a=Mathf.PI*.5f+i*Mathf.PI/5,b=a+Mathf.PI/5;float first=i%2==0?.46f:.21f,second=i%2==0?.21f:.46f;Triangle(vh,origin,origin+new Vector2(Mathf.Cos(a),Mathf.Sin(a))*size*first,origin+new Vector2(Mathf.Cos(b),Mathf.Sin(b))*size*second,color);}}
+            else if (kind == ArtKind.Coin)
             {
                 Circle(vh, origin, size * .45f, color);
                 Circle(vh, origin, size * .32f, Shadow);
